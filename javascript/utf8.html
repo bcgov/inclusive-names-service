@@ -1,0 +1,59 @@
+<html>
+    <head>
+        <title>Javascript</title>
+    </head>
+    <body>
+        <input type="file" id="file-input" />
+        <pre id="content"></pre>
+    </body>
+    <script>
+        function readSingleFile(e) {
+            var file = e.target.files[0];
+            if (!file) {
+                return;
+            }
+            
+            var bufferreader = new FileReader();
+            bufferreader.onload = function(){
+                let result = bufferreader.result;
+                let delim = result.indexOf("\r\n") >= 0 ? "\r\n" : "\n";
+
+                result = result.split(delim);
+                var content = ""
+                for (let i=0; i<result.length; i++){
+                    line = result[i];
+                    if (line){
+                        let grapheme = [...new Intl.Segmenter().segment(line)];
+                        let joinedGSegments = grapheme.map(seg => {
+                            return seg.segment;
+                        })
+                        content += "String: " + line
+                        content += "\nString type: " + typeof(line);
+                        content += "\nList: " + line.split('');
+                        content += "\nSeventh Character: " + line[6]
+                        content += "\nGrapheme(s)" + joinedGSegments.join(', ');
+                        content += "\nLength: " + line.length + " List Length: " + line.split('').length + " Grapheme(s) length: " + grapheme.length + "\n\n";
+                    }
+                }
+                var element = document.getElementById('content');
+                element.textContent = content;
+
+                element = document.createElement('a');
+                element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(content));
+                element.setAttribute('download', 'output.txt');
+
+                element.style.display = 'none';
+                document.body.appendChild(element);
+
+                element.click();
+
+                document.body.removeChild(element);
+            }
+            bufferreader.readAsText(file);
+        }
+
+        document.getElementById('file-input')
+            .addEventListener('change', readSingleFile, false);
+
+</script>
+</html>

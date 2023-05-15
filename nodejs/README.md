@@ -1,0 +1,1 @@
+Tested on nodejs 16.20.0 (lts/gallium) older versions might not have segmenter for graphemes
