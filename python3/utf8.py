@@ -25,8 +25,11 @@ with open("../utf8.txt",encoding="utf-8",mode="r") as exampleFile:
 
         graphemeArr = regex.findall(r'\X', line, regex.U)
         graphemes = u", ".join(graphemeArr)
-        output.write("Grapheme(s): " + graphemes + "\n\n")
-        print("Grapheme(s): " + graphemes + "\n")
+        output.write("Grapheme(s): " + graphemes)
+        print("Grapheme(s): " + graphemes, end = '')
+
+        output.write("Grapheme(s) Length: " + str(len(graphemeArr)) + "\n\n")
+        print("Grapheme(s) Length: " + str(len(graphemeArr)) + "\n")
 output.close()
 exampleFile.close()
 

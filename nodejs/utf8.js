@@ -17,7 +17,7 @@ for (let i=0; i<result.length; i++){
         content += "\nList: " + line.split('');
         content += "\nSeventh Character: " + line[6]
         content += "\nGrapheme(s)" + joinedGSegments.join(', ');
-        content += "\nLength: " + line.length + " List Length: " + line.split('').length + " Grapheme(s) length: " + grapheme.length + "\n\n";
+        content += "\nLength: " + line.length + "\nList Length: " + line.split('').length + "\nGrapheme(s) length: " + grapheme.length + "\n\n";
     }
 }
 console.log(content);
