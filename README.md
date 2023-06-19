@@ -5,4 +5,4 @@ Repository of code and other information useful to software developers and syste
 
 All examples use the utf8.txt file in this parent directory as the file they read from so you can make similar files or use/modify that one (basically one entry per line)
 
-Currently has javascript/nodejs/python2/python3/go working examples, c/c++/c#/java, gotchas and databases to come
+Currently has javascript/nodejs/python2/python3/go/c/c++/c#/java working examples, gotchas and databases to come
