@@ -2,3 +2,5 @@ Graphemes are totally doable in C++ but the exercise is left in charge of the re
 
 The library that looked the best was ICU
 https://icu.unicode.org/
+
+Compiled with g++ `g++ -std=c++17 utf8.cpp`

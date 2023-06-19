@@ -2,3 +2,5 @@ Graphemes are totally doable in C but the exercise is left in charge of the read
 
 The library that looked the best was ICU
 https://icu.unicode.org/
+
+Compiled with gcc `gcc utf8.c`
