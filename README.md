@@ -10,3 +10,8 @@ Currently has javascript/nodejs/python2/python3/go/c/c++/c#/java working example
 ## Common Gotchas
 This section is for common gotchas that are not language specific
 - Even with using only UTF-8 it's even more important to parse user provided text as a SINGLE utf-8 character can be infinitely large as there is no limit to how many combining marks can be in one character
+
+## Appendices
+[Glossary](glossary.md)
+
+[For Further Reading](references.md)
