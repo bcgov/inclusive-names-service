@@ -1,0 +1,3 @@
+# Install fontTools into a virtual environment
+# Then run check_bc_sans.py using Python 3
+venv\scripts\python check_bc_sans.py c:\windows\Fonts\BCSans-Regular.ttf
