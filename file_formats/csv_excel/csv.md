@@ -5,7 +5,7 @@ In Notepad, the Unicode values in the right-most column (BAND-NAME) appear to re
 
 ![UTF-8 (without BOM) CSV file as it appears in Notepad](./csv_in_notepad.png)
  
-### Rendering of UTF-8 CSV file in Excel
+#### Rendering of UTF-8 CSV file in Excel
 However, when the file is opened in Excel, the rendering is erroneous:
 
 ![UTF-8 (without BOM) CSV file as it appears in Excel](./csv_in_excel_before.png)

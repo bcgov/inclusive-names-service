@@ -1,0 +1,15 @@
+
+------------------
+Order Details
+-----------------
+Order ID: 2306686
+Date: 20230816
+
+----------------------
+Feature Types
+-----------------------
+ - Indian Reserves and Band Names - Administrative Boundaries in directory DMNDNRSRVS
+
+----------------------------
+Packaged Products
+----------------------------

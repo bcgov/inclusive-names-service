@@ -6,7 +6,9 @@ The following CSV files can be used in testing for Indigenous language support:
 | ------------- | ------------- |
 | [Geographical Names](./bcgnis_nonascii.csv)  | BCGW: WHSE_BASEMAPPING.GNS_GEOGRAPHICAL_NAMES_SP  |
 | [Ethno-Historic Sites](./ethno_historic_sites.csv)  | BCGW: WHSE_HUMAN_CULTURAL_ECONOMIC.FN_ETH_HIST_RPT_SITES_POINT <br> BCGW: WHSE_HUMAN_CULTURAL_ECONOMIC.FN_ETH_HIST_RPT_SITES_POLY |
-| [IR Band Names](./ir_bands.csv)  | BCGW: WHSE_ADMIN_BOUNDARIES.ADM_INDIAN_RESERVES_BANDS_SP  |
+| [IR Band Names (csv)](./ir_bands.csv)  | BCGW: WHSE_ADMIN_BOUNDARIES.ADM_INDIAN_RESERVES_BANDS_SP  |
+| [IR Band Names (shapefile)](./ADM_INDIAN_RESERVES_BANDS_SP/)  | BCGW: WHSE_ADMIN_BOUNDARIES.ADM_INDIAN_RESERVES_BANDS_SP  |
+| [IR Band Names (dbf)](./ADM_INDIAN_RESERVES_BANDS_SP/DMNDNRSRVS_polygon.dbf)  | BCGW: WHSE_ADMIN_BOUNDARIES.ADM_INDIAN_RESERVES_BANDS_SP  |
 | [Arts Agreements](./fn_arts_agreements.csv)  | BCGW: WHSE_HUMAN_CULTURAL_ECONOMIC.FN_ARTS_AGREEMENTS_SP  |
 | [Community Locations](./community_locations.csv)  | BCGW: WHSE_HUMAN_CULTURAL_ECONOMIC.FN_COMMUNITY_LOCATIONS_SP  |
 | [FPCC Graphemes](https://github.com/First-Peoples-Cultural-Council/fv-web-ui/blob/master/resources/graphemes.csv)  | First Peoples Cultural Council  |
