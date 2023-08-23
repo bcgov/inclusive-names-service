@@ -1,17 +1,32 @@
-# inclusive-names-service
-Repository of code and other information useful to software developers and system managers wishing to make systems capable of storing Unicode names of people, places, and businesses
+# Unicode Support in Various Programming Languages
 
-[![Lifecycle:Experimental](https://img.shields.io/badge/Lifecycle-Experimental-339999)](<Redirect-URL>)
+The following table summarizes the support that several popular languages provide for their native strings, Unicode strings, and strings of graphemes:
 
-All examples use the utf8.txt file in this parent directory as the file they read from so you can make similar files or use/modify that one (basically one entry per line)
+### String, Unicode Character, and Grapheme Support in Popular Computer Languages
+| Language                                                                      | Native string type | Unicode character library | Unicode grapheme library |
+|---|---|---|---
+| C                                                                             | array of char | [wchar.h](https://pubs.opengroup.org/onlinepubs/007908799/xsh/wchar.h.html) | [utf8proc](https://juliastrings.github.io/utf8proc/) |
+| C++                                                                           | array of char | [wchar.h](https://pubs.opengroup.org/onlinepubs/007908799/xsh/wchar.h.html) | [utf8proc](https://juliastrings.github.io/utf8proc/) |
+| C#                                                                            | String (Stored internally as an array of UTF-16 Unicode characters) | Supported natively | [GraphemeSplitter (There are several alternatives)](https://github.com/ufcpp/GraphemeSplitter) |
+| Go                                                                            | [“slice” of bytes](https://blog.golang.org/slices) | [unicode](https://pkg.go.dev/unicode) | [uax29](https://github.com/clipperhouse/uax29/) |
+| Java                                                                          | String (Stored internally as an array of UTF-16 Unicode characters) | Supported natively | grapheme-splitter-lite (See also ICU4J documentation) |
+| Javascript                                                                    | String (Stored internally as an array of UTF-16 Unicode characters) | Supported natively | [Intl.Segmenter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/Segmenter) |
+| Perl                                                                          | String scalar | Supported natively (With the "use feature 'unicode_strings" directive) | [Unicode::Util](https://metacpan.org/pod/Unicode::Util) |
+| PHP                                                                           | Series of bytes | [mbstring (NEED TO CONFIRM LINK)](https://www.php.net/manual/en/book.mbstring.php) | [grapheme_\*](https://www.php.net/manual/en/ref.intl.grapheme.php) |
+| Python 2                                                                      | Array of bytes | [unicode](https://pkg.go.dev/unicode) | \\X regular expression |
+| Python 3                                                                      | Array of Unicode characters | Supported natively (With the "use feature 'unicode_strings" directive) | [grapheme](https://pypi.org/project/grapheme/) |
 
-Currently has javascript/nodejs/python2/python3/go/c/c++/c#/java working examples, gotchas in each of the readmes. Databases to come
 
-## Common Gotchas
-This section is for common gotchas that are not language specific
-- Even with using only UTF-8 it's even more important to parse user provided text as a SINGLE utf-8 character can be infinitely large as there is no limit to how many combining marks can be in one character
 
-## Appendices
-[Glossary](glossary.md)
+This directory contains several sub-directories, each dedicated to a particular programming language. The sample programs:
+* read a line of text
+* print the line of text
+* print each character of the line of text
+* print each grapheme in the line of text
+* print the 7th character of the line of text
+* print the 7th grapheme in the line of text.
 
-[For Further Reading](references.md)
+Note that the grapheme logic is possible in only certain languages.
+
+All examples use the [utf8.txt](./utf8.txt) file in this parent directory for input data. Test with different data simply by adding to or updating this file.
+

@@ -1,11 +1,11 @@
-### Opening CSV files in Excel
+# Opening CSV files in Excel
 Comma-separated value (CSV) Excel files will not render properly when opened in Excel if they do not include a byte order mark (BOM) at the start of the file. The following example illustrates the problem.
-#### Rendering of UTF-8 CSV file in Notepad
+### Rendering of UTF-8 CSV file in Notepad
 In Notepad, the Unicode values in the right-most column (BAND-NAME) appear to render correctly:
 
 ![UTF-8 (without BOM) CSV file as it appears in Notepad](./csv_in_notepad.png)
  
-#### Rendering of UTF-8 CSV file in Excel
+### Rendering of UTF-8 CSV file in Excel
 However, when the file is opened in Excel, the rendering is erroneous:
 
 ![UTF-8 (without BOM) CSV file as it appears in Excel](./csv_in_excel_before.png)

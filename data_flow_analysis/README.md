@@ -1,6 +1,5 @@
-## Data Flow Evaluation
-
-### Introduction to Data Flow Analysis
+# Data Flow Evaluation
+## Introduction to Data Flow Analysis
 
 One way to assess Unicode-Readiness is to investigate how a string that contains Unicode characters is processed by the system. Consider a simple system that inputs a name, stores it in a database, does a query on the name to find related information, and then outputs this related information. Such a system can be tested by inputting a name containing Unicode characters and checking that the output is as expected, and that no errors are generated.
 
@@ -45,7 +44,7 @@ Data flows connect entities with processes and data stores. They are represented
 
 # Appendix: Analysis of DataBC Systems
 
-## What is the DataBC program?
+### What is the DataBC program?
 
 The Ministry of Citizens' Services, BC Data Division runs the [DataBC Program](https://www2.gov.bc.ca/gov/content?id=5A896C5DD9554C13AE75FEACCECF6671) to "encourage and enable the strategic management and sharing of data across the government enterprise and with the public." The program is staffed by four agile teams within the Data Systems and Services Branch:
 
@@ -54,7 +53,7 @@ The Ministry of Citizens' Services, BC Data Division runs the [DataBC Program](h
 3. Map Services (MAP)
 4. Location Services (LOC)
 
-## What are the DPS and DDS systems?
+### What are the DPS and DDS systems?
 
 The Data Publication Services (DPS) team serves clients in BC Government departments and the broader public sector who wish to make data that's under their [custodianship](https://www2.gov.bc.ca/assets/gov/data/data-management/data_custodianship_guidelines_for_the_government_of_bc.pdf) available to a broader audience (e.g., other government departments and/or the public). 
 
@@ -67,23 +66,23 @@ The DDS team manages the operation and content of the [BC Data Catalogue](https:
 - Provide data modeling and architecture advice to people publishing data
 - Develop and apply standards for creating metadata in the BC Data Catalogue
 
-## Data flow diagram for DPS/DDS
+### Data flow diagram for DPS/DDS
 
 The DPS and DDS systems are interrelated.; DPS manages the publication of data and the creation of metadata; DDS manages the systems that make this data discoverable and downloadable. For that reason, it's simplest to consider the DPS and DDS data flows together. The following is a data flow diagram for the DPS and DDS systems:
 
 ![](./dps_dds_data_flows.png)
 
-## Evaluation questions and results
+### Evaluation questions and results
 
 Once the boxes on the left and right (data sources and targets) have been defined, the next step is to create a test case for each path from left to right, including test data, and including how you will judge whether the transit was successful. It's also important to define what is in scope and what isn't. For example, it may be acceptable for a system to not be able to support Unicode characters in file names. On the other hand, it may be required that lookup keywords and tags be able to include Unicode characters. The following is the scope definition, evaluation tasks, the expected results, and the actual results for DPS and DDS systems.
 
-### Out of Scope
+#### Out of Scope
 
 1. Oracle table, column, and role names
 2. File system directory and file names
 3. Shapefile column names
 
-### In Scope
+#### In Scope
 
 1. Oracle table column values
 2. Oracle table column and table comments
@@ -105,11 +104,11 @@ Once the boxes on the left and right (data sources and targets) have been define
     * SHP
     * GeoJSON
 
-### BC Data Catalogue Test record
+#### BC Data Catalogue Test record
 
 [https://dwelf.data.gov.bc.ca/dataset/91328f94-cc8c-44f1-8c5c-2612133362ee](https://dwelf.data.gov.bc.ca/dataset/91328f94-cc8c-44f1-8c5c-2612133362ee)
 
-### Other Resources Used for Testing
+#### Other Resources Used for Testing
 
 String value: Tk'emlúps te Secwe̓pemc
 
