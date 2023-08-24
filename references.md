@@ -111,6 +111,8 @@ Introduction to Unicode, from the perspective of a JavaScript programmer.
 
 "This site is devoted to topics related to software internationalization using JavaScript (aka ECMAScript) programming language. The site was created by Craig Cummings and Tex Texin and stemmed from interest in their presentations on comparing JavaScript libraries at the _Internationalization and Unicode Conferences_ IUC37, IUC38, and IUC39."
 
+[Unicode – a brief introduction (advanced)](https://exploringjs.com/impatient-js/ch_unicode.html) from JavaScript for impatient programmers (ES2022 edition)
+
 ## **Oracle**
 
 [Database Globalization Support Guide - Choosing a Character Set](https://docs.oracle.com/en/database/oracle/oracle-database/19/nlspg/choosing-character-set.html#GUID-BF26E01D-AB92-48FC-855A-69A5B3AF9A92)

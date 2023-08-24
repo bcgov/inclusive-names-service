@@ -29,3 +29,19 @@ This section provides guidance on handling Unicode data when using various data 
 This section introduces the subject of data flow analysis, which can be used to evaluate whether a particular system might encounter issues when working with Unicode data.
 
 [Data Flow Analysis](.\data_flow_analysis\README.md)
+
+### How to Learn More
+
+Some excellent articles:
+
+[Migrating to Unicode](https://www.w3.org/International/articles/unicode-migration/)
+
+[The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html)
+
+The author says: "In this article I'll fill you in on exactly what _every working programmer_ should know. All that stuff about "plain text = ascii = characters are 8 bits" is not only wrong, it's hopelessly wrong, and if you're still programming that way, you're not much better than a medical doctor who doesn't believe in germs. Please do not write another line of code until you finish reading this article."
+
+[What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](https://kunststube.net/encoding/)
+
+"This article is about encodings and character sets. An article by Joel Spolsky entitled [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html) is a nice introduction to the topic and I greatly enjoy reading it every once in a while. I hesitate to refer people to it who have trouble understanding encoding problems though since, while entertaining, it is pretty light on actual technical details. I hope this article can shed some more light on what exactly an encoding is and just why all your text screws up when you least need it. This article is aimed at developers (with a focus on PHP), but any computer user should be able to benefit from it."
+
+[More articles](./references.md)

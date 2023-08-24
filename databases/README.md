@@ -12,3 +12,4 @@ How encodings and collation rules are defined differs according to the database 
 * [PostgreSQL](./postgresql/postgresql.md) 
 * [SQL Server](./sqlserver/sqlserver.md)
 * [MySQL](./mysql/mysql.md)
+* [Db2](./db2/db2.md)
