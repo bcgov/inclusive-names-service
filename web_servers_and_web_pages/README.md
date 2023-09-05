@@ -1,8 +1,14 @@
-Web servers can be configured to serve web pages that have Unicode content. In Apache web servers, this configuration can be done by adding the line
+Web servers can be configured to serve web pages that have Unicode content. In [Apache web servers](https://httpd.apache.org/), this configuration can be done by adding the line
 
          ‘AddDefaultCharset utf-8’
 
 to the httpd.conf configuration file.
+
+For [nginx web servers](https://www.nginx.com/), Unicode configuration is done by adding the line
+
+        'charset utf-8'
+
+to the http {} and https {} sections in the nginx.conf file.
 
 When configured this way, a page with the following html will appear, correctly, as Tk’emlúps te Secwe̓pemc
 

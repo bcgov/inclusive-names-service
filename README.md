@@ -32,9 +32,16 @@ This section introduces the subject of data flow analysis, which can be used to 
 
 ### How to Learn More
 
-Some excellent articles:
+#### Some excellent articles:
+
+[W3C Internationalization Working Group Blog](https://www.w3.org/blog/international/)
+
+"The W3C Internationalization (I18n) Activity works with W3C working groups and liaises with other organizations to make it possible to use Web technologies with different languages, scripts, and cultures. From this page you can find articles and other resources about Web internationalization, and information about the groups that make up the Activity. "
+
 
 [Migrating to Unicode](https://www.w3.org/International/articles/unicode-migration/)
+
+This is a comprehensive article from W3C, covering many of the issues that one will find when adapting an existing system to work with Unicode data.
 
 [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html)
 
