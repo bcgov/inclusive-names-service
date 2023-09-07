@@ -1,7 +1,21 @@
 # Data Flow Evaluation
-## Introduction to Data Flow Analysis
+## Introduction to Data Flow Analysis - A Summary
 
 One way to assess Unicode-Readiness is to investigate how a string that contains Unicode characters is processed by the system. Consider a simple system that inputs a name, stores it in a database, does a query on the name to find related information, and then outputs this related information. Such a system can be tested by inputting a name containing Unicode characters and checking that the output is as expected, and that no errors are generated.
+
+The methodology of data flow analysis is described in the following sections, and an example of how it was used to analyze some systems managed by the BC Data Service Data Systems and Services branch is provided.
+
+The methodology can be summarized as:
+
+1. Enumerate all the ways data can enter a system (from another system, an API, user input, etc.)
+2. Enumerate all the ways data can leave a system (through output to the screen, generation of error messages, an API, etc.)
+3. Enumerate all the ways data can be stored in a system (in a file, in a database table, etc.)
+4. Enumerate all the paths between input and store, input and output, store and output, etc.
+5. Test each path with data containing Indigenous language graphemes. Test data is available at [../test_data/Readme.md](../test_data/Readme.md).
+
+## Data Flow Analysis - the Details
+
+### Data Flow Diagrams
 
 [Data flow diagrams](https://en.wikipedia.org/wiki/Data-flow_diagram) can be used to model the flow of data:
 
