@@ -158,4 +158,4 @@ Starting with Office 2000, Microsoft uses Unicode, encoded as UTF-8, for text fi
 
 ![](RackMultipart20230928-1-ikxhnk_html_dd09cbcba8c961dc.png)
 
-1. Click OK.
+5. Click OK.
