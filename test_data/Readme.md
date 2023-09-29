@@ -18,7 +18,7 @@ The following files can be used in testing for Indigenous language support:
 Note: BCGW stands for [BC Geographic Warehouse](https://www2.gov.bc.ca/gov/content?id=18B291A12B4F42EA98169892F4B46D61)
 
 ## Test Script
-This folder also contains a file called testApi.py which can be used to quickly test an api
+This folder also contains a file called testApi.py which can be used to quickly test an api, we recomnend piping the output to a file for easy browsing ( python3 test_dataApi.py ...params... > output.txt)
 python3 test_data/testApi.py 
 usage: testApi.py [-h] -u URL -m METHOD -f USEFIELD -c CSV [-d ADDITIONALDATA] [-j JWT]
 
