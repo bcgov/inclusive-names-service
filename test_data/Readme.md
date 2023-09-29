@@ -16,3 +16,15 @@ The following files can be used in testing for Indigenous language support:
 | [BC Sans characters (CSV)](./bcsans_version2.csv)  | bcsans_version2.csv | Unicode details for [BC Sans glyph set](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/policies-procedures-standards/web-content-development-guides/corporate-identity-assets/bcsans-glyphset-2023.pdf), produced by a [python script](./check_bc_sans.py) |
 
 Note: BCGW stands for [BC Geographic Warehouse](https://www2.gov.bc.ca/gov/content?id=18B291A12B4F42EA98169892F4B46D61)
+
+## Test Script
+This folder also contains a file called testApi.py which can be used to quickly test an api
+python3 test_data/testApi.py 
+usage: testApi.py [-h] -u URL -m METHOD -f USEFIELD -c CSV [-d ADDITIONALDATA] [-j JWT]
+
+-u the full url you want to test against ie http://127.0.0.1/api/myendpoint
+-m the method to use ie GET/POST/PUT/DELETE/HEAD/OPTIONS
+-f The field name to use ie name
+-c The path to the csv to use, this folder has some good ones
+-d (OPTIONAL) other data to send formatted as json ie '{"field1": "value1", "numberfield": 2}'
+-j (OPTIONAL) a jwt for jwt authenticated apis
