@@ -4,32 +4,31 @@
 
 [Introduction](#introduction)
 
-[Check that the BC Sans Font is Installed]()
+[Check that the BC Sans Font is Installed](#check-that-the-bc-sans-font-is-installed)
 
-[If Necessary, Install the BC Sans Font](#_Toc146809874)
+[If Necessary, Install the BC Sans Font](#if-necessary-install-the-bc-sans-font)
 
-[4Configure Office 365 Applications 3](#_Toc146809875)
+[Configure Office 365 Applications](#configure-office-365-applications)
 
-[4.1Microsoft Word 3](#_Toc146809876)
+[Microsoft Word](#microsoft-word)
 
-[4.2Microsoft Excel 3](#_Toc146809877)
+[Microsoft Excel](#microsoft-excel)
 
-[4.3Microsoft PowerPoint 4](#_Toc146809878)
+[Microsoft PowerPoint](#microsoft-powerpoint)
 
-[4.4Microsoft Teams 5](#_Toc146809879)
+[Microsoft Teams](#microsoft-teams)
 
-[4.5Microsoft Access 5](#_Toc146809880)
+[Microsoft Access](#microsoft-access)
 
-[5Configure Web Browsers 7](#_Toc146809881)
+[Configure Web Browsers](#configure-web-browsers)
 
-[5.1Microsoft Edge 7](#_Toc146809882)
+[Microsoft Edge](#edge)
 
-[5.2Chrome 8](#_Toc146809883)
+[Chrome](#chrome)
 
-[5.3Firefox 8](#_Toc146809884)
+[Firefox](#firefox)
 
 
-<a name=introduction></a> 
 # Introduction
 
 This document is a guide to making sure that your Windows 10 workstation can properly display Indigenous language characters. It provides instructions for configuring common applications to use [BC Sans](https://www2.gov.bc.ca/gov/content?id=D56201B17F554B40BAB5A16FD2AB4C12) as the default font.
@@ -92,7 +91,7 @@ To change the default font for Excel sheets:
 
 1. Exit Excel and restart it to continue work.
 
-## 4.3Microsoft PowerPoint
+## Microsoft PowerPoint
 
 To change the default font for PowerPoint presentations:
 
@@ -111,11 +110,11 @@ To change the default font for PowerPoint presentations:
 
 ![](RackMultipart20230928-1-ikxhnk_html_a0e8812ad7e4c937.png)
 
-## 4.4Microsoft Teams
+## Microsoft Teams
 
 The Microsoft Teams application has built-in fonts and styles, and it does not appear that a BC Government user can alter these. However, the fonts used do support Unicode (and Indigenous languages), although the appearance of certain characters may not be exactly what they would be had BC Sans been used.
 
-## 4.5Microsoft Access
+## Microsoft Access
 
 Starting with Office 2000, Microsoft uses Unicode, encoded as UTF-8, for text fields, so it can store Indigenous language text without any further customization. However, like other Microsoft products, Microsoft Access uses Calibri as the default font. To change the default font for the forms and table content listings used for an Access database, follow these instructions:
 
@@ -134,9 +133,9 @@ Starting with Office 2000, Microsoft uses Unicode, encoded as UTF-8, for text fi
 
 ![](RackMultipart20230928-1-ikxhnk_html_d149a4b2f080a475.png)
 
-# 5Configure Web Browsers
+# Configure Web Browsers
 
-## 5.1Microsoft Edge
+## Microsoft Edge
 
 1. Press Alt-F and then select **Settings** from the drop-down menu.
 2. Click on **Appearance** on the left side and then scroll down to click on **Customize fonts** on the right, under the **Fonts** section.
@@ -144,13 +143,13 @@ Starting with Office 2000, Microsoft uses Unicode, encoded as UTF-8, for text fi
 
 ![](RackMultipart20230928-1-ikxhnk_html_1778d8ac0325bdbb.png)
 
-## 5.2Chrome
+## Chrome
 
 1. Press Alt-F and then select **Settings** from the drop-down menu.
 2. Click on Appearance on the left side and then click on Customize fonts on the right.
 3. Select BC Sans as the Standard font and the Sans-serif font. These settings will be in effect for the current and future sessions.
 
-## 5.3Firefox
+## Firefox
 
 1. Press Alt-F to display the menu bar.
 2. On the menu bar, select Tools \> Settings.
