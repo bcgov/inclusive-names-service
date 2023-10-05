@@ -4,12 +4,12 @@ This repository includes code and tips that will be useful to systems developers
 ### Programming Languages
 Some older programming languages assume an equivalence between characters and bytes (i.e., one character requires exactly one byte of storage). With these languages, handling multi-byte or variable length encodings such as UTF-8 requires special libraries or techniques. The following link provides the details.
 
-[Programming Languages](programming_languages/README.md)
+[Programming Languages](./programming_languages/README.md)
 
 ### Database Management Systems
 Systems that process Unicode data and use database management systems (DBMS) need to have those DBMS's configured to store data using a Unicode encoding. The following link provides guidance for configuring a DBMS to use the UTF-8 encoding.
 
-[Databases](databases/README.md)
+[Databases](./databases/README.md)
 
 ### Commercial Off the Shelf (COTS) Products
 COTS products in use in the BC Government vary in their support for Unicode, and in particular Indigenous language text. The following link provides guidance in using these products.
@@ -19,21 +19,21 @@ COTS products in use in the BC Government vary in their support for Unicode, and
 ### Some Test Data
 The following link points to a directory containing data files that have Unicode data.
 
-[Test Data](test_data/README.md)
+[Test Data](./test_data/Readme.md)
 
 ### File Formats
 This section provides guidance on handling Unicode data using various file formats (e.g., CSV, Excel)
 
-[File Formats](file_formats/README.md)
+[File Formats](./file_formats/README.md)
 
 ### Data Transfer Protocols
 This section provides guidance on handling Unicode data when using various data transfer protocols (e.g., ftp)
-[Data Transfer Protocols](data_transfer_protocols\README.md)
+[Data Transfer Protocols](./data_transfer_protocols/README.md)
 
 ### Data Flow Analysis Primer and Example
 This section introduces the subject of data flow analysis, which can be used to evaluate whether a particular system might encounter issues when working with Unicode data.
 
-[Data Flow Analysis](data_flow_analysis/README.md)
+[Data Flow Analysis](./data_flow_analysis/README.md)
 
 ### How to Learn More
 
@@ -57,3 +57,6 @@ The author says: "In this article I'll fill you in on exactly what _every workin
 "This article is about encodings and character sets. An article by Joel Spolsky entitled [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html) is a nice introduction to the topic and I greatly enjoy reading it every once in a while. I hesitate to refer people to it who have trouble understanding encoding problems though since, while entertaining, it is pretty light on actual technical details. I hope this article can shed some more light on what exactly an encoding is and just why all your text screws up when you least need it. This article is aimed at developers (with a focus on PHP), but any computer user should be able to benefit from it."
 
 [More articles](references.md)
+
+
+[def]: test_data/README.md

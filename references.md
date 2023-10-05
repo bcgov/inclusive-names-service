@@ -63,6 +63,14 @@ A series of papers on the Unicode standard, covering
 3. Unicode Transformation Formats (e.g., UTF-8)
 4. Unicode Character Database (UCD) and regular expressions
 
+[Character Model for the World Wide Web 1.0: Fundamentals](https://www.w3.org/TR/charmod/)
+
+This Architectural Specification provides authors of specifications, software developers, and content developers with a common reference for interoperable text manipulation on the World Wide Web, building on the Universal Character Set, defined jointly by the Unicode Standard and ISO/IEC 10646. Topics addressed include use of the terms 'character', 'encoding' and 'string', a reference processing model, choice and identification of character encodings, character escaping, and string indexing.
+
+[Character Model for the World Wide Web: String Matching](https://www.w3.org/TR/charmod-norm/)
+
+This document builds upon [Character Model for the World Wide Web 1.0: Fundamentals](https://www.w3.org/TR/charmod/) to provide authors of specifications, software developers, and content developers a common reference on string identity matching on the World Wide Web and thereby increase interoperability.
+
 ## **C and C++**
 
 [Working with Strings](https://learn.microsoft.com/en-us/windows/win32/learnwin32/working-with-strings)
@@ -129,7 +137,7 @@ Clear and simple explanation of why to choose AL32UTF8 as the Oracle character s
 
 "This module provides versions of core Perl string functions tailored to work on Unicode grapheme clusters, which are what users perceive as characters, as opposed to code points, which are what Perl considers characters."
 
-# [Treat Unicode strings as grapheme clusters](https://www.effectiveperlprogramming.com/2011/06/treat-unicode-strings-as-grapheme-clusters/)
+[Treat Unicode strings as grapheme clusters](https://www.effectiveperlprogramming.com/2011/06/treat-unicode-strings-as-grapheme-clusters/)
 
 [Perl Unicode introduction](https://perldoc.perl.org/perluniintro)
 
