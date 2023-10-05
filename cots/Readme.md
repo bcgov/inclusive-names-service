@@ -6,13 +6,28 @@ This section covers information for supporting Indigenous language text when usi
 
 ## Desktop Products
 [Configuring Your Windows 10 Workstation to Properly Display Indigenous Language Characters](./configuring_workstation.md) <br>
-[Microsoft Word](./configuring_workstation.md#microsoft-word)<br>
+[Microsoft Access](./configuring_workstation.md#microsoft-access)<br>
 [Microsoft Excel](./configuring_workstation.md#microsoft-excel)<br>
 [Microsoft PowerPoint](./configuring_workstation.md#microsoft-powerpoint)<br>
 [Microsoft Teams](./configuring_workstation.md#microsoft-teams)<br>
-[Microsoft Access](./configuring_workstation.md#microsoft-access)<br>
+[Microsoft Word](./configuring_workstation.md#microsoft-word)<br>
 
 ## Web Browsers
-[Microsoft Edge](./configuring_workstation.md#edge)<br>
 [Chrome](./configuring_workstation.md#chrome)<br>
 [Firefox](./configuring_workstation.md#firefox) <br>
+[Microsoft Edge](./configuring_workstation.md#edge)<br>
+
+## Coming Soon!
+CLIFF <br>
+EDRMS <br>
+FileMaker <br>
+Framemaker <br>
+MS Dynamics <br>
+Peoplesoft <br>
+Rocketchat <br>
+Safari Web browser <br>
+SAP <br>
+Salesforce <br>
+Service Now <br>
+Visual Studio Code <br>
+
