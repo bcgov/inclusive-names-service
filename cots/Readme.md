@@ -1,4 +1,18 @@
 # Unicode and Commercial-Off-The-Shelf (COTS) Products 
 This section covers information for supporting Indigenous language text when using COTS products.
 
-[Configuring Your Windows 10 Workstation to Properly Display Indigenous Language Characters](./configuring_workstation.md)
+[Guidance on Database Management Systems](../databases/Readme.md) <br>
+[Guidance on Programming Languages](../programming_languages/Readme.md) <br>
+
+## Desktop Products
+[Configuring Your Windows 10 Workstation to Properly Display Indigenous Language Characters](./configuring_workstation.md) <br>
+[Microsoft Word](./configuring_workstation.md#microsoft-word)<br>
+[Microsoft Excel](./configuring_workstation.md#microsoft-excel)<br>
+[Microsoft PowerPoint](./configuring_workstation.md#microsoft-powerpoint)<br>
+[Microsoft Teams](./configuring_workstation.md#microsoft-teams)<br>
+[Microsoft Access](./configuring_workstation.md#microsoft-access)<br>
+
+## Web Browsers
+[Microsoft Edge](./configuring_workstation.md#edge)<br>
+[Chrome](./configuring_workstation.md#chrome)<br>
+[Firefox](./configuring_workstation.md#firefox) <br>
