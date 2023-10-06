@@ -1,6 +1,21 @@
-# For Further Reading
+# For Further Reading ...
 
-The following resources may be useful to software development teams when constructing IN-Ready systems, and in testing those systems.
+The following resources may be useful to software development teams when constructing Indigenous-Names-Ready systems, and in testing those systems. Click one of the following links to go straight to a list of references for that section.
+
+[General](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#general) <br>
+[C and C++](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#c-and-c) <br>
+[Encryption and Decryption](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#encryption-and-decryption) <br>
+[Excel](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#excel) <br>
+[Java](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#java) <br>
+[JavaScript](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#javascript) <br>
+[Normalization](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#normalization) <br>
+[Oracle](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#oracle) <br>
+[Perl](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#perl) <br>
+[PHP](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#php) <br>
+[PostgreSQL](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#postgresql) <br>
+[Python](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#python) <br>
+[Security](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#security) <br>
+[SQL Server](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#sql-server) <br>
 
 ## **General**
 
@@ -19,7 +34,6 @@ The author says: "In this article I'll fill you in on exactly what _every workin
 [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](https://kunststube.net/encoding/)
 
 "This article is about encodings and character sets. An article by Joel Spolsky entitled [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html) is a nice introduction to the topic and I greatly enjoy reading it every once in a while. I hesitate to refer people to it who have trouble understanding encoding problems though since, while entertaining, it is pretty light on actual technical details. I hope this article can shed some more light on what exactly an encoding is and just why all your text screws up when you least need it. This article is aimed at developers (with a focus on PHP), but any computer user should be able to benefit from it."
-
 
 
 [Critical Values for I18n Testing ("Does it hurt when I do this?")](http://www.i18nqa.com/iuc37-Texin-Critical%20values%20for%20i18n%20testing.pdf)
