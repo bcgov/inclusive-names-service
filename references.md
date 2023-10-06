@@ -20,9 +20,7 @@ The author says: "In this article I'll fill you in on exactly what _every workin
 
 "This article is about encodings and character sets. An article by Joel Spolsky entitled [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html) is a nice introduction to the topic and I greatly enjoy reading it every once in a while. I hesitate to refer people to it who have trouble understanding encoding problems though since, while entertaining, it is pretty light on actual technical details. I hope this article can shed some more light on what exactly an encoding is and just why all your text screws up when you least need it. This article is aimed at developers (with a focus on PHP), but any computer user should be able to benefit from it."
 
-[What on Earth is Unicode Normalization?](https://towardsdatascience.com/what-on-earth-is-unicode-normalization-56c005c55ad0)
 
-This article explains how some Unicode graphemes can be constructed from characters in more than one way.
 
 [Critical Values for I18n Testing ("Does it hurt when I do this?")](http://www.i18nqa.com/iuc37-Texin-Critical%20values%20for%20i18n%20testing.pdf)
 
@@ -50,9 +48,6 @@ In addition, it contains background information relevant to Windows systems, and
 
 The most recent Unicode standard.
 
-[Unicode Security Considerations](https://www.unicode.org/reports/tr36/)
-
-"_Because Unicode contains such a large number of characters and incorporates the varied writing systems of the world, incorrect usage can expose programs or systems to possible security attacks. This is especially important as more and more products are internationalized. This document describes some of the security considerations that programmers, system analysts, standards developers, and users should take into account, and provides specific recommendations to reduce the risk of problems."_
 
 [The Unicode](https://numa.hypotheses.org/2542)
 
@@ -121,6 +116,12 @@ Introduction to Unicode, from the perspective of a JavaScript programmer.
 
 [Unicode – a brief introduction (advanced)](https://exploringjs.com/impatient-js/ch_unicode.html) from JavaScript for impatient programmers (ES2022 edition)
 
+## **Normalization**
+
+[What on Earth is Unicode Normalization?](https://towardsdatascience.com/what-on-earth-is-unicode-normalization-56c005c55ad0)
+
+This article explains how some Unicode graphemes can be constructed from characters in more than one way.
+
 ## **Oracle**
 
 [Database Globalization Support Guide - Choosing a Character Set](https://docs.oracle.com/en/database/oracle/oracle-database/19/nlspg/choosing-character-set.html#GUID-BF26E01D-AB92-48FC-855A-69A5B3AF9A92)
@@ -184,6 +185,37 @@ Explains how to set the character set and encoding for a PostgreSQL server clust
 [Python and Unicode](https://downloads.egenix.com/python/Unicode-EPC2002-Talk.pdf)
 
 "Unicode Support in Python" – Powerpoint presentation for EuroPython Conference 2002., Charleroi, Belgium
+
+## **Security**
+
+[Unicode Security Considerations](https://www.unicode.org/reports/tr36/)
+
+"_Because Unicode contains such a large number of characters and incorporates the varied writing systems of the world, incorrect usage can expose programs or systems to possible security attacks. This is especially important as more and more products are internationalized. This document describes some of the security considerations that programmers, system analysts, standards developers, and users should take into account, and provides specific recommendations to reduce the risk of problems."_
+
+[Unicode Security Mechanisms](https://www.unicode.org/reports/tr39/)
+
+"_Because Unicode contains such a large number of characters and incorporates the varied writing systems of the world, incorrect usage can expose programs or systems to possible security attacks. This document specifies mechanisms that can be used to detect possible security problems._"
+
+[Unicode for Security Professionals](https://www.gosecure.net/blog/2020/08/04/unicode-for-security-professionals/)
+
+"_Unicode is the de-facto standard for multilingual character encoding. UTF-8 is the most popular encoding used that supports its hundreds of thousands of characters. Aside from the encoding (byte representation of characters), Unicode defines multiple transformations that can be applied to characters. For instance, it describes the behavior of transformations such as Uppercase. The character known as Long S “ſ” (U+017F) will become a regular uppercase S “S” (U+0053). Unexpected behavior for developers can often lead to security issues. Today, we will dive into the case mapping and normalization transformations. You will see how they can contribute to logic flaws in code._"
+
+"_Along with this article, we are sharing a list of API to look for in source code audit. We are also publishing an [interactive cheat sheet](https://gosecure.github.io/unicode-pentester-cheatsheet/) for character testing._"
+
+[Unicode Security Guide](https://websec.github.io/unicode-security-guide/)
+
+"_This guide has been designed to give Web application developers, software engineers, and application security researchers a reference for understanding Unicode-related security issues in operating systems, applications, and the Web._
+
+_The dynamics of Unicode, and character encodings in general, are often misunderstood or poorly implemented, and lead to an array of interesting if not catastrophic security vulnerabilities._
+
+_The content here has been sourced through testing, research, and the following two technical reports from the Unicode Consortium:_
+
+[Technical Report #36 : Unicode Security Considerations](http://www.unicode.org/reports/tr36/) <br>
+[Technical Report #39 : Unicode Security Mechanisms](http://www.unicode.org/reports/tr39/)
+
+_Beyond these two sources, further research has been ongoing around identifying and inventorying software behaviors. Test cases are being provided in the [source code repository](https://github.com/websec/unicode-security-guide)._"
+
+
 
 ## **SQL Server**
 
