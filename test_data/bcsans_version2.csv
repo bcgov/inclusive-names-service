@@ -3498,7 +3498,6 @@
 36,dollar,DOLLAR SIGN,b'$',$,
 37,percent,PERCENT SIGN,b'%',%,
 38,ampersand,AMPERSAND,b'&',&,
-39,quotesingle,APOSTROPHE,b'""",',
 40,LEFT PARENTHESIS,b'(',(,
 41,RIGHT PARENTHESIS,b')',),
 42,ASTERISK,b'*',*,
