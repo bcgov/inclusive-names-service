@@ -8,6 +8,7 @@ The following resources may be useful to software development teams when constru
 [Excel](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#excel) <br>
 [Java](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#java) <br>
 [JavaScript](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#javascript) <br>
+[MySQL](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#mysql) <br>
 [Normalization](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#normalization) <br>
 [Oracle](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#oracle) <br>
 [Perl](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#perl) <br>
@@ -22,6 +23,10 @@ The following resources may be useful to software development teams when constru
 [Official Unicode Website](https://home.unicode.org/)
 
 This is the home page for the Unicode Consortium, a standards body concerned with the internationalization of software and services.
+
+[Frequently Asked Questions](http://www.unicode.org/faq/)
+
+_"The Unicode Frequently Asked Questions (FAQ) are organized into different topic pages. Many FAQ pages contain links to other pages where you will find further information about specific topics. Check in particular the [Basic Questions](http://www.unicode.org/faq/basic_q.html) and [Specifications](http://www.unicode.org/faq/specifications.html) pages. As another option, you may find it easier to go to the [search page](https://www.unicode.org/search) and type in your topic plus "FAQ" to locate appropriate FAQ entries. For example "NFC FAQ", "BOM FAQ", "Tamil FAQ", and so forth. If you have a question not addressed by the FAQ entries, you may join the public [Unicode email list](https://www.unicode.org/consortium/distlist.html) and post your question there."_
 
 [fileformat.info](https://www.fileformat.info/info/unicode/)
 
@@ -82,6 +87,33 @@ This document builds upon [Character Model for the World Wide Web 1.0: Fundament
 
 ## **C and C++**
 
+[ICU - International Components for Unicode](https://icu.unicode.org/)
+
+ICU is a mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications. ICU is widely portable and gives applications the same results on all platforms and between C/C++ and Java software. ICU is released under a nonrestrictive open source license that is suitable for use with both commercial software and with other open source or free software.
+
+Here are a few highlights of the services provided by ICU:
+
+Code Page Conversion: Convert text data to or from Unicode and nearly any other character set or encoding. ICU's conversion tables are based on charset data collected by IBM over the course of many decades, and is the most complete available anywhere.
+
+Collation: Compare strings according to the conventions and standards of a particular language, region or country. ICU's collation is based on the Unicode Collation Algorithm plus locale-specific comparison rules from the Common Locale Data Repository, a comprehensive source for this type of data.
+
+Formatting: Format numbers, dates, times and currency amounts according the conventions of a chosen locale. This includes translating month and day names into the selected language, choosing appropriate abbreviations, ordering fields correctly, etc. This data also comes from the Common Locale Data Repository.
+
+Time Calculations: Multiple types of calendars are provided beyond the traditional Gregorian calendar. A thorough set of timezone calculation APIs are provided.
+
+Unicode Support: ICU closely tracks the Unicode standard, providing easy access to all of the many Unicode character properties, Unicode Normalization, Case Folding and other fundamental operations as specified by the Unicode Standard.
+
+Regular Expression: ICU's regular expressions fully support Unicode while providing very competitive performance.
+
+Bidi: support for handling text containing a mixture of left to right (English) and right to left (Arabic or Hebrew) data.
+
+Text Boundaries: Locate the positions of words, sentences, paragraphs within a range of text, or identify locations that would be suitable for line wrapping when displaying the text.
+
+And much more. Refer to the [ICU User Guide](https://unicode-org.github.io/icu/userguide/) for details.
+
+Why ICU4C?
+The C and C++ languages and many operating system environments do not provide full support for Unicode and standards-compliant text handling services. Even though some platforms do provide good Unicode text handling services, portable application code can not make use of them. The ICU4C libraries fills in this gap. ICU4C provides an open, flexible, portable foundation for applications to use for their software globalization requirements. ICU4C closely tracks industry standards, including Unicode and CLDR (Common Locale Data Repository).
+
 [Working with Strings](https://learn.microsoft.com/en-us/windows/win32/learnwin32/working-with-strings)
 
 Microsoft documentation on C++ programming techniques for use when processing Unicode data.
@@ -116,7 +148,32 @@ This article explains how to create comma separated value (CSV) files, containin
 
 ## **Java**
 
-[https://www.nexsoftsys.com/articles/unicode-help-java-programmers.html](https://www.nexsoftsys.com/articles/unicode-help-java-programmers.html)
+[ICU - International Components for Unicode](https://icu.unicode.org/)
+
+ICU is a mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications. ICU is widely portable and gives applications the same results on all platforms and between C/C++ and Java software. ICU is released under a nonrestrictive open source license that is suitable for use with both commercial software and with other open source or free software.
+
+Here are a few highlights of the services provided by ICU:
+
+Code Page Conversion: Convert text data to or from Unicode and nearly any other character set or encoding. ICU's conversion tables are based on charset data collected by IBM over the course of many decades, and is the most complete available anywhere.
+
+Collation: Compare strings according to the conventions and standards of a particular language, region or country. ICU's collation is based on the Unicode Collation Algorithm plus locale-specific comparison rules from the Common Locale Data Repository, a comprehensive source for this type of data.
+
+Formatting: Format numbers, dates, times and currency amounts according the conventions of a chosen locale. This includes translating month and day names into the selected language, choosing appropriate abbreviations, ordering fields correctly, etc. This data also comes from the Common Locale Data Repository.
+
+Time Calculations: Multiple types of calendars are provided beyond the traditional Gregorian calendar. A thorough set of timezone calculation APIs are provided.
+
+Unicode Support: ICU closely tracks the Unicode standard, providing easy access to all of the many Unicode character properties, Unicode Normalization, Case Folding and other fundamental operations as specified by the Unicode Standard.
+
+Regular Expression: ICU's regular expressions fully support Unicode while providing very competitive performance.
+
+Bidi: support for handling text containing a mixture of left to right (English) and right to left (Arabic or Hebrew) data.
+
+Text Boundaries: Locate the positions of words, sentences, paragraphs within a range of text, or identify locations that would be suitable for line wrapping when displaying the text.
+
+And much more. Refer to the [ICU User Guide](https://unicode-org.github.io/icu/userguide/) for details.
+
+See [Why Use ICU4J](https://icu.unicode.org/home/why-use-icu4j)
+
 
 ## **JavaScript**
 
@@ -126,10 +183,15 @@ Introduction to Unicode, from the perspective of a JavaScript programmer.
 
 [JavaScript / ECMAScript Internationalization (I18n)](http://www.jsi18n.com/)
 
-"This site is devoted to topics related to software internationalization using JavaScript (aka ECMAScript) programming language. The site was created by Craig Cummings and Tex Texin and stemmed from interest in their presentations on comparing JavaScript libraries at the _Internationalization and Unicode Conferences_ IUC37, IUC38, and IUC39."
+"_This site is devoted to topics related to software internationalization using JavaScript (aka ECMAScript) programming language. The site was created by Craig Cummings and Tex Texin and stemmed from interest in their presentations on comparing JavaScript libraries at the _Internationalization and Unicode Conferences_ IUC37, IUC38, and IUC39._"
 
 [Unicode – a brief introduction (advanced)](https://exploringjs.com/impatient-js/ch_unicode.html) from JavaScript for impatient programmers (ES2022 edition)
 
+## **MySQL**
+
+[Chapter 10 Character Sets, Collations, Unicode](https://dev.mysql.com/doc/refman/8.0/en/charset.html)
+
+"_MySQL includes character set support that enables you to store data using a variety of character sets and perform comparisons according to a variety of collations. The default MySQL server character set and collation are utf8mb4 and utf8mb4_0900_ai_ci, but you can specify character sets at the server, database, table, column, and string literal levels._"
 ## **Normalization**
 
 [What on Earth is Unicode Normalization?](https://towardsdatascience.com/what-on-earth-is-unicode-normalization-56c005c55ad0)
