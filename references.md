@@ -26,7 +26,7 @@ This is the home page for the Unicode Consortium, a standards body concerned wit
 
 [Frequently Asked Questions](http://www.unicode.org/faq/)
 
-_"The Unicode Frequently Asked Questions (FAQ) are organized into different topic pages. Many FAQ pages contain links to other pages where you will find further information about specific topics. Check in particular the [Basic Questions](http://www.unicode.org/faq/basic_q.html) and [Specifications](http://www.unicode.org/faq/specifications.html) pages. As another option, you may find it easier to go to the [search page](https://www.unicode.org/search) and type in your topic plus "FAQ" to locate appropriate FAQ entries. For example "NFC FAQ", "BOM FAQ", "Tamil FAQ", and so forth. If you have a question not addressed by the FAQ entries, you may join the public [Unicode email list](https://www.unicode.org/consortium/distlist.html) and post your question there."_
+_"The Unicode Frequently Asked Questions (FAQ) are organized into different topic pages. Many FAQ pages contain links to other pages where you will find further information about specific topics. Check in particular the [Basic Questions](http://www.unicode.org/faq/basic_q.html) and [Specifications](http://www.unicode.org/faq/specifications.html) pages. As another option, you may find it easier to go to the [search page](https://www.unicode.org/search) and type in your topic plus "FAQ" to locate appropriate FAQ entries. For example "NFC FAQ", "BOM FAQ", "Tamil FAQ", and so forth. If you have a question not addressed by the FAQ entries, you may join the public [Unicode email list](https://www.unicode.org/consortium/distlist.html) and post your question there."_   
 
 [fileformat.info](https://www.fileformat.info/info/unicode/)
 

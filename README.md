@@ -1,6 +1,6 @@
 [![Lifecycle:Maturing](https://img.shields.io/badge/Lifecycle-Maturing-007EC6)]()
 
-# Techniques for Dealing with Unicode Data
+# Techniques for Supporting Indigenous Language Text
 This repository includes code and tips that will be useful to systems developers and maintainers who need to ensure that their computer systems can properly input, store, process, and display/export Unicode characters (used for Indigenous language text). It also includes tips on supporting Indigenous language text when using Commercial-off-the-shelf (COTS) products.
 
 ### Programming Languages
@@ -17,6 +17,11 @@ Systems that process Unicode data and use database management systems (DBMS) nee
 COTS products in use in the BC Government vary in their support for Unicode, and in particular Indigenous language text. The following link provides guidance in using these products.
 
 [Using Commercial-off-the-shelf Products](./cots/Readme.md)
+
+### Mainframe Systems
+Depending on how the elements are configured, IBM mainframe systems may or may not be able to support Indigenous language characters.
+
+[Configuring mainframe systems to support Indigenous language text](./mainframe_systems/Readme.md)
 
 ### Some Test Data
 The following link points to a directory containing data files that have Unicode data.
