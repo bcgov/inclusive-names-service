@@ -17,17 +17,3 @@ This section covers information for supporting Indigenous language text when usi
 [Firefox](./configuring_workstation.md#firefox) <br>
 [Microsoft Edge](./configuring_workstation.md#edge)<br>
 
-## Coming Soon!
-CLIFF <br>
-EDRMS <br>
-FileMaker <br>
-Framemaker <br>
-MS Dynamics <br>
-Peoplesoft <br>
-Rocketchat <br>
-Safari Web browser <br>
-SAP <br>
-Salesforce <br>
-Service Now <br>
-Visual Studio Code <br>
-
