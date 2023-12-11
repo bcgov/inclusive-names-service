@@ -8,12 +8,14 @@ plugins:
 markdown_extensions:
     - markdown_inline_mermaid
     - md_in_html
-    - mkpatcher:
-          location: patcher.py
+    -   mkpatcher:
+            location: patcher.py
 
 #          Example navigation structure shown below. Fill out as appropriate for your content.
-#nav:
-#    -   About CHEFS: About-CHEFS.md
+nav:
+    -   Overview: index.md
+    -   COTS Products:
+            -   Unicode and COTS: cots/Readme
 #    -   Roadmap: Product-Roadmap.md
 #    -   CHEFS Capabilities:
 #            -   Functionalities: CHEFS-functionalities.md
