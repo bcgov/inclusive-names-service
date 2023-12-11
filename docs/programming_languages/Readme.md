@@ -28,7 +28,7 @@ This directory contains several sub-directories, each dedicated to a particular 
 
 Note that the grapheme logic is possible in only certain languages.
 
-All examples use the [utf8.txt](./utf8.txt) file in this parent directory for input data. Test with different data simply by adding to or updating this file.
+All examples use the [utf8.txt](utf8.txt) file in this parent directory for input data. Test with different data simply by adding to or updating this file.
 
 ## Other helpful notes
 Libraries -- These are a potential source of pain that must also be investigated to ensure full utf8 support. For instance in an example application the full data flow of utf-8 was functioning correctly to and from the backend however a library was being used to allow the frontend to create a download of the utf-8 content and it was using a function in javascript that doesn't support the characters so they were being truncated in the file output. This wasn't caught for a while as it's a rarely traveled path in the application.
