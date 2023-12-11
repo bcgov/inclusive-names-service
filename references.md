@@ -85,6 +85,11 @@ This Architectural Specification provides authors of specifications, software de
 
 This document builds upon [Character Model for the World Wide Web 1.0: Fundamentals](https://www.w3.org/TR/charmod/) to provide authors of specifications, software developers, and content developers a common reference on string identity matching on the World Wide Web and thereby increase interoperability.
 
+[UTF-8 Everywhere Manifesto
+](https://utf8everywhere.org/)
+
+_Our goal is to promote usage and support of the UTF-8 encoding and to convince that it should be the default choice of encoding for storing text strings in memory or on disk, for communication and all other uses. We believe that our approach improves performance, reduces complexity of software and helps prevent many Unicode-related bugs. We suggest that other encodings of Unicode (or text, in general) belong to rare edge-cases of optimization and should be avoided by mainstream users._
+
 ## **C and C++**
 
 [ICU - International Components for Unicode](https://icu.unicode.org/)
@@ -285,6 +290,10 @@ Explains how to set the character set and encoding for a PostgreSQL server clust
 _The dynamics of Unicode, and character encodings in general, are often misunderstood or poorly implemented, and lead to an array of interesting if not catastrophic security vulnerabilities._
 
 _The content here has been sourced through testing, research, and the following two technical reports from the Unicode Consortium:_
+
+[What are best practices for handling user Unicode in a web application?](https://security.stackexchange.com/questions/257017/what-are-best-practices-for-handling-user-unicode-in-a-web-application) 
+
+The author writes _I've done a base level of research on the topic and have come up with the following list of recommended base practices. This isn't meant to be comprehensive; there are many, many more listed in the resources above. As always, what you need to do depends on your risk profile. For my purposes, these practices seem to fit the bill._
 
 [Technical Report #36 : Unicode Security Considerations](http://www.unicode.org/reports/tr36/) <br>
 [Technical Report #39 : Unicode Security Mechanisms](http://www.unicode.org/reports/tr39/)

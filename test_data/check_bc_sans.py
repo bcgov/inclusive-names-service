@@ -11,8 +11,11 @@ with TTFont(
     chars = chain.from_iterable(
         [y + (Unicode[y[0]],) for y in x.cmap.items()] for x in ttf["cmap"].tables
     )
-    outfile = 'bcsans2.out'
+    outfile = 'check_bc_sans.csv'
     f = open(outfile,"w",encoding="utf-8")
+    f.write('\ufeff')
+    f.write("code point (dec),short name,full name,byte value,chr()\n")
+
     if len(sys.argv) == 2:  # print all code points
         for c in chars:
             frame = b"e"
