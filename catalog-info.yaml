@@ -4,7 +4,7 @@ metadata:
   name: "indigenous-language-in-systems"
   description: "Techniques for supporting Indigenous language and characters in  B.C. government systems."
   annotations:
-    github.com/project-slug: bcgov/inclusive-names-service-devhub-migration
+    github.com/project-slug: bcgov/inclusive-names-service
     backstage.io/techdocs-ref: dir:.
 spec:
   type: documentation
