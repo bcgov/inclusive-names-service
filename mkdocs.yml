@@ -1,5 +1,5 @@
-site_name: "inclusive-names-service"
-site_description: "Techniques for Supporting Indigenous Language Text"
+site_name: "indigenous-language-in-systems"
+site_description: "Techniques for supporting Indigenous language and characters in  B.C. government systems."
 docs_dir: "docs"
 plugins:
     - techdocs-core
