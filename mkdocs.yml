@@ -1,0 +1,35 @@
+site_name: "inclusive-names-service"
+site_description: "Techniques for Supporting Indigenous Language Text"
+docs_dir: "docs"
+plugins:
+    - techdocs-core
+    - ezlinks
+
+markdown_extensions:
+    - markdown_inline_mermaid
+    - md_in_html
+    - mkpatcher:
+          location: patcher.py
+
+#          Example navigation structure shown below. Fill out as appropriate for your content.
+#nav:
+#    -   About CHEFS: About-CHEFS.md
+#    -   Roadmap: Product-Roadmap.md
+#    -   CHEFS Capabilities:
+#            -   Functionalities: CHEFS-functionalities.md
+#            -   Integrations: Integrations.md
+#            -   Accessibility: Accessibility.md
+#            -   Form Management: Form-Management.md
+#            -   Data Management: Data-Management.md
+#            -   Architecture & State Management: Architecture-&-State-Management.md
+#    -   CHEFS Components:
+#            -   Form Builder Components: Form-Builder-Components.md
+#            -   Custom Components: Custom-Components.md
+#            -   Examples of CHEFS forms and features: Examples-of-CHEFS-forms-and-features.md
+#    -   Developer:
+#            -   Contributors: Contributors.md
+#            -   Deployment: Deployment.md
+#            -   Form.io: Form.io.md
+#            -   Developer Additional Resources: Developer-Additional-Resources.md
+#
+
