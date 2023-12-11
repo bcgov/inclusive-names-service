@@ -35,7 +35,7 @@ If you are using a B.C. Government computer, then the BC Sans font is likely alr
 2. A Fonts settings page will appear. In the Available fonts search box, type "BC Sans"
 3. If you see a result like the following:
 
-![](./images/available_fonts.png)
+![](images/available_fonts.png)
 
 then BC Sans is installed. You can double click on "BC Sans" (blue text) to see more information about the font, such as the version that's installed, the font faces that are included (e.g., Regular, Bold, Bold Italic, etc.), and a preview of each font face at various sizes.
 
@@ -54,17 +54,17 @@ To change the default font to BC Sans for most style types:
 1. Open a new Word document.
 2. Click the Design menu item
 
-![](./images/design_menu_item.png)
+![](images/design_menu_item.png)
 
 3. Click the arrow under **Fonts** , as shown in the illustration above.
 4. Click on **Customize Fonts** , at the bottom on the pop-up panel that appears.
 5. Enter BC Sans for both the **body Body** and **heading Heading** fonts and click **Save**.
 
-![](./images/create_new_theme_fonts.png)
+![](images/create_new_theme_fonts.png)
 
 6. Click Set as Default
 
-![](./images/set_as_default.png)
+![](images/set_as_default.png)
 
 ## Microsoft Excel
 
@@ -75,7 +75,7 @@ To change the default font for Excel sheets:
 3. On the pop-up, select **General** on the left side.
 4. On the right side, under " **When creating new workbooks**", select BC Sans as the default font and click OK.
 
-![](./images/excel_options.png)
+![](images/excel_options.png)
 
 5. Exit Excel and restart it to continue work.
 
@@ -87,16 +87,16 @@ To change the default font for PowerPoint presentations:
 2. Select " **Slide Master**" on the menu bar.
 3. Select **Fonts** and then **Customize Fonts …** on the dropdown menu that appears.
 
-![](./images/customize_fonts.png)
+![](images/customize_fonts.png)
 
 4. Create a BC Sans Font theme by specifying a **Heading** and **Body** font as shown below:
 
-![](./images/create_new_theme_fonts.png)
+![](images/create_new_theme_fonts.png)
 
 1. Click **Save**.
 2. When creating PowerPoint presentations in the future, this theme will be selectable in the Slide Master (and be used as the default for other slides in the presentation)
 
-![](./images/slide_master.png)
+![](images/slide_master.png)
 
 ## Microsoft Teams
 
@@ -110,16 +110,16 @@ Starting with Office 2000, Microsoft uses Unicode, encoded as UTF-8, for text fi
 2. On the **Create** menu, select **Form Design** in the **Forms** section.
 3. In the resulting window, select the **Form Design** menu, click on **Fonts** , and then on **Customize Fonts**.
 
-![](./images/customize_fonts_access.png)
+![](images/customize_fonts_access.png)
 
 1. Create a BC Sans font theme by filling in the panel as shown below and pressing **Save** :
 
-![](./images/create_new_theme_fonts.png)
+![](images/create_new_theme_fonts.png)
 
 3. Click on **Fonts** again. The BC Sans item should now appear in the list. Right click on this item and select **Add Gallery to Quick Access Toolbar**.
 4. When working on a different Access database in the future, click on the " **A**" as shown below, and select the BC Sans theme. This will establish BC Sans as the default font for that database.
 
-![](./images/gallery_quick_access.png)
+![](images/gallery_quick_access.png)
 
 # Configure Web Browsers
 
@@ -129,7 +129,7 @@ Starting with Office 2000, Microsoft uses Unicode, encoded as UTF-8, for text fi
 2. Click on **Appearance** on the left side and then scroll down to click on **Customize fonts** on the right, under the **Fonts** section.
 3. Select BC Sans as both the Standard font and the Sans-serif font. These settings will be in effect for the current and future sessions.
 
-![](./images/customize_fonts_edge.png)
+![](images/customize_fonts_edge.png)
 
 ## Chrome
 
@@ -144,6 +144,6 @@ Starting with Office 2000, Microsoft uses Unicode, encoded as UTF-8, for text fi
 3. Click on General on the left, then scroll down to Fonts on the right.
 4. Click Advanced… and then choose "Sans Serif" for Proportional and BC Sans for Sans-serif.
 
-![](./images/customize_fonts_firefox.png)
+![](images/customize_fonts_firefox.png)
 
 5. Click OK.

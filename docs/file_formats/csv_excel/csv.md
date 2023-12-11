@@ -3,12 +3,12 @@ Comma-separated value (CSV) Excel files will not render properly when opened in 
 ### Rendering of UTF-8 CSV file in Notepad
 In Notepad, the Unicode values in the right-most column (BAND-NAME) appear to render correctly:
 
-![UTF-8 (without BOM) CSV file as it appears in Notepad](./csv_in_notepad.png)
+![UTF-8 (without BOM) CSV file as it appears in Notepad](csv_in_notepad.png)
  
 ### Rendering of UTF-8 CSV file in Excel
 However, when the file is opened in Excel, the rendering is erroneous:
 
-![UTF-8 (without BOM) CSV file as it appears in Excel](./csv_in_excel_before.png)
+![UTF-8 (without BOM) CSV file as it appears in Excel](csv_in_excel_before.png)
 
 To correct this error, either of the following snippets of python 3 code can be applied to the input file (or incorporated into any program that creates CSV files to be later opened in Excel).
 
@@ -41,4 +41,4 @@ utffile.close()
 
 Once applied, the resulting file opens correctly in Excel:
  
-![UTF-8 (with BOM) CSV file as it appears in Excel](./csv_in_excel_after.png)
+![UTF-8 (with BOM) CSV file as it appears in Excel](csv_in_excel_after.png)

@@ -2,7 +2,7 @@
 
 The following diagram provides a simplified view of the IBM Mainframe architecture.  
 
-![](./images/mainframe.png)
+![](images/mainframe.png)
 
 The IBM Mainframe originally used, exclusively, the [Extended Binary Coded Decimal Interchange Code (EBCDIC)](https://en.wikipedia.org/wiki/EBCDIC) character set. Like [ASCII](https://en.wikipedia.org/wiki/ASCII), EBCDIC is a single-byte character set, although there are incomptibilities between the two. And as EBCDIC is limited to 256 characters, it is not suitable for expressing Indigenous language text.
 
