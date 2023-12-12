@@ -16,11 +16,11 @@ nav:
     -   Overview: index.md
     -   Databases:
             - Databases and Unicode: databases/Readme
-            - Db2: databases/db2
-            - mysql: databases/mysql
-            - Oracle: databases/oracle
-            - PostgreSQL: databases/postgresql
-            - SQL Server: databases/sqlserver
+            - Db2: databases/db2/db2
+            - mysql: databases/mysql/mysql
+            - Oracle: databases/oracle/oracle
+            - PostgreSQL: databases/postgresql/postgresql
+            - SQL Server: databases/sqlserver/sqlserver
     -   Programming languages:
             - Programming languages and Unicode: programming_languages/Readme
             - C: programming_languages/c/README
