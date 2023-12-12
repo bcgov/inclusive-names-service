@@ -1,5 +1,5 @@
-site_name: "How to Indigenous language and characters in  B.C. government systems"
-site_description: "Techniques for supporting Indigenous language and characters in  B.C. government systems."
+site_name: "Techniques for supporting Indigenous language characters in  B.C. government systems"
+site_description: "Techniques for supporting Indigenous language characters in  B.C. government systems."
 docs_dir: "docs"
 plugins:
     - techdocs-core
@@ -14,6 +14,26 @@ markdown_extensions:
 #          Example navigation structure shown below. Fill out as appropriate for your content.
 nav:
     -   Overview: index.md
+    -   Databases:
+            - Databases and Unicode: databases/Readme
+            - Db2: databases/db2
+            - mysql: databases/mysql
+            - Oracle: databases/oracle
+            - PostgreSQL: databases/postgresql
+            - SQL Server: databases/sqlserver
+    -   Programming languages:
+            - Programming languages and Unicode: programming_languages/Readme
+            - C: programming_languages/c/README
+            - C++: programming_languages/c++/README
+            - cobol: programming_languages/cobol/README
+            - go: programming_languages/go/README
+            - java: programming_languages/java/README
+            - javascript: programming_languages/javascript/README
+            - nodejs: programming_languages/nodejs/README
+            - perl: programming_languages/perl/README
+            - php: programming_languages/php/README
+            - python2: programming_languages/python2/README
+            - python3: programming_languages/python3/README
     -   COTS Products:
             -   Unicode and COTS: cots/Readme
 #    -   Roadmap: Product-Roadmap.md
