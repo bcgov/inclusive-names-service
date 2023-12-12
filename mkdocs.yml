@@ -23,17 +23,17 @@ nav:
             - SQL Server: databases/sqlserver/sqlserver
     -   Programming languages:
             - Programming languages and Unicode: programming_languages/Readme
-            - C: programming_languages/c/Readme
-            - C++: programming_languages/c++/Readme
-            - cobol: programming_languages/cobol/README
-            - go: programming_languages/go/README
-            - java: programming_languages/java/README
-            - javascript: programming_languages/javascript/README
-            - nodejs: programming_languages/nodejs/README
-            - perl: programming_languages/perl/README
-            - php: programming_languages/php/README
-            - python2: programming_languages/python2/README
-            - python3: programming_languages/python3/README
+            - C: programming_languages/c/Readme.md
+            - C++: programming_languages/c++/Readme.md
+            - cobol: programming_languages/cobol/README.md
+            - go: programming_languages/go/README.md
+            - java: programming_languages/java/README.md
+            - javascript: programming_languages/javascript/README.md
+            - nodejs: programming_languages/nodejs/README.md
+            - perl: programming_languages/perl/README.md
+            - php: programming_languages/php/README.md
+            - python2: programming_languages/python2/README.md
+            - python3: programming_languages/python3/README.md
     -   COTS Products:
             -   Unicode and COTS: cots/Readme
 #    -   Roadmap: Product-Roadmap.md
