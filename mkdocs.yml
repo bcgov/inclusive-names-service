@@ -38,7 +38,7 @@ nav:
     -   File Formats:
             - File formats and Unicode: file_formats/Readme
             - CSV/Excel: file_formats/csv_excel/csv.md
-            - DBF: file_formats/dbf/README
+            - DBF: file_formats/dbf/README.md
     -   Mainframe Systems: mainframe_systems/Readme
     -   Web Servers and Web Pages: web_servers_and_web_pages/Readme
     -   COTS Products:
