@@ -23,8 +23,8 @@ nav:
             - SQL Server: databases/sqlserver/sqlserver
     -   Programming languages:
             - Programming languages and Unicode: programming_languages/Readme
-            - C: programming_languages/c/README
-            - C++: programming_languages/c++/README
+            - C: programming_languages/c/Readme
+            - C++: programming_languages/c++/Readme
             - cobol: programming_languages/cobol/README
             - go: programming_languages/go/README
             - java: programming_languages/java/README
