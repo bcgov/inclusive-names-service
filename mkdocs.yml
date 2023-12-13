@@ -1,4 +1,4 @@
-site_name: "Techniques for supporting Indigenous language characters in  B.C. government systems"
+site_name: "Supporting Indigenous language characters in systems"
 site_description: "Resources - code snippets, sample data, high level explanations, links to detailed explanations - to help a systems developer understand how to make sure that a computer system supports the characters and graphemes present in Indigenous languages"
 docs_dir: "docs"
 plugins:
@@ -34,7 +34,7 @@ nav:
             - php: programming_languages/php/README.md
             - python2: programming_languages/python2/README.md
             - python3: programming_languages/python3/README.md
-    -   Dataflow Analysis: data_flow_analysus/Readme
+    -   Dataflow Analysis: data_flow_analysis/Readme
     -   File Formats:
             - File formats and Unicode: file_formats/Readme
             - CSV/Excel: file_formats/csv_excel/csv.md
