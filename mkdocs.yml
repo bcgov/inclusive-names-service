@@ -1,6 +1,7 @@
 site_name: "Techniques for supporting Indigenous language characters in B.C. government systems"
 site_description: "Resources - code snippets, sample data, high level explanations, links to detailed explanations - to help a systems developer understand how to make sure that a computer system supports the characters and graphemes present in Indigenous languages"
 docs_dir: "docs"
+repo_url:  https://github.com/bcgov/inclusive-names-service
 plugins:
     - techdocs-core
     - ezlinks
@@ -15,14 +16,14 @@ markdown_extensions:
 nav:
     -   Overview: index.md
     -   Databases:
-            - Databases and Unicode: databases/Readme
-            - Db2: databases/db2/db2
-            - mysql: databases/mysql/mysql
-            - Oracle: databases/oracle/oracle
-            - PostgreSQL: databases/postgresql/postgresql
-            - SQL Server: databases/sqlserver/sqlserver
+            - Databases and Unicode: databases/Readme.md
+            - Db2: databases/db2/db2.md
+            - mysql: databases/mysql/mysql.md
+            - Oracle: databases/oracle/oracle.md
+            - PostgreSQL: databases/postgresql/postgresql.md
+            - SQL Server: databases/sqlserver/sqlserver.md
     -   Programming languages:
-            - Programming languages and Unicode: programming_languages/Readme
+            - Programming languages and Unicode: programming_languages/Readme.md
             - C: programming_languages/c/README.md
             - C++: programming_languages/c++/README.md
             - cobol: programming_languages/cobol/README.md
@@ -34,17 +35,17 @@ nav:
             - php: programming_languages/php/README.md
             - python2: programming_languages/python2/README.md
             - python3: programming_languages/python3/README.md
-    -   Dataflow Analysis: data_flow_analysis/Readme
+    -   Dataflow Analysis: data_flow_analysis/Readme.md
     -   File Formats:
-            - File formats and Unicode: file_formats/Readme
+            - File formats and Unicode: file_formats/Readme.md
             - CSV/Excel: file_formats/csv_excel/csv.md
             - DBF: file_formats/dbf/README.md
-    -   Mainframe Systems: mainframe_systems/Readme
-    -   Web Servers and Web Pages: web_servers_and_web_pages/Readme
+    -   Mainframe Systems: mainframe_systems/Readme.md
+    -   Web Servers and Web Pages: web_servers_and_web_pages/Readme.md
     -   COTS Products:
-            -   Unicode and COTS: cots/Readme
+            -   Unicode and COTS: cots/Readme.md
             -   Configuring Windows workstations: cots/configuring_workstation.md
-    -   Test Data: test_data/Readme
+    -   Test Data: test_data/Readme.md
     -   Glossary: glossary.md
     -   References: references.md
 #    -   Roadmap: Product-Roadmap.md
