@@ -1,4 +1,4 @@
-site_name: "Supporting Indigenous language characters in systems"
+site_name: "Techniques for supporting Indigenous language characters in B.C. government systems"
 site_description: "Resources - code snippets, sample data, high level explanations, links to detailed explanations - to help a systems developer understand how to make sure that a computer system supports the characters and graphemes present in Indigenous languages"
 docs_dir: "docs"
 plugins:
