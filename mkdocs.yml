@@ -45,6 +45,8 @@ nav:
             -   Unicode and COTS: cots/Readme
             -   Configuring Windows workstations: cots/configuring_workstation.md
     -   Test Data: test_data/Readme
+    -   Glossary: glossary.md
+    -   References: references.md
 #    -   Roadmap: Product-Roadmap.md
 #    -   CHEFS Capabilities:
 #            -   Functionalities: CHEFS-functionalities.md

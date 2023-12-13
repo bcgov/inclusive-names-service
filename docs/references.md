@@ -6,7 +6,6 @@ The following resources may be useful to software development teams when constru
 [C and C++](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#c-and-c) <br>
 [Encryption and Decryption](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#encryption-and-decryption) <br>
 [Excel](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#excel) <br>
-[Fonts](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#fonts) <br>
 [Java](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#java) <br>
 [JavaScript](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#javascript) <br>
 [MySQL](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#mysql) <br>
@@ -151,21 +150,6 @@ This article explains that Excel expects a byte order mark (BOM) at the start of
 [Creating International CSV files with python](https://chase-seibert.github.io/blog/2014/07/30/international-csv-files-python.html)
 
 This article explains how to create comma separated value (CSV) files, containing Unicode characters, that can be read by Excel and other Windows applications.
-## **Fonts**
-
-[Unicode Fonts](https://en.wikipedia.org/wiki/Unicode_font)
-
-"This article lists some widely used Unicode fonts (shipped with an operating system or produced by a well-known commercial font company) that support a comparatively large number and broad range of Unicode characters."
-
-Interesting point is that a [TrueType](https://en.wikipedia.org/wiki/TrueType) font can define glyphs for a maximum of 65,535 code points, which is less than half the number of code points (149813) that are defined in Unicode 15.1 (current version).
-
-[Typotheque develops typefaces to support the digital preservation of Indigenous languages](https://www.itsnicethat.com/news/typotheque-north-american-syllabics-digital-010922)
-
-"In close collaboration with Indigenous language keepers, Typotheque seeks to correct Unicode errors preventing Indigenous languages being written digitally."
-
-[An introduction to Syllabics typography](https://fonts.google.com/knowledge/the_canadian_syllabics/an_introduction_to_syllabics_typography)
-
-"The Syllabics—sometimes referred to as the Canadian Aboriginal Syllabics—is a [writing system](https://fonts.google.com/knowledge/glossary/writing_system) used by several Indigenous language communities in Canada and the United States, including nêhiyawêwin (Cree), Anishinaabemowin (Ojibwe), Inuktut (Inuktitut), Dakelh (Carrier), iyuw iyimuun (Naskapi), and Saı́yısı́ dëne (Sayisi Dene)."
 
 ## **Java**
 
