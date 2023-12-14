@@ -1,4 +1,4 @@
-![Lifecycle:Maturing](https://img.shields.io/badge/Lifecycle-Maturing-007EC6)
+![Lifecycle:Experimental](images/Lifecycle-Experimental-339999.svg)
 
 # Techniques for Supporting Indigenous Language Text in Computer Systems
 This repository includes code and tips that will be useful to systems developers and maintainers who need to ensure that their computer systems can properly input, store, process, and display/export Unicode characters (used for Indigenous language text). It also includes tips on supporting Indigenous language text when using Commercial-off-the-shelf (COTS) products.
