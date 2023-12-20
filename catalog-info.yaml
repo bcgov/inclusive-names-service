@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "indigenous-languages-in-systems"
-  title: "Indigenous Languaes in Systems"
+  title: "Indigenous Languages in Systems"
   description: "A guide for adopting Indigenous language characters"
   annotations:
     github.com/project-slug: bcgov/inclusive-names-service
