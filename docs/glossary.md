@@ -4,11 +4,11 @@
 
 #### <a id="ascii"></a> ASCII
 
-ASCII is both a [character set](#character_set) and an [encoding](#encoding). This (very basic) character set includes the lower- and upper-case Latin alphabet (a-z, A-Z), the numeric digits (0-9), and punctuation characters. There are 127 characters in the character set; a complete list of these characters can be found [here](https://en.wikipedia.org/wiki/ASCII#Character_set). ASCII characters are stored one character per [byte](#byte). They are stored in these bytes as integers between 1 and 127.
+ASCII is both a [character set](#character_set) and an [encoding](#encoding). This (very basic) character set includes the lower- and upper-case Latin alphabet (a-z, A-Z), the numeric digits (0-9), and some punctuation characters. There are 127 characters in the character set; a complete list of these characters can be found [here](https://en.wikipedia.org/wiki/ASCII#Character_set). ASCII characters are stored one character per [byte](#byte). They are stored in these bytes as integers between 1 and 127.
 
 #### <a id="BMP"> Basic Multilingual Plane (BMP) </a>
 
-The Unicode character set is divided into 16 planes, according to the value of the leading hexadecimal digit of the code point value. The plane corresponding to "leading zero" code points is referred to as the [Basic Multilingual Plane](https://en.wikipedia.org/wiki/Plane_(Unicode)#Basic_Multilingual_Plane), or BMP. This plane has 65536 characters and includes all the characters used in modern languages (including Indigenous languages). With the [UTF-16](#utf16) encoding, these characters can be encoded using just 2 bytes.
+The Unicode character set is divided into 16 planes, according to the value of the leading hexadecimal digit of the [code point](#code-point) value. The plane corresponding to "leading zero" code points is referred to as the [Basic Multilingual Plane](https://en.wikipedia.org/wiki/Plane_(Unicode)#Basic_Multilingual_Plane), or BMP. This plane has 65536 characters and includes all the characters used in modern languages (including Indigenous languages). With the [UTF-16](#utf16) encoding, these characters can be encoded using just 2 bytes. With the [UTF-8](#utf-8) encoding, BMP characters are encoded using 1,2,3,or 4 bytes.
 
 #### <a id="BCSans"> [BC Sans font](https://www2.gov.bc.ca/gov/content?id=D56201B17F554B40BAB5A16FD2AB4C12)
 
@@ -24,7 +24,7 @@ A character set is the set of characters supported by an information system. [Un
 
 #### <a id="code_point"> </a> code point
 
-A code point refers to a single [grapheme](#grapheme) in the [Unicode](#unicode) character set. The set of code points provides a level of abstraction between the graphemes and the methods for [encoding](#encoding) them. Each code point has a numeric identifier and brief description of the associated grapheme's general appearance. For example, Unicode code point for the small letter 'a' has a numeric identifier of '0061' (hexadecimal) and the description 'LATIN SMALL LETTER A'.
+A code point refers to a single character in the [Unicode](#unicode) character set. The set of code points provides a level of abstraction between the characters and the methods for [encoding](#encoding) them. Each code point has a numeric identifier and brief description of the associated character's general appearance. For example, Unicode code point for the small letter 'a' has a numeric identifier of '0061' (hexadecimal) and the description 'LATIN SMALL LETTER A'.
 
 #### <a id="encoding"> </a>encoding
 
@@ -32,7 +32,7 @@ An encoding defines the way in which code points are stored as binary numbers (s
 
 #### <a id="font"> </a> font
 
-A font defines the visual appearance of code points. This document is written using the BC Sans font. Other examples of fonts are Times New Roman, Calibri, Arial, and Comic Sans.
+A font defines the visual appearance of code points. [BC Sans](#bc-sans-font) is one such font. Other examples of fonts are Times New Roman, Calibri, Arial, and Comic Sans.
 
 #### <a id="glyph"> </a> glyph
 
@@ -40,7 +40,7 @@ A glyph is the visual representation of a[grapheme](#grapheme), as drawn using a
 
 #### <a id="grapheme"> </a>  grapheme
 
-A grapheme is the basic element of a language. In the English language, grapheme and character are synonymous; the letters a-z, A-Z, and the digits 0-9 are all graphemes. In other languages, though, a grapheme may correspond with a combination of two or more characters (or [code points](#code_point), in [Unicode](#unicode)). For example, in the name of the First Nations community Tk'emlúps te Secwe̓pemc, the grapheme "e̓" is a combination of the code points 'LATIN SMALL LETTER E' (code 0065) and 'COMBINING COMMA ABOVE' (code 0313).
+A grapheme is the basic element of a language. In the English language, grapheme and character are synonymous; the letters a-z, A-Z, and the digits 0-9 are all graphemes. In other languages, though, a grapheme may correspond with a combination of two or more characters (or [code points](#code_point), in [Unicode](#unicode)). For example, in the name of the First Nations community Tk'emlúps te Secwe̓pemc, the grapheme "e̓" is a combination of the code points 'LATIN SMALL LETTER E' (code point 0065) and 'COMBINING COMMA ABOVE' (code point 0313).
 
 #### <a id="unicode_ready"> </a> Unicode-Ready
 
