@@ -1,6 +1,6 @@
 ### Test Datasets
 
-The following files can be used in testing for Indigenous language support:
+The following files can be used in testing systems for Indigenous language support:
 
 | Dataset | File/Folder Name | Source |
 | ------------- | ------------- | ------------- |
