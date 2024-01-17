@@ -4,7 +4,7 @@ The following files can be used in testing for Indigenous language support:
 
 | Dataset | File/Folder Name | Source |
 | ------------- | ------------- | ------------- |
-| [Geographical Names (CSV)](https://github.com/bcgov/inclusive-names-service/tree/main/docs/test_data/bcgnis_nonascii.csv)  | bcgnis_nonascii.csv xxxx | BCGW: [WHSE_BASEMAPPING.GNS_GEOGRAPHICAL_NAMES_SP](https://catalogue.data.gov.bc.ca/dataset/43805524-4add-4474-ad53-1a985930f352)  |
+| [Geographical Names (CSV)](https://github.com/bcgov/inclusive-names-service/tree/main/docs/test_data/bcgnis_nonascii.csv)  | bcgnis_nonascii.csv | BCGW: [WHSE_BASEMAPPING.GNS_GEOGRAPHICAL_NAMES_SP](https://catalogue.data.gov.bc.ca/dataset/43805524-4add-4474-ad53-1a985930f352)  |
 | [Ethno-Historic Sites (CSV)](https://github.com/bcgov/inclusive-names-service/tree/main/docs/test_data/ethno_historic_sites.csv)  | ethno_historic_sites.csv | BCGW: [WHSE_HUMAN_CULTURAL_ECONOMIC.FN_ETH_HIST_RPT_SITES_POINT](https://catalogue.data.gov.bc.ca/dataset/43a7ae04-d4f9-40b3-8ddb-6724a01ffa02) <br> BCGW: [WHSE_HUMAN_CULTURAL_ECONOMIC.FN_ETH_HIST_RPT_SITES_POLY](https://catalogue.data.gov.bc.ca/dataset/c3768031-e90f-4ddb-891a-c7a8d8729f79) |
 | [IR Band Names (CSV)](https://github.com/bcgov/inclusive-names-service/tree/main/docs/test_data/ir_bands.csv)  | ir_bands.csv | BCGW: [WHSE_ADMIN_BOUNDARIES.ADM_INDIAN_RESERVES_BANDS_SP](https://catalogue.data.gov.bc.ca/dataset/c2ce81af-78c1-467c-b47e-c392cd0a771f)  |
 | [IR Band Names (shapefile)](https://github.com/bcgov/inclusive-names-service/tree/main/docs/test_data/ADM_INDIAN_RESERVES_BANDS_SP/)  | ADM_INDIAN_RESERVES_BANDS_SP/ | BCGW: [WHSE_ADMIN_BOUNDARIES.ADM_INDIAN_RESERVES_BANDS_SP](https://catalogue.data.gov.bc.ca/dataset/c2ce81af-78c1-467c-b47e-c392cd0a771f)  |
