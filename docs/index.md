@@ -1,7 +1,7 @@
 ![Lifecycle:Experimental](images/Lifecycle-Experimental-339999.svg)
 
 # Techniques for Supporting Indigenous Language Text in Computer Systems
-This repository includes code and tips that will be useful to systems developers and maintainers who need to ensure that their computer systems can properly input, store, process, and display/export Unicode characters (used for Indigenous language text). It also includes tips on supporting Indigenous language text when using Commercial-off-the-shelf (COTS) products.
+This repository includes code and tips that will be useful to systems developers and maintainers who need to ensure that their computer systems can properly input, store, process, and display/export Unicode characters and [graphemes](https://github.com/bcgov/inclusive-names-service/blob/main/docs/glossary.md#---grapheme) (used in Indigenous language text). It also includes tips on supporting Indigenous language text when using Commercial-off-the-shelf (COTS) products.
 
 ### Programming Languages
 Some older programming languages assume an equivalence between characters and bytes (i.e., one character requires exactly one byte of storage). With these languages, handling multi-byte or variable length encodings such as UTF-8 requires special libraries or techniques. The following link provides the details.

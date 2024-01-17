@@ -6,15 +6,16 @@
 [Check that the BC Sans Font is Installed](#check-that-the-bc-sans-font-is-installed)<br>
 [If Necessary, Install the BC Sans Font](#if-necessary-install-the-bc-sans-font)<br>
 [Configure Office 365 Applications](#configure-office-365-applications)<br>
-[Microsoft Word](#microsoft-word)<br>
-[Microsoft Excel](#microsoft-excel)<br>
-[Microsoft PowerPoint](#microsoft-powerpoint)<br>
-[Microsoft Teams](#microsoft-teams)<br>
-[Microsoft Access](#microsoft-access)<br>
+* [Microsoft Word](#microsoft-word)<br>
+* [Microsoft Excel](#microsoft-excel)<br>
+* [Microsoft PowerPoint](#microsoft-powerpoint)<br>
+* [Microsoft Teams](#microsoft-teams)<br>
+* [Microsoft Access](#microsoft-access)<br>
+
 [Configure Web Browsers](#configure-web-browsers)<br>
-[Microsoft Edge](#edge)<br>
-[Chrome](#chrome)<br>
-[Firefox](#firefox)
+* [Microsoft Edge](#edge)<br>
+* [Chrome](#chrome)<br>
+* [Firefox](#firefox)
 
 
 # Introduction
@@ -23,7 +24,7 @@ This document is a guide to making sure that your Windows 10 workstation can pro
 
 # Check that the BC Sans Font is Installed
 
-As stated on the [BC Sans](https://www2.gov.bc.ca/gov/content?id=D56201B17F554B40BAB5A16FD2AB4C12) website,
+As stated on the [BC Sans website](https://www2.gov.bc.ca/gov/content?id=D56201B17F554B40BAB5A16FD2AB4C12),
 
 _BC Sans (2.0) is an open-source "living" typeface developed for government to improve the readability and delivery of digital services. It was designed to support special characters and syllabics found in Indigenous Languages in B.C._
 

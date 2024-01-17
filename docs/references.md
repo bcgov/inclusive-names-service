@@ -85,10 +85,17 @@ This Architectural Specification provides authors of specifications, software de
 
 This document builds upon [Character Model for the World Wide Web 1.0: Fundamentals](https://www.w3.org/TR/charmod/) to provide authors of specifications, software developers, and content developers a common reference on string identity matching on the World Wide Web and thereby increase interoperability.
 
-[UTF-8 Everywhere Manifesto
-](https://utf8everywhere.org/)
+[UTF-8 Everywhere Manifesto](https://utf8everywhere.org/)
 
 _Our goal is to promote usage and support of the UTF-8 encoding and to convince that it should be the default choice of encoding for storing text strings in memory or on disk, for communication and all other uses. We believe that our approach improves performance, reduces complexity of software and helps prevent many Unicode-related bugs. We suggest that other encodings of Unicode (or text, in general) belong to rare edge-cases of optimization and should be avoided by mainstream users._
+
+[Indigenous languages and technology](https://www.un.org/esa/socdev/unpfii/documents/2016/egm/Indigenous_languages_and_techology_Craig%20Cornelius_FINAL.pdf)
+
+This presentation from 2016 illustrates the considerations in supporting Indigenous languages.
+
+[Supporting Indigenous Names & Alphabets With Technology](https://www.youtube.com/watch?v=5FV9vcWZru4)
+
+This video, produced by the [First Peoples' Cultural Council](https://fpcc.ca/resource/technology/), provides an excellent overview of the issues involved in supporting B.C. Indigenous languages in systems.
 
 ## **C and C++**
 

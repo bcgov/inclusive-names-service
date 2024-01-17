@@ -1,14 +1,14 @@
 # Unicode Support in Various Programming Languages
 
-The following table summarizes the support that several popular languages provide for their native strings, Unicode strings, and strings of graphemes:
+The following table summarizes the support that several popular programming languages provide for their native strings, Unicode strings, and strings of graphemes:
 
-### String, Unicode Character, and Grapheme Support in Popular Computer Languages
+### String, Unicode Character, and Grapheme Support in Popular Computer Programming Languages
 | Language                                                                      | Native string type | Unicode character library | Unicode grapheme library |
 |---|---|---|---
-| C                                                                             | array of char | [wchar.h](https://pubs.opengroup.org/onlinepubs/007908799/xsh/wchar.h.html) | [utf8proc](https://juliastrings.github.io/utf8proc/) |
-| C++                                                                           | array of char | [wchar.h](https://pubs.opengroup.org/onlinepubs/007908799/xsh/wchar.h.html) | [utf8proc](https://juliastrings.github.io/utf8proc/) |
-| C#                                                                            | String (Stored internally as an array of UTF-16 Unicode characters) | Supported natively | [GraphemeSplitter (There are several alternatives)](https://github.com/ufcpp/GraphemeSplitter) |
-| Go                                                                            | [“slice” of bytes](https://blog.golang.org/slices) | [unicode](https://pkg.go.dev/unicode) | [uax29](https://github.com/clipperhouse/uax29/) |
+| [C](c/utf8.c)                                                                             | array of char | [wchar.h](https://pubs.opengroup.org/onlinepubs/007908799/xsh/wchar.h.html) | [utf8proc](https://juliastrings.github.io/utf8proc/) |
+| [C++](c++/utf8.cpp)                                                                           | array of char | [wchar.h](https://pubs.opengroup.org/onlinepubs/007908799/xsh/wchar.h.html) | [utf8proc](https://juliastrings.github.io/utf8proc/) |
+| C#                                                                          | String (Stored internally as an array of UTF-16 Unicode characters) | Supported natively | [GraphemeSplitter (There are several alternatives)](https://github.com/ufcpp/GraphemeSplitter) |
+| [Go](go/utf8.go)                                                                            | [“slice” of bytes](https://blog.golang.org/slices) | [unicode](https://pkg.go.dev/unicode) | [uax29](https://github.com/clipperhouse/uax29/) |
 | Java                                                                          | String (Stored internally as an array of UTF-16 Unicode characters) | Supported natively | grapheme-splitter-lite (See also ICU4J documentation) |
 | Javascript                                                                    | String (Stored internally as an array of UTF-16 Unicode characters) | Supported natively | [Intl.Segmenter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/Segmenter) |
 | Perl                                                                          | String scalar | Supported natively (With the "use feature 'unicode_strings" directive) | [Unicode::Util](https://metacpan.org/pod/Unicode::Util) |

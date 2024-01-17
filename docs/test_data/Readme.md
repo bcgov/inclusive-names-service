@@ -1,4 +1,4 @@
-### Test Datasets
+
 
 The following files can be used in testing systems for Indigenous language support:
 
@@ -12,7 +12,7 @@ The following files can be used in testing systems for Indigenous language suppo
 | [Arts Agreements (CSV)](https://github.com/bcgov/inclusive-names-service/tree/main/docs/test_data/fn_arts_agreements.csv)  | fn_arts_agreements.csv | BCGW: [WHSE_HUMAN_CULTURAL_ECONOMIC.FN_ARTS_AGREEMENTS_SP](https://catalogue.data.gov.bc.ca/dataset/3b229174-d5fe-42a1-8336-c6361d69cf53)  |
 | [Community Locations (CSV)](https://github.com/bcgov/inclusive-names-service/tree/main/docs/test_data/community_locations.csv)  | community_locations.csv | BCGW: [WHSE_HUMAN_CULTURAL_ECONOMIC.FN_COMMUNITY_LOCATIONS_SP](https://catalogue.data.gov.bc.ca/dataset/c1a366fe-0212-48ba-a7f5-081036511794) |
 | [FPCC Graphemes (CSV)](https://github.com/First-Peoples-Cultural-Council/fv-web-ui/blob/master/resources/graphemes.csv)  | graphemes.csv | [First Peoples Cultural Council](https://fpcc.ca/)  |
-[FPCC Graphemes - Analyzed (CSV)](https://github.com/bcgov/inclusive-names-service/tree/main/docs/test_data/grapheme_encoding_utf8.csv)  | grapheme_encoding_utf8.csv | Produced by a [python script](./process_graphemes_utf8.py)  
+[FPCC Graphemes - Analyzed (CSV)](https://github.com/bcgov/inclusive-names-service/tree/main/docs/test_data/grapheme_encoding_utf8.csv)  | grapheme_encoding_utf8.csv | Produced by a [python script](https://github.com/bcgov/inclusive-names-service/tree/main/docs/test_data/process_graphemes_utf8.py)  
 | [BC Sans characters (CSV)](https://github.com/bcgov/inclusive-names-service/tree/main/docs/test_data/bcsans_version2.csv)  | bcsans_version2.csv | Unicode details for [BC Sans glyph set](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/policies-procedures-standards/web-content-development-guides/corporate-identity-assets/bcsans-glyphset-2023.pdf), produced by a [python script](https://github.com/bcgov/inclusive-names-service/tree/main/docs/test_data/check_bc_sans.py) |
 
 Note: BCGW stands for [BC Geographic Warehouse](https://www2.gov.bc.ca/gov/content?id=18B291A12B4F42EA98169892F4B46D61)

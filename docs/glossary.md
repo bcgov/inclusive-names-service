@@ -2,6 +2,8 @@
 
 # Glossary
 
+This is a glossary of terms used in describing support for Indigenous language names in systems.
+
 #### <a id="ascii"></a> ASCII
 
 ASCII is both a [character set](#character_set) and an [encoding](#encoding). This (very basic) character set includes the lower- and upper-case Latin alphabet (a-z, A-Z), the numeric digits (0-9), and some punctuation characters. There are 127 characters in the character set; a complete list of these characters can be found [here](https://en.wikipedia.org/wiki/ASCII#Character_set). ASCII characters are stored one character per [byte](#byte). They are stored in these bytes as integers between 1 and 127.

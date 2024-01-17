@@ -36,9 +36,8 @@ Webpage URLs and individual HTML web pages can be checked for Unicode conformanc
 [Internationalization techniques: Authoring web pages](https://www.w3.org/International/techniques/authoring-html)
 
 [Declaring character encodings in HTML](https://www.w3.org/International/questions/qa-html-encoding-declarations)
-
-This document covers the following topics:
-1. What about the byte-order mark?
-2. Should I declare the encoding in the HTTP header?
-3. Working with polyglot and XML formats
-4. Additional learning resources
+This document covers the following topics: <br>
+1. What about the byte-order mark? <br>
+2. Should I declare the encoding in the HTTP header? <br>
+3. Working with polyglot and XML formats <br>
+4. Additional learning resources <br>
