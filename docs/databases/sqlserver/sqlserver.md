@@ -1,4 +1,4 @@
-# Database Character Set and Encoding
+## Database Character Set and Encoding
 
 In a SQL Server database, the encoding and collation rules can be defined at four levels:
 
@@ -11,7 +11,7 @@ Any rules for items with a narrower scope (e.g., column) override the rules defi
 
 **To support the storage of Unicode characters, the collation/encoding rule used for a column must end in _ UTF8.**
 
-## How can I tell what the encoding is for my SQL Server database?
+### How can I tell what the encoding is for my SQL Server database?
 
 Use this SQL to determine the character set used by your database.
 
@@ -22,15 +22,15 @@ WHERE c.name = '<column name>' AND t.name = '<table name>'
 AND t.object_id = c.object_id;
 ```
 
-## What are the collation rules used in the database?
+### What are the collation rules used in the database?
 
 In a SQL Server database, the collation and encoding are defined together, as described above.
 
-## How do I create a new database with a Unicode encoding?
+### How do I create a new database with a Unicode encoding?
 
 When creating a database, specify an encoding with a name ending in _UTF8, e.g., LATIN1_GENERAL_100_BIN2_UTF8.
 
-## What happens when I try to store Unicode characters in a non-Unicode-encoded database?
+### What happens when I try to store Unicode characters in a non-Unicode-encoded database?
 
 As an example, when the following INSERT statement is attempted to a table in a SQL Server database that is encoded as SQL_Latin1_General_CP1_CI_AS (not UTF8)
 
@@ -60,9 +60,7 @@ AND t.object\_id = c.object\_id; -- answer is
 
 -- 'SQL\_Latin1\_General\_CP1\_CI\_AS'
 
-INSERT INTO TESTTAB VALUES(N'Secwe̓pemc')
-# 1
-;
+INSERT INTO TESTTAB VALUES(N'Secwe̓pemc'); -- The N prefix indicates that the following string is Unicode. It is necessary to include this when referring to Unicode literal strings in SQL Server.
 
 SELECT \* FROM TESTTAB; -- answer is Secwe?pemc
 
@@ -85,7 +83,3 @@ AND t.object\_id = c.object\_id; -- answer is
 INSERT INTO TESTTAB VALUES(N'Secwe̓pemc');
 
 SELECT \* FROM TESTTAB; -- answer is Secwe̓pemc
-
-[1](#sdfootnote1anc)The N prefix indicates that the following string is Unicode. It is necessary to include this when referring to Unicode literal strings in SQL Server.
-
-- 4 -

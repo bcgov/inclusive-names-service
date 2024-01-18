@@ -1,4 +1,4 @@
-# Database Character Set and Encoding
+## Database Character Set and Encoding
 
 In MySQL, the character set for the installation is defined in the initialization file ('my.cnf' or 'my.ini'). If nothing is specified there, then the default character set in MySQL version 8.0 is "utf8mb4", which uses the UTF-8 encoding, storing characters in binary using 1 to 4 bytes. utf8mb4 supports characters in the [Basic Multilingual Plane (BMP)](https://dev.mysql.com/doc/mysql-g11n-excerpt/5.7/en/charset-unicode.html) and supplementary planes.  The character set can be overridden for individual databases, tables, columns and literals, with the value specified at a higher level (e.g., database) becoming the default when creating objects at the lower levels (e.g., table). As an example, the following SQL creates a table where ``utf8mb4`` is the encoding used for all of character data columns except for ``string_column``, for which the encoding is specified as ``ascii``. 
 ```
@@ -13,11 +13,11 @@ COLLATE = binary;
 
 **To support the storage of Indigenous language characters, the character set encoding used must be utf8mb4**
 
-## What are the collation rules used in the database?
+### What are the collation rules used in the database?
 
 In MySQL, default collation rules are defined in the initialization file and, like the character set, and can be overridden for a particular database, table, column, or character expression. The database collation can be further overridden for individual columns (of tables) or SQL expressions. See [https://dev.mysql.com/doc/refman/8.0/en/charset.html](https://dev.mysql.com/doc/refman/8.0/en/charset.html). 
 
-## How can I tell what the default character set encoding and collation are for my MySQL database?
+### How can I tell what the default character set encoding and collation are for my MySQL database?
 
 Use this SQL to determine the default character set encoding and collation used by your database.
 
@@ -45,7 +45,7 @@ WHERE SCHEMA_NAME = '<db_name>' AND TABLE_NAME = '<table name>' AND COLUMN_NAME 
 **To support the correct processing of Indigenous language characters, the collation used must be utf8mb4_bin**
 
 
-## What happens when I try to store Unicode characters in a non-Unicode-encoded table?
+### What happens when I try to store Unicode characters in a non-Unicode-encoded table?
 
 As an example, when the following INSERT statement is attempted on a MySQL table that is encoded as ASCII rather than UTF8, the error below is raised.
 
