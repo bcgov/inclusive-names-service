@@ -25,20 +25,37 @@ nav:
     -   Programming languages:
             - Programming languages and Unicode: programming_languages/Readme.md
             - C and Unicode: 
-                - Comments: programming_languages/c/README.md
+                - C Programming Considerations: programming_languages/c/README.md
                 - Sample code: https://github.com/bcgov/inclusive-names-service/blob/main/docs/programming_languages/c/utf8.c
             - C++ and Unicode: 
-                - Comments: programming_languages/c++/README.md
+                - C++ Programming Considerations: programming_languages/c++/README.md
                 - Sample code: https://github.com/bcgov/inclusive-names-service/blob/main/docs/programming_languages/c++/utf8.cpp
-            - cobol and Unicode: programming_languages/cobol/README.md
-            - go and Unicode: programming_languages/go/README.md
-            - java and Unicode: programming_languages/java/README.md
-            - javascript and Unicode: programming_languages/javascript/README.md
-            - nodejs and Unicode: programming_languages/nodejs/README.md
-            - perl and Unicode: programming_languages/perl/README.md
-            - php and Unicode: programming_languages/php/README.md
-            - python2 and Unicode: programming_languages/python2/README.md
-            - python3 and Unicode: programming_languages/python3/README.md
+            - Cobol and Unicode: 
+                - Cobol Programming Considerations: programming_languages/cobol/README.md
+            - go and Unicode: 
+                - go Programming Considerations: programming_languages/go/README.md
+                - Sample code: https://github.com/bcgov/inclusive-names-service/blob/main/docs/programming_languages/go/utf8.go
+            - Java and Unicode: 
+                - Java Programming Considerations: programming_languages/java/README.md
+                - Sample code: https://github.com/bcgov/inclusive-names-service/blob/main/docs/programming_languages/java/utf8.java
+            - Javascript and Unicode: 
+                - Javascript Programming Considerations: programming_languages/javascript/README.md
+                - Sample code: https://github.com/bcgov/inclusive-names-service/blob/main/docs/programming_languages/javascript/utf8.html
+            - nodejs and Unicode: 
+                - nodejs Programming Considerations: programming_languages/nodejs/README.md
+                - Sample code: https://github.com/bcgov/inclusive-names-service/blob/main/docs/programming_languages/nodejs/utf8.js
+            - Perl and Unicode: 
+                - Perl Programming Considerations: programming_languages/perl/README.md
+                - Sample code: https://github.com/bcgov/inclusive-names-service/blob/main/docs/programming_languages/perl/utf8.perl
+            - PHP and Unicode: 
+                - PHP Programming Considerations: programming_languages/php/README.md
+                - Sample code: https://github.com/bcgov/inclusive-names-service/blob/main/docs/programming_languages/php/utf8.php
+            - Python2 and Unicode: 
+                - Python 2 Programming Considerations: programming_languages/python2/README.md
+                - Sample code: https://github.com/bcgov/inclusive-names-service/blob/main/docs/programming_languages/python2/utf8.py
+            - Python3 and Unicode: 
+                - Python 3 Programming Considerations: programming_languages/python3/README.md
+                - Sample code: https://github.com/bcgov/inclusive-names-service/blob/main/docs/programming_languages/pyhton3/utf8.py
     -   Dataflow Analysis: data_flow_analysis/Readme.md
     -   File Formats:
             - File formats and Unicode: file_formats/Readme.md
