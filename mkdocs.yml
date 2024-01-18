@@ -17,24 +17,28 @@ nav:
     -   Overview: index.md
     -   Databases:
             - Databases and Unicode: databases/Readme.md
-            - Db2: databases/db2/db2.md
-            - mysql: databases/mysql/mysql.md
-            - Oracle: databases/oracle/oracle.md
-            - PostgreSQL: databases/postgresql/postgresql.md
-            - SQL Server: databases/sqlserver/sqlserver.md
+            - Unicode and Db2: databases/db2/db2.md
+            - Unicode and mysql: databases/mysql/mysql.md
+            - Unicode and Oracle: databases/oracle/oracle.md
+            - Unicode and PostgreSQL: databases/postgresql/postgresql.md
+            - Unicode and SQL Server: databases/sqlserver/sqlserver.md
     -   Programming languages:
             - Programming languages and Unicode: programming_languages/Readme.md
-            - C: programming_languages/c/README.md
-            - C++: programming_languages/c++/README.md
-            - cobol: programming_languages/cobol/README.md
-            - go: programming_languages/go/README.md
-            - java: programming_languages/java/README.md
-            - javascript: programming_languages/javascript/README.md
-            - nodejs: programming_languages/nodejs/README.md
-            - perl: programming_languages/perl/README.md
-            - php: programming_languages/php/README.md
-            - python2: programming_languages/python2/README.md
-            - python3: programming_languages/python3/README.md
+            - C and Unicode: 
+                - Comments: programming_languages/c/README.md
+                - Sample code: https://github.com/bcgov/inclusive-names-service/blob/main/docs/programming_languages/c/utf8.c
+            - C++ and Unicode: 
+                - Comments: programming_languages/c++/README.md
+                - Sample code: https://github.com/bcgov/inclusive-names-service/blob/main/docs/programming_languages/c++/utf8.cpp
+            - cobol and Unicode: programming_languages/cobol/README.md
+            - go and Unicode: programming_languages/go/README.md
+            - java and Unicode: programming_languages/java/README.md
+            - javascript and Unicode: programming_languages/javascript/README.md
+            - nodejs and Unicode: programming_languages/nodejs/README.md
+            - perl and Unicode: programming_languages/perl/README.md
+            - php and Unicode: programming_languages/php/README.md
+            - python2 and Unicode: programming_languages/python2/README.md
+            - python3 and Unicode: programming_languages/python3/README.md
     -   Dataflow Analysis: data_flow_analysis/Readme.md
     -   File Formats:
             - File formats and Unicode: file_formats/Readme.md
