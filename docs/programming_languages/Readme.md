@@ -25,7 +25,10 @@ The links in the left column point to pages that deal with the specific programm
 * prints the 7th character of the line of text
 * prints the 7th grapheme in the line of text.
 
-All examples use the [utf8.txt](utf8.txt) file in this parent directory for input data. Test with different data simply by adding to or updating this file.
+All examples use the [utf8.txt](https://github.com/bcgov/inclusive-names-service/blob/main/docs/programming_languages/utf8.txt) file for input data. Test with different data simply by adding to or updating this file.
 
 ## Other helpful notes
-Libraries -- These are a potential source of pain that must also be investigated to ensure full utf8 support. For instance in an example application the full data flow of utf-8 was functioning correctly to and from the backend however a library was being used to allow the frontend to create a download of the utf-8 content and it was using a function in javascript that doesn't support the characters so they were being truncated in the file output. This wasn't caught for a while as it's a rarely traveled path in the application.
+### Libraries 
+It is important to keep in mind that some libraries do not provide full Unicode support, and use without proper testing may lead to problems. For instance, in an example application the full data flow of utf-8 was functioning correctly to and from the backend however a library was being used to allow the frontend to create a download of the utf-8 content and it was using a function in javascript that doesn't support the characters so they were being truncated in the file output. This wasn't caught for a while as it was a rarely traveled path in the application.
+
+Consider using the Unicode International Components for Unicode (ICU) [ICU4C](https://unicode-org.github.io/icu/userguide/icu4c/) and [ICU4J](https://unicode-org.github.io/icu/userguide/icu4j/) libraries where possible. The [ICU User Guide](https://unicode-org.github.io/icu/userguide/) is a good starting point.
