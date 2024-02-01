@@ -18,13 +18,17 @@ The following files can be used in testing systems for Indigenous language suppo
 Note: BCGW stands for [BC Geographic Warehouse](https://www2.gov.bc.ca/gov/content?id=18B291A12B4F42EA98169892F4B46D61)
 
 ## Test Script
-This folder also contains a file called [testApi.py](https://github.com/bcgov/inclusive-names-service/tree/main/docs/test_data/testApi.py) which can be used to quickly test an api, we recommend piping the output to a file for easy browsing ( python3 test_dataApi.py ...params... > output.txt)
-python3 test_data/testApi.py 
-usage: testApi.py [-h] -u URL -m METHOD -f USEFIELD -c CSV [-d ADDITIONALDATA] [-j JWT]
+This folder also contains a file called [testApi.py](https://github.com/bcgov/inclusive-names-service/tree/main/docs/test_data/testApi.py) which can be used to quickly test an api, we recommend piping the output to a file for easy browsing ( `python3 test_dataApi.py ...params... > output.txt`)
 
--u the full url you want to test against ie http://127.0.0.1/api/myendpoint
--m the method to use ie GET/POST/PUT/DELETE/HEAD/OPTIONS
--f The field name to use ie name
--c The path to the csv to use, this folder has some good ones
--d (OPTIONAL) other data to send formatted as json ie '{"field1": "value1", "numberfield": 2}'
--j (OPTIONAL) a jwt for jwt authenticated apis
+    python3 test_data/testApi.py 
+
+usage: 
+
+    testApi.py [-h] -u URL -m METHOD -f USEFIELD -c CSV [-d ADDITIONALDATA] [-j JWT]
+
+- `-u` the full url you want to test against ie http://127.0.0.1/api/myendpoint
+- `-m` the method to use ie GET/POST/PUT/DELETE/HEAD/OPTIONS
+- `-f` The field name to use ie name
+- `-c` The path to the csv to use, this folder has some good ones
+- `-d` (OPTIONAL) other data to send formatted as json ie '{"field1": "value1", "numberfield": 2}'
+- `-j` (OPTIONAL) a jwt for jwt authenticated apis
