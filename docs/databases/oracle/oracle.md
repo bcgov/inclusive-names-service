@@ -40,3 +40,15 @@ ORDER BY column_id;
 ```
 
 As described in the parent [README.md](../README.md), for databases containing a mix of ASCII and Indigenous Language Unicode characters, the most appropriate collation rule to use is BINARY.
+
+### Comparing UTF-8 (VARCHAR2) with UTF-16 (NVARCHAR2) text strings
+The following code snippet illustrates comparing two text strings, both having the same characters, but one encoded in UTF-8 and the other in UTF-16. Viewed as characters the two strings are identical, even though their internal representations are different. The Oracle '=' test judges them as equal, which is good!
+
+```
+create table testutf(utf8 varchar2(100), utf16 nvarchar2(100)); -- varchar2 uses a utf-8 encoding; nvarchar2 uses a utf-16 encoding
+insert into testutf values('Tk̓emlúps te Secwépemc','Tk̓emlúps te Secwépemc');
+select length(utf8),length(utf16) from testutf; -- 22 characters each. Note though that there are just 21 graphemes
+select length('k̓') from dual; -- this grapheme is 2 characters
+select lengthb(utf8),lengthb(utf16) from testutf;  -- utf8 = 25 bytes, utf16 = 44 bytes
+select * from testutf where utf8 = utf16; -- the two strings are judged equal, even though internally (bytes) they are different.
+```
