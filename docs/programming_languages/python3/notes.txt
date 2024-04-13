@@ -1,0 +1,32 @@
+ Id CommandLine
+  -- -----------
+   1 z:
+   2 pushd \\data.bcgov\work
+   3 cd projects
+   4 cd FYE2023
+   5 cd .\INS-54_GeneralTechnicalReadiness\inclusive-names-service\docs\python3
+   6 cd .\INS-54_GeneralTechnicalReadiness\inclusive-names-service\docs\
+   7 cd .\programming_languages\python3
+   8 .\venv\scripts\activate
+   9 Set-ExecutionPolicy unrestricted
+  10 .\venv\scripts\activate
+  11 python .\utf8.py
+  
+  
+  powershell -ExecutionPolicy unrestricted
+  pushd \\data.bcgov\work\Projects\FYE2023\INS-54_GeneralTechnicalReadiness\inclusive-names-service\docs\programming_languages\python3
+  python -m venv venvdir
+  .\venvdir\scripts\activate
+  pip install 
+  requirements.txt
+	regex
+	unicodedata
+	anyascii
+	grapheme
+python -m pip install -r requirements.txt
+
+
+https://grapheme.readthedocs.io/en/latest/
+
+grapheme.slice(string, start=None, end=None
+  
