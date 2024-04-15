@@ -59,7 +59,7 @@ nav:
                 - Sample code: https://github.com/bcgov/inclusive-names-service/blob/main/docs/programming_languages/python2/utf8.py
             - Python3 and Unicode: 
                 - Python 3 Programming Considerations: programming_languages/python3/README.md
-                - Sample code: https://github.com/bcgov/inclusive-names-service/blob/main/docs/programming_languages/pyhton3/utf8.py
+                - Sample code: https://github.com/bcgov/inclusive-names-service/blob/main/docs/programming_languages/python3/utf8.py
     -   Dataflow Analysis: data_flow_analysis/Readme.md
     -   File Formats:
             - File formats and Unicode: file_formats/Readme.md
