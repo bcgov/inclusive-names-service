@@ -7,7 +7,7 @@ plugins:
     - ezlinks
 
 markdown_extensions:
-    - markdown_inline_mermaid
+#    - markdown_inline_mermaid
     - md_in_html
     -   mkpatcher:
             location: patcher.py
@@ -15,6 +15,10 @@ markdown_extensions:
 #          Example navigation structure shown below. Fill out as appropriate for your content.
 nav:
     -   Overview: index.md
+    -   Techniques for comparing text strings:
+            - Normalizing Unicode text: normalization/README.md
+            - Segmenting Unicode text: segmentation/README.md
+            - Approximating Unicode text with ASCII: anyascii/README.md
     -   Databases:
             - Databases and Unicode: databases/Readme.md
             - Unicode and Db2: databases/db2/db2.md
@@ -66,6 +70,7 @@ nav:
     -   COTS Products:
             -   Unicode and COTS: cots/Readme.md
             -   Configuring Windows workstations: cots/configuring_workstation.md
+    -   Specifying Indigenous languages: languages/README.md
     -   Test Data: test_data/Readme.md
     -   Glossary: glossary.md
     -   References: references.md

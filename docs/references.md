@@ -6,6 +6,7 @@ The following resources may be useful to software development teams when constru
 [C and C++](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#c-and-c) <br>
 [Encryption and Decryption](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#encryption-and-decryption) <br>
 [Excel](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#excel) <br>
+[Fonts](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#fonts) <br>
 [Java](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#java) <br>
 [JavaScript](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#javascript) <br>
 [MySQL](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#mysql) <br>
@@ -85,17 +86,10 @@ This Architectural Specification provides authors of specifications, software de
 
 This document builds upon [Character Model for the World Wide Web 1.0: Fundamentals](https://www.w3.org/TR/charmod/) to provide authors of specifications, software developers, and content developers a common reference on string identity matching on the World Wide Web and thereby increase interoperability.
 
-[UTF-8 Everywhere Manifesto](https://utf8everywhere.org/)
+[UTF-8 Everywhere Manifesto
+](https://utf8everywhere.org/)
 
 _Our goal is to promote usage and support of the UTF-8 encoding and to convince that it should be the default choice of encoding for storing text strings in memory or on disk, for communication and all other uses. We believe that our approach improves performance, reduces complexity of software and helps prevent many Unicode-related bugs. We suggest that other encodings of Unicode (or text, in general) belong to rare edge-cases of optimization and should be avoided by mainstream users._
-
-[Indigenous languages and technology](https://www.un.org/esa/socdev/unpfii/documents/2016/egm/Indigenous_languages_and_techology_Craig%20Cornelius_FINAL.pdf)
-
-This presentation from 2016 illustrates the considerations in supporting Indigenous languages.
-
-[Supporting Indigenous Names & Alphabets With Technology](https://www.youtube.com/watch?v=5FV9vcWZru4)
-
-This video, produced by the [First Peoples' Cultural Council](https://fpcc.ca/resource/technology/), provides an excellent overview of the issues involved in supporting B.C. Indigenous languages in systems.
 
 ## **C and C++**
 
@@ -157,6 +151,21 @@ This article explains that Excel expects a byte order mark (BOM) at the start of
 [Creating International CSV files with python](https://chase-seibert.github.io/blog/2014/07/30/international-csv-files-python.html)
 
 This article explains how to create comma separated value (CSV) files, containing Unicode characters, that can be read by Excel and other Windows applications.
+## **Fonts**
+
+[Unicode Fonts](https://en.wikipedia.org/wiki/Unicode_font)
+
+"This article lists some widely used Unicode fonts (shipped with an operating system or produced by a well-known commercial font company) that support a comparatively large number and broad range of Unicode characters."
+
+Interesting point is that a [TrueType](https://en.wikipedia.org/wiki/TrueType) font can define glyphs for a maximum of 65,535 code points, which is less than half the number of code points (149813) that are defined in Unicode 15.1 (current version).
+
+[Typotheque develops typefaces to support the digital preservation of Indigenous languages](https://www.itsnicethat.com/news/typotheque-north-american-syllabics-digital-010922)
+
+"In close collaboration with Indigenous language keepers, Typotheque seeks to correct Unicode errors preventing Indigenous languages being written digitally."
+
+[An introduction to Syllabics typography](https://fonts.google.com/knowledge/the_canadian_syllabics/an_introduction_to_syllabics_typography)
+
+"The Syllabics—sometimes referred to as the Canadian Aboriginal Syllabics—is a [writing system](https://fonts.google.com/knowledge/glossary/writing_system) used by several Indigenous language communities in Canada and the United States, including nêhiyawêwin (Cree), Anishinaabemowin (Ojibwe), Inuktut (Inuktitut), Dakelh (Carrier), iyuw iyimuun (Naskapi), and Saı́yısı́ dëne (Sayisi Dene)."
 
 ## **Java**
 

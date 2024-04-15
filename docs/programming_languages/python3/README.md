@@ -1,10 +1,25 @@
 This example requires the regex, unicodedata, anyascii, and grapheme libraries. 
 
-A note on graphemes
-Depends on what you are looking for. graphemes() will return what users would perceive as single characters, even though they may contain more than one codepoint; for example a letter combined with an accent mark is a single grapheme. This is not the case with split().
+* **regex**: used to split a Unicode string into graphemes.  This can also be done with the grapheme library.
+* **unicodedata**: used to normalize a Unicode string four ways: NFC, NFD, NFKC, NFKD. 
+* **anyascii**: used to produce an "approximate" ascii version of a specified Unicode string.
+* **grapheme**: used to select the nth grapheme from a Unicode string.
 
-Consider a + ◌́ . In this example, split() will return the two codepoints as separate characters whereas graphemes() will return a single character.
+The program reads Unicode strings from utf8.txt (in the parent directory)
+ 
+To create a virtual environment to run the example:
 
-## Gotchas
-- prefacing a string with a u will switch it to unicode
-- for graphemes you need the regex \X
+```
+python -m venv venvdir
+.\venvdir\scripts\activate
+python -m pip install -r requirements.txt
+```
+where requirements.txt contains the following lines:
+
+```
+regex
+anyascii
+grapheme
+```
+
+(assuming ```unicodedata``` is part of standard python)
