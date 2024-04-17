@@ -2,9 +2,18 @@
 
 Modern web services (web pages and API's) are often designed for an international setting, and they attempt to respond to users according to certain settings specified by the user in requesting the web page or API response.
 
-One such setting is the language, which can be specified as one or more *language codes* in the HTTP [Accept-language](https://http.dev/accept-language) request header or in an API query parameter, as described later on this page.
+One such setting is the language, which can be specified using a language **code** composed of 1 or more **subtags**. The W3C Internationalization document [Language tags in HTML and XML](https://www.w3.org/International/articles/language-tags/) provides examples of codes and their subtags:
 
-The responsibility of defining specific language codes sits with the [ISO/TC37](https://en.wikipedia.org/wiki/ISO/TC_37) standards committee. [ISO 639-3](https://iso639-3.sil.org/) defines 3-letter language codes for all the world's living languages. In this set, `eng` stands for English, `fra` for French, `deu` for German, etc.  [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1) is a much simpler set, using 2-letter codes. ISO 639-1 is often used for major languages such as English (`en`) or French (`fr`). **For the purposes of the Accept-language header, ISO 639-1 is used where possible, with ISO 639-3 being used in cases where the language is not defined in ISO 639-1.**  
+|Code|Language|Subtags|
+|---|--------|-------|
+|en|English|language|
+|mas|Maasai|language|
+|fr-CA|French as used in Canada|language and region|
+|zh-Hans|Chinese written with Simplified script	|language and script|
+|zh-Hant-HK|Chinese written with Traditional script, as used in Hong Kong|language, script and region|
+
+
+The responsibility of defining the possible values for language codes and subtags sits with the [ISO/TC37](https://en.wikipedia.org/wiki/ISO/TC_37) standards committee. [ISO 639-3](https://iso639-3.sil.org/) defines 3-letter language codes for all the world's living languages. In this set, `eng` stands for English, `fra` for French, `deu` for German, etc.  [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1) is a much simpler set, using 2-letter codes. ISO 639-1 is often used for major languages such as English (`en`) or French (`fr`). **For the purposes of the specifying an appropriate language code, ISO 639-1 is used where possible, with ISO 639-3 being used in cases where the language is not defined in ISO 639-1.**  
 
 ## Language codes for B.C. Indigenous languages
 
@@ -15,14 +24,17 @@ The following is a partial list of B.C. Indigenous languages and their correspon
 |Hul'qumi'num (Halkomelem)| hur |https://www.firstvoices.com/halqemeylem |
 |Nuu-chah-nulth (Nuu-chah-nulth, Nuuchahnulth)| nuk |https://www.firstvoices.com/nuu-chah-nulth-barkley |
 |Sexqeltqin (Shuswap)|shs |https://www.firstvoices.com/secwepemc |
+|Plains Cree|crk |https://www.firstvoices.com/cree-saulteau |
+
+As with other language codes, the codes for BC Indigenous languages may contain multiple subtags. For example, Plains Cree (language code crk) has both a Roman orthography form and a syllabic form; these can be distinguished by adding the subtags `-Latn` or `-Syll`, i.e., `crk-Latn` and `crk-Syll`.
 
 ## Content Negotiation
 
-Content Negotiation refers to the process of a user requesting a certain form of content (e.g., the language used in the response) and the service provider attempting to act on that request. In general there is no guarantee that the service provider can fulfill the request, so requests can take the form of a prioritized list of options (e.g., `nuk` as the first choice for `Accept-language` and `en` as the second choice).
+Content Negotiation refers to the process of a user requesting a certain form of content (e.g., the language used in the response) and the service provider attempting to act on that request. In general there is no guarantee that the service provider can fulfill the request, so requests can take the form of a prioritized list of options (e.g., `nuk` as the first choice for `Accept-language` and `en` as the second choice). The service provider responds by setting `Content-language` to indicate the language that it chose.
 
 ## Specifying language preference to a service
 
-When specifying a language preference in a message sent to a web service, the user can specify the value either as `Accpet-language` in the request  header or as a parameter along with the other query parameters. For web pages, which are requested by web browsers and served by web servers, `Accept-language` is specified in the request header. For API's, the language can be specified either in the message headers, as a query parameter. Since the API code has control over how to interpret the language specification, the name of the parameters does not need to be `Accept-language`. Often `lang=` or `language=` are used. 
+When specifying a language preference in a message sent to a web service, the user can specify the value either as `Accept-language` in the request  header or as a parameter along with the other query parameters. For web pages, which are requested by web browsers and served by web servers, `Accept-language` is specified in the request header. For API's, the language can be specified either in the message headers, as a query parameter. Since the API code has control over how to interpret the language specification, the name of the parameters does not need to be `Accept-language`. Often `lang=` or `language=` are used. 
 
 ### Request Header
 
