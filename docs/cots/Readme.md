@@ -1,5 +1,5 @@
 # Unicode and Commercial-Off-The-Shelf (COTS) Products 
-This section covers information for supporting Indigenous language text when using COTS products. More will be added as we evaluate individual COTS products.
+This section covers information for supporting Indigenous language text when using COTS products. 
 
 [Guidance on Database Management Systems](../databases/Readme.md) <br>
 [Guidance on Programming Languages](../programming_languages/Readme.md) <br>
