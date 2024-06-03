@@ -6,12 +6,12 @@ on:
         branches: [ main ]
         paths:
             - "mkdocs.yml"
-            - "docs/*"
+            - "docs/* *"
     pull_request:
         branches: [ main ]
         paths:
             - "mkdocs.yml"
-            - "docs/*"
+            - "docs/* *"
 
 jobs:
     test_techdocs_build_job:
