@@ -1,27 +1,31 @@
-[![Lifecycle:Maturing](https://img.shields.io/badge/Lifecycle-Maturing-007EC6)]()
+![Lifecycle:Experimental](images/Lifecycle-Experimental-339999.svg)
 
-# Techniques for Supporting Indigenous Language Text
-This repository includes code and tips that will be useful to systems developers and maintainers who need to ensure that their computer systems can properly input, store, process, and display/export Unicode characters (used for Indigenous language text). It also includes tips on supporting Indigenous language text when using Commercial-off-the-shelf (COTS) products.
+# Techniques for Supporting Indigenous Language Text in Computer Systems
+This site includes code and tips that will be useful to systems developers and maintainers who need to ensure that their computer systems can properly input, store, process, and display/export Unicode characters and [graphemes](https://github.com/bcgov/inclusive-names-service/blob/main/docs/glossary.md#---grapheme) (used in Indigenous language text). It also includes tips on supporting Indigenous language text when using Commercial-off-the-shelf (COTS) products.
+
+Learn more about [
+Including Indigenous languages in government records, systems and services - Province of British Columbia](https://www2.gov.bc.ca/gov/content?id=666A1FD778FA437994E419A98662ED5C).
+ 
 
 ### Programming Languages
 Some older programming languages assume an equivalence between characters and bytes (i.e., one character requires exactly one byte of storage). With these languages, handling multi-byte or variable length encodings such as UTF-8 requires special libraries or techniques. The following link provides the details.
 
-[Programming Languages](docs/programming_languages/Readme.md)
+[Programming Languages](programming_languages/Readme.md)
 
 ### Database Management Systems
 Systems that process Unicode data and use database management systems (DBMS) need to have those DBMS's configured to store data using a Unicode encoding. The following link provides guidance for configuring a DBMS to use the UTF-8 encoding.
 
-[Databases](docs/databases/Readme.md)
+[Databases](databases/Readme.md)
 
 ### Commercial Off the Shelf (COTS) Products
 COTS products in use in the BC Government vary in their support for Unicode, and in particular Indigenous language text. The following link provides guidance in using these products.
 
-[Using Commercial-off-the-shelf Products](docs/cots/Readme.md)
+[Using Commercial-off-the-shelf Products](cots/Readme.md)
 
 ### Mainframe Systems
 Depending on how the elements are configured, IBM mainframe systems may or may not be able to support Indigenous language characters.
 
-[Configuring mainframe systems to support Indigenous language text](docs/mainframe_systems/Readme.md)
+[Configuring mainframe systems to support Indigenous language text](mainframe_systems/Readme.md)
 
 ### Some Test Data
 The following link points to a directory containing data files that have Unicode data.
@@ -31,16 +35,16 @@ The following link points to a directory containing data files that have Unicode
 ### File Formats
 This section provides guidance on handling Unicode data using various file formats (e.g., CSV, Excel)
 
-[File Formats](docs/file_formats/Readme.md)
+[File Formats](file_formats/Readme.md)
 
 ### Data Transfer Protocols
 This section provides guidance on handling Unicode data when using various data transfer protocols (e.g., ftp)
-[Data Transfer Protocols](docs/data_transfer_protocols/Readme.md)
+[Data Transfer Protocols](data_transfer_protocols/Readme.md)
 
 ### Data Flow Analysis Primer and Example
 This section introduces the subject of data flow analysis, which can be used to evaluate whether a particular system might encounter issues when working with Unicode data.
 
-[Data Flow Analysis](docs/data_flow_analysis/Readme.md)
+[Data Flow Analysis](data_flow_analysis/Readme.md)
 
 ### How to Learn More
 
