@@ -9,13 +9,29 @@ with open("../utf8.txt",encoding="utf-8",mode="r") as exampleFile:
         output.write("\n\nString: "+line)        
         output.write("anyascii version: "+anyascii(line) )
 
-        output.write("String type: "+str(type(line))+"\n")
-
         # Normalize the string 4 ways: NFC, NFKC, NFD, and NFKD
-        NFCStrList = "".join(list(unicodedata.normalize('NFC',line)))
-        NFDStrList = "".join(list(unicodedata.normalize('NFD',line)))
-        NFKCStrList = "".join(list(unicodedata.normalize('NFKC',line)))
-        NFKDStrList = "".join(list(unicodedata.normalize('NFKD',line)))
+        # Use the ascii function to ensure non-ASCII codepoints are printed using escape syntax
+        # See https://stackoverflow.com/questions/16467479/normalizing-unicode
+        NFCString = unicodedata.normalize('NFC',line)
+        NFDString = unicodedata.normalize('NFD',line)
+        NFKCString = unicodedata.normalize('NFKC',line)
+        NFKDString = unicodedata.normalize('NFKD',line)
+        NFCStringAscii = ascii(unicodedata.normalize('NFC',line))
+        NFDStringAscii = ascii(unicodedata.normalize('NFD',line))
+        NFKCStringAscii = ascii(unicodedata.normalize('NFKC',line))
+        NFKDStringAscii = ascii(unicodedata.normalize('NFKD',line))
+        NFCStrList = "".join(list(NFCString))
+        NFDStrList = "".join(list(NFDString))
+        NFKCStrList = "".join(list(NFKCString))
+        NFKDStrList = "".join(list(NFKDString))
+        output.write('NFC string: '+NFCString)
+        output.write('NFD string: '+NFDString)
+        output.write('NFKC string: '+NFDString)
+        output.write('NFKD string: '+NFDString)
+        output.write('NFC string ascii: '+NFCStringAscii+"\n")
+        output.write('NFD string ascii: '+NFDStringAscii+"\n")
+        output.write('NFKC string ascii: '+NFKCStringAscii+"\n")
+        output.write('NFKD string ascii: '+NFKDStringAscii+"\n")
         output.write('NFC character list: '+", ".join(NFCStrList))
         output.write('NFD character list: '+", ".join(NFDStrList))
         output.write('NFKC character list: '+", ".join(NFKCStrList))
@@ -23,9 +39,17 @@ with open("../utf8.txt",encoding="utf-8",mode="r") as exampleFile:
 
         output.write("Length - NFC: "+str(len(NFCStrList))+"\n")
         output.write("Length - NFD: "+str(len(NFDStrList))+"\n")
+        output.write("Length - NFKC: "+str(len(NFKCStrList))+"\n")
+        output.write("Length - NFKD: "+str(len(NFKDStrList))+"\n")
 
-        output.write("Seventh character (NFC): "+ NFCStrList[6]+"\n")
-        output.write("Seventh character (NFD): "+ NFDStrList[6]+"\n")
+        if len(NFCStrList) > 6:
+            output.write("Seventh character (NFC): "+ NFCStrList[6]+"\n")
+        if len(NFDStrList) > 6:
+            output.write("Seventh character (NFD): "+ NFDStrList[6]+"\n")
+        if len(NFKCStrList) > 6:
+            output.write("Seventh character (NFKC): "+ NFKCStrList[6]+"\n")
+        if len(NFKDStrList) > 6:
+            output.write("Seventh character (NFKD): "+ NFKDStrList[6]+"\n")
 
         graphemeArr = regex.findall(r'\X', line, regex.U)
         graphemes = u", ".join(graphemeArr)

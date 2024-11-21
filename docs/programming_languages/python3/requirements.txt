@@ -1,3 +1,4 @@
 regex
 anyascii
 grapheme
+unicodedata
