@@ -1,4 +1,4 @@
-regex
-anyascii
-grapheme
-unicodedata
+anyascii==0.3.2
+grapheme==0.6.0
+pyuca==1.2
+regex==2024.11.6
