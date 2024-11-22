@@ -2,22 +2,23 @@
 
 The following resources may be useful to software development teams when constructing Indigenous-Names-Ready systems, and in testing those systems. Click one of the following links to go straight to a list of references for that section.
 
-[General](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#general) <br>
-[C and C++](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#c-and-c) <br>
-[Encryption and Decryption](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#encryption-and-decryption) <br>
-[Excel](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#excel) <br>
-[Fonts](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#fonts) <br>
-[Java](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#java) <br>
-[JavaScript](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#javascript) <br>
-[MySQL](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#mysql) <br>
-[Normalization](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#normalization) <br>
-[Oracle](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#oracle) <br>
-[Perl](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#perl) <br>
-[PHP](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#php) <br>
-[PostgreSQL](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#postgresql) <br>
-[Python](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#python) <br>
-[Security](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#security) <br>
-[SQL Server](https://github.com/bcgov/inclusive-names-service/blob/main/references.md#sql-server) <br>
+[General](https://github.com/bcgov/inclusive-names-service/blob/main/docs/references.md#general) <br>
+[C and C++](https://github.com/bcgov/inclusive-names-service/blob/main/docs/references.md#c-and-c) <br>
+[Encryption and Decryption](https://github.com/bcgov/inclusive-names-service/blob/main/docs/references.md#encryption-and-decryption) <br>
+[Excel](https://github.com/bcgov/inclusive-names-service/blob/main/docs/references.md#excel) <br>
+[Fonts](https://github.com/bcgov/inclusive-names-service/blob/main/docs/references.md#fonts) <br>
+[Java](https://github.com/bcgov/inclusive-names-service/blob/main/docs/references.md#java) <br>
+[JavaScript](https://github.com/bcgov/inclusive-names-service/blob/main/docs/references.md#javascript) <br>
+[MySQL](https://github.com/bcgov/inclusive-names-service/blob/main/docs/references.md#mysql) <br>
+[Normalization](https://github.com/bcgov/inclusive-names-service/blob/main/docs/references.md#normalization) <br>
+[Oracle](https://github.com/bcgov/inclusive-names-service/blob/main/docs/references.md#oracle) <br>
+[Perl](https://github.com/bcgov/inclusive-names-service/blob/main/docs/references.md#perl) <br>
+[PHP](https://github.com/bcgov/inclusive-names-service/blob/main/docs/references.md#php) <br>
+[PostgreSQL](https://github.com/bcgov/inclusive-names-service/blob/main/docs/references.md#postgresql) <br>
+[Python](https://github.com/bcgov/inclusive-names-service/blob/main/docs/references.md#python) <br>
+[Security](https://github.com/bcgov/inclusive-names-service/blob/main/docs/references.md#security) <br>
+[Sorting Unicode - The Unicode Collation Algorithm](https://github.com/bcgov/inclusive-names-service/blob/main/docs/references.md#sorting-unicode---the-unicode-collation-algorithm) <br>
+[SQL Server](https://github.com/bcgov/inclusive-names-service/blob/main/docs/references.md#sql-server) <br>
 
 ## **General**
 
@@ -324,3 +325,6 @@ _Beyond these two sources, further research has been ongoing around identifying 
 
 This article describes how to configure SQL Server to support various collations, including Unicode.
 
+## **Sorting Unicode - the Unicode Collation Algorithm**
+
+[Unicode Collation Algoritm](https://unicode.org/reports/tr10/)
