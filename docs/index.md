@@ -142,7 +142,7 @@ The author says: "In this article I'll fill you in on exactly what _every workin
 
 "This article is about encodings and character sets. An article by Joel Spolsky entitled [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html) is a nice introduction to the topic and I greatly enjoy reading it every once in a while. I hesitate to refer people to it who have trouble understanding encoding problems though since, while entertaining, it is pretty light on actual technical details. I hope this article can shed some more light on what exactly an encoding is and just why all your text screws up when you least need it. This article is aimed at developers (with a focus on PHP), but any computer user should be able to benefit from it."
 
-[More articles](references.md)
+[More articles](https://github.com/bcgov/inclusive-names-service/blob/main/docs/references.md))
 
 
 [def]: test_data/README.md
