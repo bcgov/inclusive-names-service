@@ -10,4 +10,4 @@ metadata:
 spec:
   type: documentation
   lifecycle: experimental
-  owner: "databc-admin"
+  owner: "bcgov/databc-admin"
