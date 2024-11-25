@@ -1,0 +1,48 @@
+String:  SMONEĆTEN
+String Type:  java.lang.String
+List: S, M, O, N, E, Ć, T, E, N
+Length: 9
+Seventh Character: T
+Graphemes: S, M, O, N, E, Ć, T, E, N
+Grapheme(s) Length: 9
+
+String:  Tk’emlúps te Secwe̓pemc
+String Type:  java.lang.String
+List: T, k, ’, e, m, l, ú, p, s,  , t, e,  , S, e, c, w, e, ̓, p, e, m, c
+Length: 23
+Seventh Character: ú
+Graphemes: T, k, ’, e, m, l, ú, p, s,  , t, e,  , S, e, c, w, e̓, p, e, m, c
+Grapheme(s) Length: 22
+
+String:  Tk̓emlúps te Secwépemc
+String Type:  java.lang.String
+List: T, k, ̓, e, m, l, ú, p, s,  , t, e,  , S, e, c, w, é, p, e, m, c
+Length: 22
+Seventh Character: ú
+Graphemes: T, k̓, e, m, l, ú, p, s,  , t, e,  , S, e, c, w, é, p, e, m, c
+Grapheme(s) Length: 21
+
+String:  lək̓ʷəŋən
+String Type:  java.lang.String
+List: l, ə, k, ̓, ʷ, ə, ŋ, ə, n
+Length: 9
+Seventh Character: ŋ
+Graphemes: l, ə, k̓, ʷ, ə, ŋ, ə, n
+Grapheme(s) Length: 8
+
+String:  ᓃᔣᐤ ᒥᑖᐦᑐᒥᑕᓇᐤ ᓂᔮᔭᓄᔖᑉ
+String Type:  java.lang.String
+List: ᓃ, ᔣ, ᐤ,  , ᒥ, ᑖ, ᐦ, ᑐ, ᒥ, ᑕ, ᓇ, ᐤ,  , ᓂ, ᔮ, ᔭ, ᓄ, ᔖ, ᑉ
+Length: 19
+Seventh Character: ᐦ
+Graphemes: ᓃ, ᔣ, ᐤ,  , ᒥ, ᑖ, ᐦ, ᑐ, ᒥ, ᑕ, ᓇ, ᐤ,  , ᓂ, ᔮ, ᔭ, ᓄ, ᔖ, ᑉ
+Grapheme(s) Length: 19
+
+String:  ᐊᑲᓇᐍᔨᓯᒧᐏᐣ
+String Type:  java.lang.String
+List: ᐊ, ᑲ, ᓇ, ᐍ, ᔨ, ᓯ, ᒧ, ᐏ, ᐣ
+Length: 9
+Seventh Character: ᒧ
+Graphemes: ᐊ, ᑲ, ᓇ, ᐍ, ᔨ, ᓯ, ᒧ, ᐏ, ᐣ
+Grapheme(s) Length: 9
+

@@ -1,0 +1,181 @@
+
+
+String: 0SMONEĆTEN
+anyascii version: 0SMONECTEN
+NFC string: 0SMONEĆTEN
+NFD string: 0SMONEĆTEN
+NFKC string: 0SMONEĆTEN
+NFKD string: 0SMONEĆTEN
+NFC string ascii: '0SMONE\u0106TEN\n'
+NFD string ascii: '0SMONEC\u0301TEN\n'
+NFKC string ascii: '0SMONE\u0106TEN\n'
+NFKD string ascii: '0SMONEC\u0301TEN\n'
+NFC character list: 0, S, M, O, N, E, Ć, T, E, N, 
+NFD character list: 0, S, M, O, N, E, C, ́, T, E, N, 
+NFKC character list: 0, S, M, O, N, E, Ć, T, E, N, 
+NFKD character list: 0, S, M, O, N, E, C, ́, T, E, N, 
+Length - NFC: 11
+Length - NFD: 12
+Length - NFKC: 11
+Length - NFKD: 12
+Seventh character (NFC): Ć
+Seventh character (NFD): C
+Seventh character (NFKC): Ć
+Seventh character (NFKD): C
+Grapheme(s): 0, S, M, O, N, E, Ć, T, E, N, 
+Grapheme(s) Length: 11
+Sixth Grapheme: E
+
+
+String: Tk̓emlúps te Secwépemc
+anyascii version: Tkemlups te Secwepemc
+NFC string: Tk̓emlúps te Secwépemc
+NFD string: Tk̓emlúps te Secwépemc
+NFKC string: Tk̓emlúps te Secwépemc
+NFKD string: Tk̓emlúps te Secwépemc
+NFC string ascii: 'Tk\u0313eml\xfaps te Secw\xe9pemc\n'
+NFD string ascii: 'Tk\u0313emlu\u0301ps te Secwe\u0301pemc\n'
+NFKC string ascii: 'Tk\u0313eml\xfaps te Secw\xe9pemc\n'
+NFKD string ascii: 'Tk\u0313emlu\u0301ps te Secwe\u0301pemc\n'
+NFC character list: T, k, ̓, e, m, l, ú, p, s,  , t, e,  , S, e, c, w, é, p, e, m, c, 
+NFD character list: T, k, ̓, e, m, l, u, ́, p, s,  , t, e,  , S, e, c, w, e, ́, p, e, m, c, 
+NFKC character list: T, k, ̓, e, m, l, ú, p, s,  , t, e,  , S, e, c, w, é, p, e, m, c, 
+NFKD character list: T, k, ̓, e, m, l, u, ́, p, s,  , t, e,  , S, e, c, w, e, ́, p, e, m, c, 
+Length - NFC: 23
+Length - NFD: 25
+Length - NFKC: 23
+Length - NFKD: 25
+Seventh character (NFC): ú
+Seventh character (NFD): u
+Seventh character (NFKC): ú
+Seventh character (NFKD): u
+Grapheme(s): T, k̓, e, m, l, ú, p, s,  , t, e,  , S, e, c, w, é, p, e, m, c, 
+Grapheme(s) Length: 22
+Sixth Grapheme: ú
+
+
+String: lək̓ʷəŋən
+anyascii version: lekwengen
+NFC string: lək̓ʷəŋən
+NFD string: lək̓ʷəŋən
+NFKC string: lək̓wəŋən
+NFKD string: lək̓wəŋən
+NFC string ascii: 'l\u0259k\u0313\u02b7\u0259\u014b\u0259n\n'
+NFD string ascii: 'l\u0259k\u0313\u02b7\u0259\u014b\u0259n\n'
+NFKC string ascii: 'l\u0259k\u0313w\u0259\u014b\u0259n\n'
+NFKD string ascii: 'l\u0259k\u0313w\u0259\u014b\u0259n\n'
+NFC character list: l, ə, k, ̓, ʷ, ə, ŋ, ə, n, 
+NFD character list: l, ə, k, ̓, ʷ, ə, ŋ, ə, n, 
+NFKC character list: l, ə, k, ̓, w, ə, ŋ, ə, n, 
+NFKD character list: l, ə, k, ̓, w, ə, ŋ, ə, n, 
+Length - NFC: 10
+Length - NFD: 10
+Length - NFKC: 10
+Length - NFKD: 10
+Seventh character (NFC): ŋ
+Seventh character (NFD): ŋ
+Seventh character (NFKC): ŋ
+Seventh character (NFKD): ŋ
+Grapheme(s): l, ə, k̓, ʷ, ə, ŋ, ə, n, 
+Grapheme(s) Length: 9
+Sixth Grapheme: ŋ
+
+
+String: ᓃᔣᐤ ᒥᑖᐦᑐᒥᑕᓇᐤ ᓂᔮᔭᓄᔖᑉ
+anyascii version: niishwaaw mitaahtomitanaw niyaayanoshaap
+NFC string: ᓃᔣᐤ ᒥᑖᐦᑐᒥᑕᓇᐤ ᓂᔮᔭᓄᔖᑉ
+NFD string: ᓃᔣᐤ ᒥᑖᐦᑐᒥᑕᓇᐤ ᓂᔮᔭᓄᔖᑉ
+NFKC string: ᓃᔣᐤ ᒥᑖᐦᑐᒥᑕᓇᐤ ᓂᔮᔭᓄᔖᑉ
+NFKD string: ᓃᔣᐤ ᒥᑖᐦᑐᒥᑕᓇᐤ ᓂᔮᔭᓄᔖᑉ
+NFC string ascii: '\u14c3\u1523\u1424 \u14a5\u1456\u1426\u1450\u14a5\u1455\u14c7\u1424 \u14c2\u152e\u152d\u14c4\u1516\u1449\n'
+NFD string ascii: '\u14c3\u1523\u1424 \u14a5\u1456\u1426\u1450\u14a5\u1455\u14c7\u1424 \u14c2\u152e\u152d\u14c4\u1516\u1449\n'
+NFKC string ascii: '\u14c3\u1523\u1424 \u14a5\u1456\u1426\u1450\u14a5\u1455\u14c7\u1424 \u14c2\u152e\u152d\u14c4\u1516\u1449\n'
+NFKD string ascii: '\u14c3\u1523\u1424 \u14a5\u1456\u1426\u1450\u14a5\u1455\u14c7\u1424 \u14c2\u152e\u152d\u14c4\u1516\u1449\n'
+NFC character list: ᓃ, ᔣ, ᐤ,  , ᒥ, ᑖ, ᐦ, ᑐ, ᒥ, ᑕ, ᓇ, ᐤ,  , ᓂ, ᔮ, ᔭ, ᓄ, ᔖ, ᑉ, 
+NFD character list: ᓃ, ᔣ, ᐤ,  , ᒥ, ᑖ, ᐦ, ᑐ, ᒥ, ᑕ, ᓇ, ᐤ,  , ᓂ, ᔮ, ᔭ, ᓄ, ᔖ, ᑉ, 
+NFKC character list: ᓃ, ᔣ, ᐤ,  , ᒥ, ᑖ, ᐦ, ᑐ, ᒥ, ᑕ, ᓇ, ᐤ,  , ᓂ, ᔮ, ᔭ, ᓄ, ᔖ, ᑉ, 
+NFKD character list: ᓃ, ᔣ, ᐤ,  , ᒥ, ᑖ, ᐦ, ᑐ, ᒥ, ᑕ, ᓇ, ᐤ,  , ᓂ, ᔮ, ᔭ, ᓄ, ᔖ, ᑉ, 
+Length - NFC: 20
+Length - NFD: 20
+Length - NFKC: 20
+Length - NFKD: 20
+Seventh character (NFC): ᐦ
+Seventh character (NFD): ᐦ
+Seventh character (NFKC): ᐦ
+Seventh character (NFKD): ᐦ
+Grapheme(s): ᓃ, ᔣ, ᐤ,  , ᒥ, ᑖ, ᐦ, ᑐ, ᒥ, ᑕ, ᓇ, ᐤ,  , ᓂ, ᔮ, ᔭ, ᓄ, ᔖ, ᑉ, 
+Grapheme(s) Length: 20
+Sixth Grapheme: ᑖ
+
+
+String: ᐊᑲᓇᐍᔨᓯᒧᐏᐣ
+anyascii version: akanaweyisimowin
+NFC string: ᐊᑲᓇᐍᔨᓯᒧᐏᐣ
+NFD string: ᐊᑲᓇᐍᔨᓯᒧᐏᐣ
+NFKC string: ᐊᑲᓇᐍᔨᓯᒧᐏᐣ
+NFKD string: ᐊᑲᓇᐍᔨᓯᒧᐏᐣ
+NFC string ascii: '\u140a\u1472\u14c7\u140d\u1528\u14ef\u14a7\u140f\u1423\n'
+NFD string ascii: '\u140a\u1472\u14c7\u140d\u1528\u14ef\u14a7\u140f\u1423\n'
+NFKC string ascii: '\u140a\u1472\u14c7\u140d\u1528\u14ef\u14a7\u140f\u1423\n'
+NFKD string ascii: '\u140a\u1472\u14c7\u140d\u1528\u14ef\u14a7\u140f\u1423\n'
+NFC character list: ᐊ, ᑲ, ᓇ, ᐍ, ᔨ, ᓯ, ᒧ, ᐏ, ᐣ, 
+NFD character list: ᐊ, ᑲ, ᓇ, ᐍ, ᔨ, ᓯ, ᒧ, ᐏ, ᐣ, 
+NFKC character list: ᐊ, ᑲ, ᓇ, ᐍ, ᔨ, ᓯ, ᒧ, ᐏ, ᐣ, 
+NFKD character list: ᐊ, ᑲ, ᓇ, ᐍ, ᔨ, ᓯ, ᒧ, ᐏ, ᐣ, 
+Length - NFC: 10
+Length - NFD: 10
+Length - NFKC: 10
+Length - NFKD: 10
+Seventh character (NFC): ᒧ
+Seventh character (NFD): ᒧ
+Seventh character (NFKC): ᒧ
+Seventh character (NFKD): ᒧ
+Grapheme(s): ᐊ, ᑲ, ᓇ, ᐍ, ᔨ, ᓯ, ᒧ, ᐏ, ᐣ, 
+Grapheme(s) Length: 10
+Sixth Grapheme: ᓯ
+
+
+String: ę̀
+anyascii version: e
+NFC string: ę̀
+NFD string: ę̀
+NFKC string: ę̀
+NFKD string: ę̀
+NFC string ascii: '\u0119\u0300\n'
+NFD string ascii: 'e\u0328\u0300\n'
+NFKC string ascii: '\u0119\u0300\n'
+NFKD string ascii: 'e\u0328\u0300\n'
+NFC character list: ę, ̀, 
+NFD character list: e, ̨, ̀, 
+NFKC character list: ę, ̀, 
+NFKD character list: e, ̨, ̀, 
+Length - NFC: 3
+Length - NFD: 4
+Length - NFKC: 3
+Length - NFKD: 4
+Grapheme(s): ę̀, 
+Grapheme(s) Length: 2
+Sixth Grapheme: 
+
+
+String: ę̀
+anyascii version: e
+NFC string: ę̀
+NFD string: ę̀
+NFKC string: ę̀
+NFKD string: ę̀
+NFC string ascii: '\u0119\u0300\n'
+NFD string ascii: 'e\u0328\u0300\n'
+NFKC string ascii: '\u0119\u0300\n'
+NFKD string ascii: 'e\u0328\u0300\n'
+NFC character list: ę, ̀, 
+NFD character list: e, ̨, ̀, 
+NFKC character list: ę, ̀, 
+NFKD character list: e, ̨, ̀, 
+Length - NFC: 3
+Length - NFD: 4
+Length - NFKC: 3
+Length - NFKD: 4
+Grapheme(s): ę̀, 
+Grapheme(s) Length: 2
+Sixth Grapheme: 

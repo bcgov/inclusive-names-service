@@ -26,8 +26,8 @@ with open("../utf8.txt",encoding="utf-8",mode="r") as exampleFile:
         NFKDStrList = "".join(list(NFKDString))
         output.write('NFC string: '+NFCString)
         output.write('NFD string: '+NFDString)
-        output.write('NFKC string: '+NFDString)
-        output.write('NFKD string: '+NFDString)
+        output.write('NFKC string: '+NFKCString)
+        output.write('NFKD string: '+NFKDString)
         output.write('NFC string ascii: '+NFCStringAscii+"\n")
         output.write('NFD string ascii: '+NFDStringAscii+"\n")
         output.write('NFKC string ascii: '+NFKCStringAscii+"\n")
@@ -51,11 +51,14 @@ with open("../utf8.txt",encoding="utf-8",mode="r") as exampleFile:
         if len(NFKDStrList) > 6:
             output.write("Seventh character (NFKD): "+ NFKDStrList[6]+"\n")
 
-        graphemeArr = regex.findall(r'\X', line, regex.U)
+#        graphemeArr = regex.findall(r'\X', line, regex.U)
+#        graphemes = u", ".join(graphemeArr)
+        graphemeArr = grapheme.graphemes(line)
         graphemes = u", ".join(graphemeArr)
         output.write("Grapheme(s): " + graphemes)
          
-        output.write("Grapheme(s) Length: " + str(len(graphemeArr)-1) + "\n")
+#        output.write("Grapheme(s) Length: " + str(len(graphemeArr)-1) + "\n")
+        output.write("Grapheme(s) Length: " + str(grapheme.length(line)) + "\n")
         
         output.write("Sixth Grapheme: "+grapheme.slice(line, start=5, end=6) + "\n")
         

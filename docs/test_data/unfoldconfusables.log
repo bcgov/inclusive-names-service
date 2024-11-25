@@ -1,0 +1,167 @@
+2024-11-23 20:16:38|   0.0|  0.0|INFORM|FME 2020.2.4.0 (20210304 - Build 20825 - WIN64)
+2024-11-23 20:16:38|   0.0|  0.0|INFORM|FME_HOME is 'E:\sw_nt\FME2020\'
+2024-11-23 20:16:38|   0.0|  0.0|INFORM|FME Desktop ESRI Edition (floating), FME Oracle Edition (node locked-crc)
+2024-11-23 20:16:38|   0.0|  0.0|INFORM|Serial Number: S0706A4872
+2024-11-23 20:16:38|   0.0|  0.0|INFORM|Permanent License.
+2024-11-23 20:16:38|   0.0|  0.0|INFORM|Machine host name is: Mebsuta
+2024-11-23 20:16:38|   0.0|  0.0|INFORM|START - ProcessID: 11504, peak process memory usage: 38440 kB, current process memory usage: 38432 kB
+2024-11-23 20:16:38|   0.0|  0.0|INFORM|FME Configuration: Command line arguments are `E:\sw_nt\FME2020\fme.exe' `Z:/Projects/FYE2023/INS-54_GeneralTechnicalReadiness/inclusive-names-service/docs/test_data\wb-xlate-1732421791374_17268' `LOG_STANDARDOUT' `YES' `LogCountServerName' `{7884a9c2-1626-461e-b45c-a5f9ebcc2be9}'
+2024-11-23 20:16:38|   0.1|  0.0|INFORM|FME Configuration: Connection Storage: 'C:\Users\MDWILKIE\AppData\Roaming\Safe Software\FME\'
+2024-11-23 20:16:39|   0.7|  0.6|INFORM|Shared folders for formats are : E:\sw_nt\FME2020\datasources;\\data.bcgov\work\scripts\python\DataBCFmeTemplate2\fmeCustomizations\Formats;C:\Users\MDWILKIE\Documents\FME\Formats
+2024-11-23 20:16:39|   0.7|  0.0|INFORM|Shared folders for transformers are : C:\Users\MDWILKIE\AppData\Roaming\Safe Software\FME\Packages\20825-win64\transformers;E:\sw_nt\FME2020\transformers;\\data.bcgov\work\scripts\python\DataBCFmeTemplate2\fmeCustomizations\Transformers;C:\Users\MDWILKIE\AppData\Roaming\Safe Software\FME\FME Store\Transformers
+2024-11-23 20:16:39|   0.7|  0.0|INFORM|Shared folders for coordinate systems are : \\data.bcgov\work\scripts\python\DataBCFmeTemplate2\fmeCustomizations\CoordinateSystems;C:\Users\MDWILKIE\Documents\FME\CoordinateSystems
+2024-11-23 20:16:39|   0.7|  0.0|INFORM|Shared folders for coordinate system exceptions are : \\data.bcgov\work\scripts\python\DataBCFmeTemplate2\fmeCustomizations\CoordinateSystemExceptions;C:\Users\MDWILKIE\Documents\FME\CoordinateSystemExceptions
+2024-11-23 20:16:39|   0.7|  0.0|INFORM|Shared folders for coordinate system grid overrides are : \\data.bcgov\work\scripts\python\DataBCFmeTemplate2\fmeCustomizations\CoordinateSystemGridOverrides;C:\Users\MDWILKIE\Documents\FME\CoordinateSystemGridOverrides
+2024-11-23 20:16:39|   0.7|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : \\data.bcgov\work\scripts\python\DataBCFmeTemplate2\fmeCustomizations\CsmapTransformationExceptions;C:\Users\MDWILKIE\Documents\FME\CsmapTransformationExceptions
+2024-11-23 20:16:39|   0.7|  0.0|INFORM|Shared folders for transformer categories are : \\data.bcgov\work\scripts\python\DataBCFmeTemplate2\fmeCustomizations\TransformerCategories;C:\Users\MDWILKIE\Documents\FME\TransformerCategories
+2024-11-23 20:16:39|   0.7|  0.0|INFORM|FME Configuration: Reader Keyword is `MULTI_READER'
+2024-11-23 20:16:39|   0.7|  0.0|INFORM|FME Configuration: Writer Keyword is `MULTI_WRITER'
+2024-11-23 20:16:39|   0.7|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `MULTI_WRITER_DEF'
+2024-11-23 20:16:39|   0.7|  0.0|INFORM|FME Configuration: Reader type is `MULTI_READER'
+2024-11-23 20:16:39|   0.7|  0.0|INFORM|FME Configuration: Writer type is `MULTI_WRITER'
+2024-11-23 20:16:39|   0.7|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2024-11-23 20:16:39|   0.7|  0.0|INFORM|FME Configuration: Current working folder is `Z:\Projects\FYE2023\INS-54_GeneralTechnicalReadiness\inclusive-names-service\docs\test_data'
+2024-11-23 20:16:39|   0.7|  0.0|INFORM|FME Configuration: Temporary folder is `C:\Users\MDWILKIE\AppData\Local\Temp\375\wbrun_1732419665152_17268\fmetmp_9', set from environment variable `FME_TEMP'
+2024-11-23 20:16:39|   0.7|  0.0|INFORM|FME Configuration: FME_HOME is `E:\sw_nt\FME2020\'
+2024-11-23 20:16:39|   0.7|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
+2024-11-23 20:16:39|   0.7|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'Z:\Projects\FYE2023\INS-54_GeneralTechnicalReadiness\inclusive-names-service\docs\test_data/'
+2024-11-23 20:16:39|   0.7|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'unfoldconfusables.fmw'
+2024-11-23 20:16:39|   0.7|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2020.2.4.0'
+2024-11-23 20:16:39|   0.7|  0.0|INFORM|System Status: 3.69 GB of disk space available in the FME temporary folder (C:\Users\MDWILKIE\AppData\Local\Temp\375\wbrun_1732419665152_17268\fmetmp_9)
+2024-11-23 20:16:39|   0.7|  0.0|INFORM|System Status: 10.00 GB of physical memory available
+2024-11-23 20:16:39|   0.7|  0.0|INFORM|System Status: 16.00 GB of virtual memory available
+2024-11-23 20:16:39|   0.7|  0.0|INFORM|Operating System: Microsoft Windows Server 10 Server 4.0 64-bit  (Build 14393)
+2024-11-23 20:16:39|   0.7|  0.0|INFORM|FME Platform: WIN64
+2024-11-23 20:16:39|   0.7|  0.0|INFORM|Locale: en_US
+2024-11-23 20:16:39|   0.7|  0.0|INFORM|System Encoding: windows-1252
+2024-11-23 20:16:39|   0.7|  0.0|INFORM|FME Configuration: Start freeing memory when the process exceeds 30.00 GB
+2024-11-23 20:16:39|   0.7|  0.0|INFORM|FME Configuration: Stop freeing memory when the process is below 22.50 GB
+2024-11-23 20:16:39|   0.8|  0.0|INFORM|Creating writer for format: 
+2024-11-23 20:16:39|   0.8|  0.0|INFORM|Creating reader for format: 
+2024-11-23 20:16:39|   0.8|  0.0|INFORM|MULTI_READER(MULTI_READER): Will fail with first member reader failure
+2024-11-23 20:16:39|   0.8|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding CSV2 Reader with keyword CSV2_1
+2024-11-23 20:16:39|   0.8|  0.0|INFORM|Using Multi Reader with keyword `MULTI_READER' to read multiple datasets
+2024-11-23 20:16:39|   0.8|  0.1|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2024-11-23 20:16:39|   0.9|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV2'
+2024-11-23 20:16:39|   0.9|  0.0|INFORM|Loaded module 'CSV2' from file 'E:\sw_nt\FME2020\plugins/CSV2.dll'
+2024-11-23 20:16:39|   0.9|  0.0|INFORM|FME API version of module 'CSV2' matches current internal version (3.8 20200115)
+2024-11-23 20:16:39|   0.9|  0.0|INFORM|CSV reader: Opening dataset 'Z:\Projects\FYE2023\INS-54_GeneralTechnicalReadiness\inclusive-names-service\docs\test_data\all_characters_confusables.csv'
+2024-11-23 20:16:39|   0.9|  0.0|INFORM|CSV reader: Directive '_TRIM_FEATURE_TYPE_NAME' has the value 'Yes'
+2024-11-23 20:16:39|   0.9|  0.0|INFORM|CSV reader: Directive '_DELIMITER' has the value 'auto'
+2024-11-23 20:16:39|   0.9|  0.0|INFORM|CSV reader: Directive '_FIELD_NAMES_LINE' has the value '1'
+2024-11-23 20:16:39|   0.9|  0.0|INFORM|CSV reader: Directive '_DATA_START_LINE' has the value '2'
+2024-11-23 20:16:39|   0.9|  0.0|INFORM|CSV reader: Directive '_SCAN_MAX_ROWS' has the value '10000'
+2024-11-23 20:16:39|   0.9|  0.0|INFORM|CSV reader: Directive '_READ_SKIPPED_LINES' has the value 'No'
+2024-11-23 20:16:39|   0.9|  0.0|INFORM|CSV reader: Directive '_ENCODING' has the value 'utf-8'
+2024-11-23 20:16:39|   0.9|  0.0|INFORM|CSV reader: Directive '_SKIP_DUPLICATE_DELIMITERS' has the value 'No'
+2024-11-23 20:16:39|   0.9|  0.0|INFORM|CSV reader: Directive '_FIELD_QUALIFIER_CHARACTER' has the value '"'
+2024-11-23 20:16:39|   0.9|  0.0|INFORM|CSV reader: Directive '_FIELD_QUALIFIER_ESCAPE_CHARACTER' has the value '"'
+2024-11-23 20:16:39|   0.9|  0.0|INFORM|CSV reader: Directive '_TRIM_FIELD_NAME_QUALIFIERS' has the value 'Yes'
+2024-11-23 20:16:39|   0.9|  0.0|INFORM|CSV reader: Directive '_TRIM_FIELD_VALUE_QUALIFIERS' has the value 'Yes'
+2024-11-23 20:16:39|   0.9|  0.0|INFORM|CSV reader: Directive '_PRESERVE_SOURCE_ENCODING' has the value 'No'
+2024-11-23 20:16:39|   0.9|  0.0|INFORM|CSV reader: Directive '_CASE_SENSITIVE_FIELD_NAMES' has the value 'Yes'
+2024-11-23 20:16:39|   0.9|  0.0|INFORM|CSV reader: Directive '_ENFORCE_STRICT_SCHEMA' has the value 'No'
+2024-11-23 20:16:39|   0.9|  0.0|INFORM|CSV reader: Directive '_SCAN_TYPES' has the value 'Yes'
+2024-11-23 20:16:39|   0.9|  0.0|INFORM|CSV reader: Directive '_SCAN_ADDITIONAL_FIELDS' has the value 'No'
+2024-11-23 20:16:39|   0.9|  0.0|INFORM|CSV reader: Directive '_CHUNK_SIZE' has the value '100000'
+2024-11-23 20:16:39|   0.9|  0.0|INFORM|CSV reader: Directive '_TRIM_FIELD_NAME_WHITESPACE' has the value 'Yes'
+2024-11-23 20:16:39|   0.9|  0.0|INFORM|CSV reader: Directive '_READ_EMPTY_VALUES_AS' has the value 'Null'
+2024-11-23 20:16:39|   0.9|  0.0|INFORM|Using MultiWriter with keyword `MULTI_WRITER' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2024-11-23 20:16:39|   0.9|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
+2024-11-23 20:16:39|   0.9|  0.0|INFORM|Loaded module 'LogCount_func' from file 'E:\sw_nt\FME2020\plugins/LogCount_func.dll'
+2024-11-23 20:16:39|   0.9|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (3.8 20200115)
+2024-11-23 20:16:39|   0.9|  0.0|INFORM|Loaded module 'AttributeKeeperFactory' from file 'E:\sw_nt\FME2020\plugins/AttributeKeeperFactory.dll'
+2024-11-23 20:16:39|   0.9|  0.0|INFORM|FME API version of module 'AttributeKeeperFactory' matches current internal version (3.8 20200115)
+2024-11-23 20:16:39|   1.0|  0.0|INFORM|FME API version of module 'AttributeKeeperFactory' matches current internal version (3.8 20200115)
+2024-11-23 20:16:39|   1.0|  0.0|INFORM|ListExploder (ElementFactory): Splitting bulk mode features into features
+2024-11-23 20:16:40|   1.7|  0.8|INFORM|... Last line repeated 6 times ...
+2024-11-23 20:16:40|   1.7|  0.0|INFORM|ListExploder_2 (ElementFactory): Splitting bulk mode features into features
+2024-11-23 20:16:41|   2.4|  0.7|INFORM|... Last line repeated 6 times ...
+2024-11-23 20:16:41|   2.4|  0.0|INFORM|MULTI_READER(MULTI_READER): Done reading 912 features from 1 readers
+2024-11-23 20:16:41|   2.4|  0.0|INFORM|Emptying factory pipeline
+2024-11-23 20:16:41|   2.4|  0.0|STATS |Router and Unexpected Input Remover (RoutingFactory): Tested 912 input feature(s), wrote 912 output feature(s): 912 matched merge filters, 912 were routed to output, 0 could not be routed.
+2024-11-23 20:16:41|   2.4|  0.0|STATS |Unexpected Input Remover Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-11-23 20:16:41|   2.4|  0.0|STATS |CSV_CSV2_1 Splitter (TeeFactory): Cloned 912 input feature(s) into 1824 output feature(s)
+2024-11-23 20:16:41|   2.4|  0.0|STATS |CSV_CSV2_1_0_yvsMpFt/4Gw= Feature Counter -1 5 (TeeFactory): Cloned 912 input feature(s) into 912 output feature(s)
+2024-11-23 20:16:41|   2.4|  0.0|STATS |CSV_CSV2_1_1_GVR6dhZPGYA= Feature Counter -1 6 (TeeFactory): Cloned 912 input feature(s) into 912 output feature(s)
+2024-11-23 20:16:41|   2.4|  0.0|STATS |AttributeKeeper_2_OUTPUT Feature Counter -1 10 (TeeFactory): Cloned 912 input feature(s) into 912 output feature(s)
+2024-11-23 20:16:41|   2.4|  0.0|STATS |AttributeSplitter_2 (TeeFactory): Cloned 912 input feature(s) into 912 output feature(s)
+2024-11-23 20:16:41|   2.4|  0.0|STATS |AttributeSplitter_2_OUTPUT Feature Counter -1 14 (TeeFactory): Cloned 912 input feature(s) into 912 output feature(s)
+2024-11-23 20:16:41|   2.4|  0.0|STATS |ListExploder_2 (ElementFactory): Split out 3028 list elements from 912 input features, using mode CLASSIC
+2024-11-23 20:16:41|   2.4|  0.0|STATS |ListExploder_2_ELEMENTS Feature Counter -1 19 (TeeFactory): Cloned 3028 input feature(s) into 3028 output feature(s)
+2024-11-23 20:16:41|   2.4|  0.0|STATS |ListExploder_2_<REJECTED> Feature Counter -1 2147680269 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-11-23 20:16:41|   2.4|  0.0|STATS |ListExploder_2_<Rejected> (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-11-23 20:16:41|   2.4|  0.0|STATS |Counter_2_Rejector (ExecuteFunctionFactory): Executed FME Functions on 3028 input feature(s) -- 3028 feature(s) completed and 0 feature(s) rejected
+2024-11-23 20:16:41|   2.4|  0.0|STATS |Counter_2_OUTPUT Feature Counter -1 21 (TeeFactory): Cloned 3028 input feature(s) into 3028 output feature(s)
+2024-11-23 20:16:41|   2.4|  0.0|STATS |Counter_2_<REJECTED> Feature Counter -1 2147680274 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-11-23 20:16:41|   2.4|  0.0|STATS |Counter_2_<Rejected> (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-11-23 20:16:41|   2.4|  0.0|STATS |AttributeKeeper_OUTPUT Feature Counter -1 8 (TeeFactory): Cloned 912 input feature(s) into 912 output feature(s)
+2024-11-23 20:16:41|   2.4|  0.0|STATS |AttributeSplitter (TeeFactory): Cloned 912 input feature(s) into 912 output feature(s)
+2024-11-23 20:16:41|   2.4|  0.0|STATS |AttributeSplitter_OUTPUT Feature Counter -1 12 (TeeFactory): Cloned 912 input feature(s) into 912 output feature(s)
+2024-11-23 20:16:41|   2.4|  0.0|STATS |ListExploder (ElementFactory): Split out 3028 list elements from 912 input features, using mode CLASSIC
+2024-11-23 20:16:41|   2.4|  0.0|STATS |ListExploder_ELEMENTS Feature Counter -1 17 (TeeFactory): Cloned 3028 input feature(s) into 3028 output feature(s)
+2024-11-23 20:16:41|   2.4|  0.0|STATS |ListExploder_<REJECTED> Feature Counter -1 2147680267 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-11-23 20:16:41|   2.4|  0.0|STATS |ListExploder_<Rejected> (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-11-23 20:16:41|   2.4|  0.0|STATS |Counter_Rejector (ExecuteFunctionFactory): Executed FME Functions on 3028 input feature(s) -- 3028 feature(s) completed and 0 feature(s) rejected
+2024-11-23 20:16:41|   2.4|  0.0|STATS |Counter_OUTPUT Feature Counter -1 20 (TeeFactory): Cloned 3028 input feature(s) into 3028 output feature(s)
+2024-11-23 20:16:41|   2.4|  0.0|STATS |Counter_<REJECTED> Feature Counter -1 2147680272 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-11-23 20:16:41|   2.4|  0.0|STATS |Counter_<Rejected> (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-11-23 20:16:41|   2.4|  0.0|INFORM|Creating writer for format: CSV (Comma Separated Value)
+2024-11-23 20:16:41|   2.4|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `CSV2'
+2024-11-23 20:16:41|   2.4|  0.0|INFORM|FME API version of module 'CSV2' matches current internal version (3.8 20200115)
+2024-11-23 20:16:41|   2.4|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2024-11-23 20:16:41|   2.4|  0.0|INFORM|FME API version of module 'CSV2' matches current internal version (3.8 20200115)
+2024-11-23 20:16:41|   2.5|  0.0|INFORM|Writer `CSV2_2' of type `CSV2' using group definition keyword `CSV2_2_DEF'
+2024-11-23 20:16:41|   2.5|  0.0|INFORM|FME API version of module 'CSV2' matches current internal version (3.8 20200115)
+2024-11-23 20:16:41|   2.5|  0.0|INFORM|CSV writer: Directive '_EXTENSION' has the value 'csv'
+2024-11-23 20:16:41|   2.5|  0.0|INFORM|CSV writer: Directive '_DELIMITER' has the value ','
+2024-11-23 20:16:41|   2.5|  0.0|INFORM|CSV writer: Directive '_ENCODING' has the value 'UTF-8'
+2024-11-23 20:16:41|   2.5|  0.0|INFORM|CSV writer: Directive '_WRITE_BOM_FOR_UNICODE' has the value 'Yes'
+2024-11-23 20:16:41|   2.5|  0.0|INFORM|CSV writer: Directive '_QUALIFY_FIELD_NAMES' has the value 'if_needed'
+2024-11-23 20:16:41|   2.5|  0.0|INFORM|CSV writer: Directive '_QUALIFY_FIELD_VALUES' has the value 'if_needed'
+2024-11-23 20:16:41|   2.5|  0.0|INFORM|CSV writer: Directive '_FIELD_QUALIFIER_CHARACTER' has the value '"'
+2024-11-23 20:16:41|   2.5|  0.0|INFORM|CSV writer: Directive '_FIELD_QUALIFIER_ESCAPE_CHARACTER' has the value '"'
+2024-11-23 20:16:41|   2.5|  0.0|INFORM|CSV writer: Directive '_ROW_TERMINATION' has the value 'System'
+2024-11-23 20:16:41|   2.5|  0.0|INFORM|CSV writer: Directive '_WRITE_SCHEMA_FILE' has the value 'NO'
+2024-11-23 20:16:41|   2.5|  0.0|INFORM|CSV writer: Opening dataset 'Z:\Projects\FYE2023\INS-54_GeneralTechnicalReadiness\inclusive-names-service\docs\test_data\confusables_unfolded.csv'
+2024-11-23 20:16:41|   2.5|  0.1|STATS |FeatureMerger (ReferenceFactory): Total Results: 3028 Complete Feature(s), 0 Incomplete Feature(s), 0 Referenced Feature(s), 0 Unreferenced Feature(s), 0 Referencer Feature(s) (NO REFERENCES), 0 Referencee Feature(s) (NO Referencee fields defined), and 0 Duplicate Referencee Feature(s)
+2024-11-23 20:16:41|   2.5|  0.0|STATS |FeatureMerger_MERGED Feature Counter -1 25 (TeeFactory): Cloned 3028 input feature(s) into 3028 output feature(s)
+2024-11-23 20:16:41|   2.5|  0.0|STATS |FeatureMerger_<REJECTED> Feature Counter -1 2147876879 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-11-23 20:16:41|   2.5|  0.0|STATS |FeatureMerger_<Rejected> (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-11-23 20:16:41|   2.5|  0.0|STATS |AttributeManager_OUTPUT Feature Counter -1 26 (TeeFactory): Cloned 3028 input feature(s) into 3028 output feature(s)
+2024-11-23 20:16:41|   2.5|  0.0|STATS |Destination Feature Type Routing Correlator (RoutingFactory): Tested 3028 input feature(s), wrote 3028 output feature(s): 0 matched merge filters, 3028 were routed to output, 0 could not be routed.
+2024-11-23 20:16:41|   2.5|  0.0|STATS |Final Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-11-23 20:16:41|   2.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-11-23 20:16:41|   2.5|  0.0|STATS |                            `Count' Domain Summary
+2024-11-23 20:16:41|   2.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-11-23 20:16:41|   2.5|  0.0|STATS |Counter_2_counter                                                         3028
+2024-11-23 20:16:41|   2.5|  0.0|STATS |Counter_counter                                                           3028
+2024-11-23 20:16:41|   2.5|  0.0|STATS |==============================================================================
+2024-11-23 20:16:41|   2.5|  0.0|STATS |Total `@Count' Invocations:                                               6056
+2024-11-23 20:16:41|   2.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-11-23 20:16:41|   2.5|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-11-23 20:16:41|   2.5|  0.0|INFORM|Feature output statistics for `CSV2' writer using keyword `CSV2_2':
+2024-11-23 20:16:41|   2.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-11-23 20:16:41|   2.5|  0.0|STATS |                               Features Written
+2024-11-23 20:16:41|   2.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-11-23 20:16:41|   2.5|  0.0|STATS |confusables_unfolded                                                      3028
+2024-11-23 20:16:41|   2.5|  0.0|STATS |==============================================================================
+2024-11-23 20:16:41|   2.5|  0.0|STATS |Total Features Written                                                    3028
+2024-11-23 20:16:41|   2.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-11-23 20:16:41|   2.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-11-23 20:16:41|   2.5|  0.0|STATS |                            Features Read Summary
+2024-11-23 20:16:41|   2.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-11-23 20:16:41|   2.5|  0.0|STATS |CSV                                                                        912
+2024-11-23 20:16:41|   2.5|  0.0|STATS |==============================================================================
+2024-11-23 20:16:41|   2.5|  0.0|STATS |Total Features Read                                                        912
+2024-11-23 20:16:41|   2.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-11-23 20:16:41|   2.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-11-23 20:16:41|   2.5|  0.0|STATS |                           Features Written Summary
+2024-11-23 20:16:41|   2.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-11-23 20:16:41|   2.5|  0.0|STATS |confusables_unfolded                                                      3028
+2024-11-23 20:16:41|   2.5|  0.0|STATS |==============================================================================
+2024-11-23 20:16:41|   2.5|  0.0|STATS |Total Features Written                                                    3028
+2024-11-23 20:16:41|   2.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-11-23 20:16:41|   2.5|  0.0|INFORM|Translation was SUCCESSFUL with 0 warning(s) (3028 feature(s) output)
+2024-11-23 20:16:41|   2.5|  0.0|INFORM|FME Session Duration: 2.7 seconds. (CPU: 1.3s user, 0.6s system)
+2024-11-23 20:16:41|   2.5|  0.0|INFORM|END - ProcessID: 11504, peak process memory usage: 172892 kB, current process memory usage: 56096 kB
