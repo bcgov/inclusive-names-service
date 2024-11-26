@@ -6,10 +6,11 @@ NFC string: 0SMONEĆTEN
 NFD string: 0SMONEĆTEN
 NFKC string: 0SMONEĆTEN
 NFKD string: 0SMONEĆTEN
-NFC string ascii: '0SMONE\u0106TEN\n'
-NFD string ascii: '0SMONEC\u0301TEN\n'
-NFKC string ascii: '0SMONE\u0106TEN\n'
-NFKD string ascii: '0SMONEC\u0301TEN\n'
+Orig string unicode: \u0030\u0053\u004d\u004f\u004e\u0045\u0106\u0054\u0045\u004e\u000a
+NFC string unicode: \u0030\u0053\u004d\u004f\u004e\u0045\u0106\u0054\u0045\u004e\u000a
+NFD string unicode: \u0030\u0053\u004d\u004f\u004e\u0045\u0043\u0301\u0054\u0045\u004e\u000a
+NFKC string unicode: \u0030\u0053\u004d\u004f\u004e\u0045\u0106\u0054\u0045\u004e\u000a
+NFKD string unicode: \u0030\u0053\u004d\u004f\u004e\u0045\u0043\u0301\u0054\u0045\u004e\u000a
 NFC character list: 0, S, M, O, N, E, Ć, T, E, N, 
 NFD character list: 0, S, M, O, N, E, C, ́, T, E, N, 
 NFKC character list: 0, S, M, O, N, E, Ć, T, E, N, 
@@ -33,10 +34,11 @@ NFC string: Tk̓emlúps te Secwépemc
 NFD string: Tk̓emlúps te Secwépemc
 NFKC string: Tk̓emlúps te Secwépemc
 NFKD string: Tk̓emlúps te Secwépemc
-NFC string ascii: 'Tk\u0313eml\xfaps te Secw\xe9pemc\n'
-NFD string ascii: 'Tk\u0313emlu\u0301ps te Secwe\u0301pemc\n'
-NFKC string ascii: 'Tk\u0313eml\xfaps te Secw\xe9pemc\n'
-NFKD string ascii: 'Tk\u0313emlu\u0301ps te Secwe\u0301pemc\n'
+Orig string unicode: \u0054\u006b\u0313\u0065\u006d\u006c\u00fa\u0070\u0073\u0020\u0074\u0065\u0020\u0053\u0065\u0063\u0077\u00e9\u0070\u0065\u006d\u0063\u000a
+NFC string unicode: \u0054\u006b\u0313\u0065\u006d\u006c\u00fa\u0070\u0073\u0020\u0074\u0065\u0020\u0053\u0065\u0063\u0077\u00e9\u0070\u0065\u006d\u0063\u000a
+NFD string unicode: \u0054\u006b\u0313\u0065\u006d\u006c\u0075\u0301\u0070\u0073\u0020\u0074\u0065\u0020\u0053\u0065\u0063\u0077\u0065\u0301\u0070\u0065\u006d\u0063\u000a
+NFKC string unicode: \u0054\u006b\u0313\u0065\u006d\u006c\u00fa\u0070\u0073\u0020\u0074\u0065\u0020\u0053\u0065\u0063\u0077\u00e9\u0070\u0065\u006d\u0063\u000a
+NFKD string unicode: \u0054\u006b\u0313\u0065\u006d\u006c\u0075\u0301\u0070\u0073\u0020\u0074\u0065\u0020\u0053\u0065\u0063\u0077\u0065\u0301\u0070\u0065\u006d\u0063\u000a
 NFC character list: T, k, ̓, e, m, l, ú, p, s,  , t, e,  , S, e, c, w, é, p, e, m, c, 
 NFD character list: T, k, ̓, e, m, l, u, ́, p, s,  , t, e,  , S, e, c, w, e, ́, p, e, m, c, 
 NFKC character list: T, k, ̓, e, m, l, ú, p, s,  , t, e,  , S, e, c, w, é, p, e, m, c, 
@@ -60,10 +62,11 @@ NFC string: lək̓ʷəŋən
 NFD string: lək̓ʷəŋən
 NFKC string: lək̓wəŋən
 NFKD string: lək̓wəŋən
-NFC string ascii: 'l\u0259k\u0313\u02b7\u0259\u014b\u0259n\n'
-NFD string ascii: 'l\u0259k\u0313\u02b7\u0259\u014b\u0259n\n'
-NFKC string ascii: 'l\u0259k\u0313w\u0259\u014b\u0259n\n'
-NFKD string ascii: 'l\u0259k\u0313w\u0259\u014b\u0259n\n'
+Orig string unicode: \u006c\u0259\u006b\u0313\u02b7\u0259\u014b\u0259\u006e\u000a
+NFC string unicode: \u006c\u0259\u006b\u0313\u02b7\u0259\u014b\u0259\u006e\u000a
+NFD string unicode: \u006c\u0259\u006b\u0313\u02b7\u0259\u014b\u0259\u006e\u000a
+NFKC string unicode: \u006c\u0259\u006b\u0313\u0077\u0259\u014b\u0259\u006e\u000a
+NFKD string unicode: \u006c\u0259\u006b\u0313\u0077\u0259\u014b\u0259\u006e\u000a
 NFC character list: l, ə, k, ̓, ʷ, ə, ŋ, ə, n, 
 NFD character list: l, ə, k, ̓, ʷ, ə, ŋ, ə, n, 
 NFKC character list: l, ə, k, ̓, w, ə, ŋ, ə, n, 
@@ -87,10 +90,11 @@ NFC string: ᓃᔣᐤ ᒥᑖᐦᑐᒥᑕᓇᐤ ᓂᔮᔭᓄᔖᑉ
 NFD string: ᓃᔣᐤ ᒥᑖᐦᑐᒥᑕᓇᐤ ᓂᔮᔭᓄᔖᑉ
 NFKC string: ᓃᔣᐤ ᒥᑖᐦᑐᒥᑕᓇᐤ ᓂᔮᔭᓄᔖᑉ
 NFKD string: ᓃᔣᐤ ᒥᑖᐦᑐᒥᑕᓇᐤ ᓂᔮᔭᓄᔖᑉ
-NFC string ascii: '\u14c3\u1523\u1424 \u14a5\u1456\u1426\u1450\u14a5\u1455\u14c7\u1424 \u14c2\u152e\u152d\u14c4\u1516\u1449\n'
-NFD string ascii: '\u14c3\u1523\u1424 \u14a5\u1456\u1426\u1450\u14a5\u1455\u14c7\u1424 \u14c2\u152e\u152d\u14c4\u1516\u1449\n'
-NFKC string ascii: '\u14c3\u1523\u1424 \u14a5\u1456\u1426\u1450\u14a5\u1455\u14c7\u1424 \u14c2\u152e\u152d\u14c4\u1516\u1449\n'
-NFKD string ascii: '\u14c3\u1523\u1424 \u14a5\u1456\u1426\u1450\u14a5\u1455\u14c7\u1424 \u14c2\u152e\u152d\u14c4\u1516\u1449\n'
+Orig string unicode: \u14c3\u1523\u1424\u0020\u14a5\u1456\u1426\u1450\u14a5\u1455\u14c7\u1424\u0020\u14c2\u152e\u152d\u14c4\u1516\u1449\u000a
+NFC string unicode: \u14c3\u1523\u1424\u0020\u14a5\u1456\u1426\u1450\u14a5\u1455\u14c7\u1424\u0020\u14c2\u152e\u152d\u14c4\u1516\u1449\u000a
+NFD string unicode: \u14c3\u1523\u1424\u0020\u14a5\u1456\u1426\u1450\u14a5\u1455\u14c7\u1424\u0020\u14c2\u152e\u152d\u14c4\u1516\u1449\u000a
+NFKC string unicode: \u14c3\u1523\u1424\u0020\u14a5\u1456\u1426\u1450\u14a5\u1455\u14c7\u1424\u0020\u14c2\u152e\u152d\u14c4\u1516\u1449\u000a
+NFKD string unicode: \u14c3\u1523\u1424\u0020\u14a5\u1456\u1426\u1450\u14a5\u1455\u14c7\u1424\u0020\u14c2\u152e\u152d\u14c4\u1516\u1449\u000a
 NFC character list: ᓃ, ᔣ, ᐤ,  , ᒥ, ᑖ, ᐦ, ᑐ, ᒥ, ᑕ, ᓇ, ᐤ,  , ᓂ, ᔮ, ᔭ, ᓄ, ᔖ, ᑉ, 
 NFD character list: ᓃ, ᔣ, ᐤ,  , ᒥ, ᑖ, ᐦ, ᑐ, ᒥ, ᑕ, ᓇ, ᐤ,  , ᓂ, ᔮ, ᔭ, ᓄ, ᔖ, ᑉ, 
 NFKC character list: ᓃ, ᔣ, ᐤ,  , ᒥ, ᑖ, ᐦ, ᑐ, ᒥ, ᑕ, ᓇ, ᐤ,  , ᓂ, ᔮ, ᔭ, ᓄ, ᔖ, ᑉ, 
@@ -114,10 +118,11 @@ NFC string: ᐊᑲᓇᐍᔨᓯᒧᐏᐣ
 NFD string: ᐊᑲᓇᐍᔨᓯᒧᐏᐣ
 NFKC string: ᐊᑲᓇᐍᔨᓯᒧᐏᐣ
 NFKD string: ᐊᑲᓇᐍᔨᓯᒧᐏᐣ
-NFC string ascii: '\u140a\u1472\u14c7\u140d\u1528\u14ef\u14a7\u140f\u1423\n'
-NFD string ascii: '\u140a\u1472\u14c7\u140d\u1528\u14ef\u14a7\u140f\u1423\n'
-NFKC string ascii: '\u140a\u1472\u14c7\u140d\u1528\u14ef\u14a7\u140f\u1423\n'
-NFKD string ascii: '\u140a\u1472\u14c7\u140d\u1528\u14ef\u14a7\u140f\u1423\n'
+Orig string unicode: \u140a\u1472\u14c7\u140d\u1528\u14ef\u14a7\u140f\u1423\u000a
+NFC string unicode: \u140a\u1472\u14c7\u140d\u1528\u14ef\u14a7\u140f\u1423\u000a
+NFD string unicode: \u140a\u1472\u14c7\u140d\u1528\u14ef\u14a7\u140f\u1423\u000a
+NFKC string unicode: \u140a\u1472\u14c7\u140d\u1528\u14ef\u14a7\u140f\u1423\u000a
+NFKD string unicode: \u140a\u1472\u14c7\u140d\u1528\u14ef\u14a7\u140f\u1423\u000a
 NFC character list: ᐊ, ᑲ, ᓇ, ᐍ, ᔨ, ᓯ, ᒧ, ᐏ, ᐣ, 
 NFD character list: ᐊ, ᑲ, ᓇ, ᐍ, ᔨ, ᓯ, ᒧ, ᐏ, ᐣ, 
 NFKC character list: ᐊ, ᑲ, ᓇ, ᐍ, ᔨ, ᓯ, ᒧ, ᐏ, ᐣ, 
@@ -135,16 +140,45 @@ Grapheme(s) Length: 10
 Sixth Grapheme: ᓯ
 
 
+String: HOĆŦEN EN¸Á AEP
+anyascii version: HOCTEN EN,A AEP
+NFC string: HOĆŦEN EN¸Á AEP
+NFD string: HOĆŦEN EN¸Á AEP
+NFKC string: HOĆŦEN EN ̧Á AEP
+NFKD string: HOĆŦEN EN ̧Á AEP
+Orig string unicode: \u0048\u004f\u0106\u0166\u0045\u004e\u0020\u0045\u004e\u00b8\u00c1\u0020\u0041\u0045\u0050\u000a
+NFC string unicode: \u0048\u004f\u0106\u0166\u0045\u004e\u0020\u0045\u004e\u00b8\u00c1\u0020\u0041\u0045\u0050\u000a
+NFD string unicode: \u0048\u004f\u0043\u0301\u0166\u0045\u004e\u0020\u0045\u004e\u00b8\u0041\u0301\u0020\u0041\u0045\u0050\u000a
+NFKC string unicode: \u0048\u004f\u0106\u0166\u0045\u004e\u0020\u0045\u004e\u0020\u0327\u00c1\u0020\u0041\u0045\u0050\u000a
+NFKD string unicode: \u0048\u004f\u0043\u0301\u0166\u0045\u004e\u0020\u0045\u004e\u0020\u0327\u0041\u0301\u0020\u0041\u0045\u0050\u000a
+NFC character list: H, O, Ć, Ŧ, E, N,  , E, N, ¸, Á,  , A, E, P, 
+NFD character list: H, O, C, ́, Ŧ, E, N,  , E, N, ¸, A, ́,  , A, E, P, 
+NFKC character list: H, O, Ć, Ŧ, E, N,  , E, N,  , ̧, Á,  , A, E, P, 
+NFKD character list: H, O, C, ́, Ŧ, E, N,  , E, N,  , ̧, A, ́,  , A, E, P, 
+Length - NFC: 16
+Length - NFD: 18
+Length - NFKC: 17
+Length - NFKD: 19
+Seventh character (NFC):  
+Seventh character (NFD): N
+Seventh character (NFKC):  
+Seventh character (NFKD): N
+Grapheme(s): H, O, Ć, Ŧ, E, N,  , E, N, ¸, Á,  , A, E, P, 
+Grapheme(s) Length: 16
+Sixth Grapheme: N
+
+
 String: ę̀
 anyascii version: e
 NFC string: ę̀
 NFD string: ę̀
 NFKC string: ę̀
 NFKD string: ę̀
-NFC string ascii: '\u0119\u0300\n'
-NFD string ascii: 'e\u0328\u0300\n'
-NFKC string ascii: '\u0119\u0300\n'
-NFKD string ascii: 'e\u0328\u0300\n'
+Orig string unicode: \u0119\u0300\u000a
+NFC string unicode: \u0119\u0300\u000a
+NFD string unicode: \u0065\u0328\u0300\u000a
+NFKC string unicode: \u0119\u0300\u000a
+NFKD string unicode: \u0065\u0328\u0300\u000a
 NFC character list: ę, ̀, 
 NFD character list: e, ̨, ̀, 
 NFKC character list: ę, ̀, 
@@ -164,10 +198,11 @@ NFC string: ę̀
 NFD string: ę̀
 NFKC string: ę̀
 NFKD string: ę̀
-NFC string ascii: '\u0119\u0300\n'
-NFD string ascii: 'e\u0328\u0300\n'
-NFKC string ascii: '\u0119\u0300\n'
-NFKD string ascii: 'e\u0328\u0300\n'
+Orig string unicode: \u0065\u0328\u0300\u000a
+NFC string unicode: \u0119\u0300\u000a
+NFD string unicode: \u0065\u0328\u0300\u000a
+NFKC string unicode: \u0119\u0300\u000a
+NFKD string unicode: \u0065\u0328\u0300\u000a
 NFC character list: ę, ̀, 
 NFD character list: e, ̨, ̀, 
 NFKC character list: ę, ̀, 

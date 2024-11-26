@@ -32,7 +32,7 @@ def char_to_unicode_notation(char):
 
 if __name__ == "__main__":
     confusable_list = get_confusables_from_csv('confusables_unfolded.csv')
-    fieldnames = ['string1','num_code_points_1','num_graphemes_1','string1_unicode','string2','num_code_points_2','num_graphemes_2','string2_unicode','string1_unicode_nfc','string1_unicode_nfd','string2_unicode_nfc','string2_unicode_nfd']
+    fieldnames = ['string1','num_code_points_1','num_graphemes_1','string1_unicode','string2','num_code_points_2','num_graphemes_2','string2_unicode','string1_unicode_nfc','string1_unicode_nfd','string2_unicode_nfc','string2_unicode_nfd','string1_unicode_nfkc','string1_unicode_nfkd','string2_unicode_nfkc','string2_unicode_nfkd']
     outfile = open('fpcc_confusables_encoded.csv','w',encoding='utf-8-sig',newline='')
     writer = csv.DictWriter(outfile,fieldnames=fieldnames)
     writer.writeheader()
@@ -50,10 +50,18 @@ if __name__ == "__main__":
         unicode_string2_nfc = '' 
         unicode_string1_nfd = ''
         unicode_string2_nfd = ''
+        unicode_string1_nfkc = ''
+        unicode_string2_nfkc = '' 
+        unicode_string1_nfkd = ''
+        unicode_string2_nfkd = ''
         string1_nfc = unicodedata.normalize('NFC',string1)
-        string1_nfd = unicodedata.normalize('NFD',string1)
         string2_nfc = unicodedata.normalize('NFC',string2)
+        string1_nfd = unicodedata.normalize('NFD',string1)
         string2_nfd = unicodedata.normalize('NFD',string2)
+        string1_nfkc = unicodedata.normalize('NFKC',string1)
+        string2_nfkc = unicodedata.normalize('NFKC',string2)
+        string1_nfkd = unicodedata.normalize('NFKD',string1)
+        string2_nfkd = unicodedata.normalize('NFKD',string2)
         
         for c in string1_nfc:
             if unicode_string1_nfc == '':
@@ -75,7 +83,27 @@ if __name__ == "__main__":
                 unicode_string2_nfd = char_to_unicode_notation(c) 
             else:    
                 unicode_string2_nfd = unicode_string2_nfd + char_to_unicode_notation(c) 
+        for c in string1_nfkc:
+            if unicode_string1_nfkc == '':
+                unicode_string1_nfkc = char_to_unicode_notation(c)
+            else:    
+                unicode_string1_nfkc = unicode_string1_nfkc + char_to_unicode_notation(c) 
+        for c in string2_nfkc:
+            if unicode_string2_nfkc == '':
+                unicode_string2_nfkc = char_to_unicode_notation(c) 
+            else:    
+                unicode_string2_nfkc = unicode_string2_nfkc + char_to_unicode_notation(c) 
+        for c in string1_nfkd:
+            if unicode_string1_nfkd == '':
+                unicode_string1_nfkd = char_to_unicode_notation(c) 
+            else:    
+                unicode_string1_nfkd = unicode_string1_nfkd + char_to_unicode_notation(c) 
+        for c in string2_nfkd:
+            if unicode_string2_nfkd == '':
+                unicode_string2_nfkd = char_to_unicode_notation(c) 
+            else:    
+                unicode_string2_nfkd = unicode_string2_nfkd + char_to_unicode_notation(c) 
 
-        writer.writerow({'string1':string1, 'num_code_points_1':num_code_points_1,'num_graphemes_1':num_graphemes_1,'string1_unicode':string1_unicode,'string2':string2, 'num_code_points_2':num_code_points_2,'num_graphemes_2':num_graphemes_2,'string2_unicode':string2_unicode,'string1_unicode_nfc':unicode_string1_nfc,'string1_unicode_nfd':unicode_string1_nfd,'string2_unicode_nfc':unicode_string2_nfc,'string2_unicode_nfd':unicode_string2_nfd})
+        writer.writerow({'string1':string1, 'num_code_points_1':num_code_points_1,'num_graphemes_1':num_graphemes_1,'string1_unicode':string1_unicode,'string2':string2, 'num_code_points_2':num_code_points_2,'num_graphemes_2':num_graphemes_2,'string2_unicode':string2_unicode,'string1_unicode_nfc':unicode_string1_nfc,'string1_unicode_nfd':unicode_string1_nfd,'string2_unicode_nfc':unicode_string2_nfc,'string2_unicode_nfd':unicode_string2_nfd,'string1_unicode_nfkc':unicode_string1_nfkc,'string1_unicode_nfkd':unicode_string1_nfkd,'string2_unicode_nfkc':unicode_string2_nfkc,'string2_unicode_nfkd':unicode_string2_nfkd})
     outfile.close()
 
