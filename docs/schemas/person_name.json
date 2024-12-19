@@ -1,0 +1,392 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://gogs.data.gov.bc.ca/datasets/schemas",
+  "title": "Person Name",
+  "description": "The name of a person.",
+  "type": "object",
+  "properties": {
+    "alternative": {
+      "description": "Another name that the person is known by. This might be an alias, a nickname or a name that the person is also known as (aka).",
+      "type": "object",
+      "required": [
+        "fullNameAlternative"
+      ],
+      "properties": {
+        "fullNameAlternative": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The full name of the person"
+        },
+        "firstNameAlternative": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The first segment of the full name"
+        },
+        "givenNamesAlternative": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The parts of the full name that preceed the last name"
+        },
+        "lastNameAlternative": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The last segment of the full name"
+        },
+        "middleInitialsAlternative": {
+          "$ref": "#/$defs/ShortNameValue",
+          "description": "First initials of the middle names, without periods, separated by spaces"
+        },
+        "middleNamesAlternative": {
+          "$ref": "#/$defs/NameValue",
+          "description": "Middle or additional names supplied between the First name and Last name, separated by spaces "
+        },
+        "suffixAlternative": {
+          "$ref": "#/$defs/ShortNameValue",
+          "description": "A group of letters provided after a person’s name to provide additional information (such as Jr., Sr., M.D., PhD, I, II, III, and so on)"
+        },
+        "titleAlternative": {
+          "$ref": "#/$defs/ShortNameValue",
+          "description": "An abbreviation of a person’s title, honorific, or salutation (such as Mr., Ms., or Dr.)."
+        }
+      }
+    },
+    "birth": {
+      "description": "The legal name of the person at birth.",
+      "type": "object",
+      "required": [
+        "fullNameBirth"
+      ],
+      "properties": {
+        "fullNameBirth": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The full name of the person"
+        },
+        "firstNameBirth": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The first segment of the full name"
+        },
+        "givenNamesBirth": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The parts of the full name that preceed the last name"
+        },
+        "lastNameBirth": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The last segment of the full name"
+        },
+        "middleInitialsBirth": {
+          "$ref": "#/$defs/ShortNameValue",
+          "description": "First initials of the middle names, without periods, separated by spaces"
+        },
+        "middleNamesBirth": {
+          "$ref": "#/$defs/NameValue",
+          "description": "Middle or additional names supplied between the First name and Last name, separated by spaces "
+        },
+        "suffixBirth": {
+          "$ref": "#/$defs/ShortNameValue",
+          "description": "A group of letters provided after a person’s name to provide additional information (such as Jr., Sr., M.D., PhD, I, II, III, and so on)"
+        },
+        "titleBirth": {
+          "$ref": "#/$defs/ShortNameValue",
+          "description": "An abbreviation of a person’s title, honorific, or salutation (such as Mr., Ms., or Dr.)."
+        }
+      }
+    },
+    "former": {
+      "description": "A name that the person has used in the past.",
+      "type": "object",
+      "required": [
+        "fullNameFormer"
+      ],
+      "properties": {
+        "fullNameFormer": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The full name of the person"
+        },
+        "firstNameFormer": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The first segment of the full name"
+        },
+        "givenNamesFormer": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The parts of the full name that preceed the last name"
+        },
+        "lastNameFormer": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The last segment of the full name"
+        },
+        "middleInitialsFormer": {
+          "$ref": "#/$defs/ShortNameValue",
+          "description": "First initials of the middle names, without periods, separated by spaces"
+        },
+        "middleNamesFormer": {
+          "$ref": "#/$defs/NameValue",
+          "description": "Middle or additional names supplied between the First name and Last name, separated by spaces "
+        },
+        "suffixFormer": {
+          "$ref": "#/$defs/ShortNameValue",
+          "description": "A group of letters provided after a person’s name to provide additional information (such as Jr., Sr., M.D., PhD, I, II, III, and so on)"
+        },
+        "titleFormer": {
+          "$ref": "#/$defs/ShortNameValue",
+          "description": "An abbreviation of a person’s title, honorific, or salutation (such as Mr., Ms., or Dr.)."
+        }
+      }
+    },
+    "legal": {
+      "description": "A name that identifies the person for legal, administrative and other official purposes. A person’s legal name will usually be the one that is found on foundational data sources (e.g., birth certificate)",
+      "type": "object",
+      "required": [
+        "fullNameLegal"
+      ],
+      "properties": {
+        "fullNameLegal": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The full name of the person"
+        },
+        "firstNameLegal": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The first segment of the full name"
+        },
+        "givenNamesLegal": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The parts of the full name that preceed the last name"
+        },
+        "lastNameLegal": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The last segment of the full name"
+        },
+        "middleInitialsLegal": {
+          "$ref": "#/$defs/ShortNameValue",
+          "description": "First initials of the middle names, without periods, separated by spaces"
+        },
+        "middleNamesLegal": {
+          "$ref": "#/$defs/NameValue",
+          "description": "Middle or additional names supplied between the First name and Last name, separated by spaces "
+        },
+        "suffixLegal": {
+          "$ref": "#/$defs/ShortNameValue",
+          "description": "A group of letters provided after a person’s name to provide additional information (such as Jr., Sr., M.D., PhD, I, II, III, and so on)"
+        },
+        "titleLegal": {
+          "$ref": "#/$defs/ShortNameValue",
+          "description": "An abbreviation of a person’s title, honorific, or salutation (such as Mr., Ms., or Dr.)."
+        }
+      }
+    },
+    "preferred": {
+      "description": "Name by which a person prefers to be addressed.",
+      "type": "object",
+      "required": [
+        "fullNamePreferred"
+      ],
+      "properties": {
+        "fullNamePreferred": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The full name of the person"
+        },
+        "firstNamePreferred": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The first segment of the full name"
+        },
+        "givenNamesPreferred": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The parts of the full name that preceed the last name"
+        },
+        "lastNamePreferred": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The last segment of the full name"
+        },
+        "middleInitialsPreferred": {
+          "$ref": "#/$defs/ShortNameValue",
+          "description": "First initials of the middle names, without periods, separated by spaces"
+        },
+        "middleNamesPreferred": {
+          "$ref": "#/$defs/NameValue",
+          "description": "Middle or additional names supplied between the First name and Last name, separated by spaces "
+        },
+        "suffixPreferred": {
+          "$ref": "#/$defs/ShortNameValue",
+          "description": "A group of letters provided after a person’s name to provide additional information (such as Jr., Sr., M.D., PhD, I, II, III, and so on)"
+        },
+        "titlePreferred": {
+          "$ref": "#/$defs/ShortNameValue",
+          "description": "An abbreviation of a person’s title, honorific, or salutation (such as Mr., Ms., or Dr.)."
+        }
+      }
+    },
+    "restrictedAlphabet": {
+      "description": "A version of the legal name that uses a restricted set of characters, e.g., ASCII, Windows-1252, upper-case A-Z",
+      "type": "object",
+      "required": [
+        "fullNameRestrictedAlphabet"
+      ],
+      "properties": {
+        "fullNameRestrictedAlphabet": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The full name of the person"
+        },
+        "firstNameRestrictedAlphabet": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The first segment of the full name"
+        },
+        "givenNamesRestrictedAlphabet": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The parts of the full name that preceed the last name"
+        },
+        "lastNameRestrictedAlphabet": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The last segment of the full name"
+        },
+        "middleInitialsRestrictedAlphabet": {
+          "$ref": "#/$defs/ShortNameValue",
+          "description": "First initials of the middle names, without periods, separated by spaces"
+        },
+        "middleNamesRestrictedAlphabet": {
+          "$ref": "#/$defs/NameValue",
+          "description": "Middle or additional names supplied between the First name and Last name, separated by spaces "
+        },
+        "suffixRestrictedAlphabet": {
+          "$ref": "#/$defs/ShortNameValue",
+          "description": "A group of letters provided after a person’s name to provide additional information (such as Jr., Sr., M.D., PhD, I, II, III, and so on)"
+        },
+        "titleRestrictedAlphabet": {
+          "$ref": "#/$defs/ShortNameValue",
+          "description": "An abbreviation of a person’s title, honorific, or salutation (such as Mr., Ms., or Dr.)."
+        }
+      }
+    },
+    "translation": {
+      "description": "A translation of the person’s legal name in a different language.",
+      "type": "object",
+      "required": [
+        "fullNameTranslation"
+      ],
+      "properties": {
+        "fullNameTranslation": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The full name of the person"
+        },
+        "firstNameTranslation": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The first segment of the full name"
+        },
+        "givenNamesTranslation": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The parts of the full name that preceed the last name"
+        },
+        "lastNameTranslation": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The last segment of the full name"
+        },
+        "middleInitialsTranslation": {
+          "$ref": "#/$defs/ShortNameValue",
+          "description": "First initials of the middle names, without periods, separated by spaces"
+        },
+        "middleNamesTranslation": {
+          "$ref": "#/$defs/NameValue",
+          "description": "Middle or additional names supplied between the First name and Last name, separated by spaces "
+        },
+        "suffixTranslation": {
+          "$ref": "#/$defs/ShortNameValue",
+          "description": "A group of letters provided after a person’s name to provide additional information (such as Jr., Sr., M.D., PhD, I, II, III, and so on)"
+        },
+        "titleTranslation": {
+          "$ref": "#/$defs/ShortNameValue",
+          "description": "An abbreviation of a person’s title, honorific, or salutation (such as Mr., Ms., or Dr.)."
+        }
+      }
+    },
+    "transliteration": {
+      "description": "A transliteration of the person’s legal name in a different script.",
+      "type": "object",
+      "required": [
+        "fullNameTransliteration"
+      ],
+      "properties": {
+        "fullNameTransliteration": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The full name of the person"
+        },
+        "firstNameTransliteration": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The first segment of the full name"
+        },
+        "givenNamesTransliteration": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The parts of the full name that preceed the last name"
+        },
+        "lastNameTransliteration": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The last segment of the full name"
+        },
+        "middleInitialsTransliteration": {
+          "$ref": "#/$defs/ShortNameValue",
+          "description": "First initials of the middle names, without periods, separated by spaces"
+        },
+        "middleNamesTransliteration": {
+          "$ref": "#/$defs/NameValue",
+          "description": "Middle or additional names supplied between the First name and Last name, separated by spaces "
+        },
+        "suffixTransliteration": {
+          "$ref": "#/$defs/ShortNameValue",
+          "description": "A group of letters provided after a person’s name to provide additional information (such as Jr., Sr., M.D., PhD, I, II, III, and so on)"
+        },
+        "titleTransliteration": {
+          "$ref": "#/$defs/ShortNameValue",
+          "description": "An abbreviation of a person’s title, honorific, or salutation (such as Mr., Ms., or Dr.)."
+        }
+      }
+    },
+  },
+  "$comment": "must not include any other properties",
+  "unevaluatedProperties": false,
+  "$comment": "and must have at least one type of name",
+  "anyOf": [
+    {
+      "required": [
+        "alternative"
+      ]
+    },
+    {
+      "required": [
+        "birth"
+      ]
+    },
+    {
+      "required": [
+        "former"
+      ]
+    },
+    {
+      "required": [
+        "legal"
+      ]
+    },
+    {
+      "required": [
+        "preferred"
+      ]
+    },
+    {
+      "required": [
+        "restrictedAlphabet"
+      ]
+    },
+    {
+      "required": [
+        "translation"
+      ]
+    },
+    {
+      "required": [
+        "transliteration"
+      ]
+    }
+  ],
+  "$defs": {
+    "NameValue": {
+      "type": "string",
+      "maxLength": 100
+    },
+    "ShortNameValue": {
+      "type": "string",
+      "maxLength": 10
+    }
+  }
+}

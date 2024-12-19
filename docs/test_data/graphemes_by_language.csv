@@ -1,0 +1,1491 @@
+﻿Language,Grapheme,num_code_points,num_graphemes,string_unicode,string_unicode_nfc,string_unicode_nfd
+Comox / Sliammon / Klahoose,a,1,1,\u0061,\u0061,\u0061
+Comox / Sliammon / Klahoose,æ,1,1,\u00e6,\u00e6,\u00e6
+Comox / Sliammon / Klahoose,aw,2,2,\u0061\u0077,\u0061\u0077,\u0061\u0077
+Comox / Sliammon / Klahoose,ay,2,2,\u0061\u0079,\u0061\u0079,\u0061\u0079
+Comox / Sliammon / Klahoose,ɔ,1,1,\u0254,\u0254,\u0254
+Comox / Sliammon / Klahoose,č,1,1,\u010d,\u010d,\u0063\u030c
+Comox / Sliammon / Klahoose,č̓,2,1,\u010d\u0313,\u010d\u0313,\u0063\u030c\u0313
+Comox / Sliammon / Klahoose,e,1,1,\u0065,\u0065,\u0065
+Comox / Sliammon / Klahoose,ɛ,1,1,\u025b,\u025b,\u025b
+Comox / Sliammon / Klahoose,ə,1,1,\u0259,\u0259,\u0259
+Comox / Sliammon / Klahoose,əw,2,2,\u0259\u0077,\u0259\u0077,\u0259\u0077
+Comox / Sliammon / Klahoose,əy,2,2,\u0259\u0079,\u0259\u0079,\u0259\u0079
+Comox / Sliammon / Klahoose,g,1,1,\u0067,\u0067,\u0067
+Comox / Sliammon / Klahoose,gʸ,2,2,\u0067\u02b8,\u0067\u02b8,\u0067\u02b8
+Comox / Sliammon / Klahoose,h,1,1,\u0068,\u0068,\u0068
+Comox / Sliammon / Klahoose,i,1,1,\u0069,\u0069,\u0069
+Comox / Sliammon / Klahoose,ɩ,1,1,\u0269,\u0269,\u0269
+Comox / Sliammon / Klahoose,ǰ,1,1,\u01f0,\u01f0,\u006a\u030c
+Comox / Sliammon / Klahoose,k,1,1,\u006b,\u006b,\u006b
+Comox / Sliammon / Klahoose,k̓,2,1,\u006b\u0313,\u006b\u0313,\u006b\u0313
+Comox / Sliammon / Klahoose,kʷ,2,2,\u006b\u02b7,\u006b\u02b7,\u006b\u02b7
+Comox / Sliammon / Klahoose,k̓ʷ,3,2,\u006b\u0313\u02b7,\u006b\u0313\u02b7,\u006b\u0313\u02b7
+Comox / Sliammon / Klahoose,kʸ,2,2,\u006b\u02b8,\u006b\u02b8,\u006b\u02b8
+Comox / Sliammon / Klahoose,k̓ʸ,3,2,\u006b\u0313\u02b8,\u006b\u0313\u02b8,\u006b\u0313\u02b8
+Comox / Sliammon / Klahoose,l,1,1,\u006c,\u006c,\u006c
+Comox / Sliammon / Klahoose,l̓,2,1,\u006c\u0313,\u006c\u0313,\u006c\u0313
+Comox / Sliammon / Klahoose,ɬ,1,1,\u026c,\u026c,\u026c
+Comox / Sliammon / Klahoose,ƛ,1,1,\u019b,\u019b,\u019b
+Comox / Sliammon / Klahoose,ƛ̓,2,1,\u019b\u0313,\u019b\u0313,\u019b\u0313
+Comox / Sliammon / Klahoose,m,1,1,\u006d,\u006d,\u006d
+Comox / Sliammon / Klahoose,m̓,2,1,\u006d\u0313,\u006d\u0313,\u006d\u0313
+Comox / Sliammon / Klahoose,n,1,1,\u006e,\u006e,\u006e
+Comox / Sliammon / Klahoose,n̓,2,1,\u006e\u0313,\u006e\u0313,\u006e\u0313
+Comox / Sliammon / Klahoose,o,1,1,\u006f,\u006f,\u006f
+Comox / Sliammon / Klahoose,ɔy,2,2,\u0254\u0079,\u0254\u0079,\u0254\u0079
+Comox / Sliammon / Klahoose,p,1,1,\u0070,\u0070,\u0070
+Comox / Sliammon / Klahoose,p̓,2,1,\u0070\u0313,\u0070\u0313,\u0070\u0313
+Comox / Sliammon / Klahoose,q,1,1,\u0071,\u0071,\u0071
+Comox / Sliammon / Klahoose,q̓,2,1,\u0071\u0313,\u0071\u0313,\u0071\u0313
+Comox / Sliammon / Klahoose,qʷ,2,2,\u0071\u02b7,\u0071\u02b7,\u0071\u02b7
+Comox / Sliammon / Klahoose,q̓ʷ,3,2,\u0071\u0313\u02b7,\u0071\u0313\u02b7,\u0071\u0313\u02b7
+Comox / Sliammon / Klahoose,s,1,1,\u0073,\u0073,\u0073
+Comox / Sliammon / Klahoose,š,1,1,\u0161,\u0161,\u0073\u030c
+Comox / Sliammon / Klahoose,t,1,1,\u0074,\u0074,\u0074
+Comox / Sliammon / Klahoose,t̓,2,1,\u0074\u0313,\u0074\u0313,\u0074\u0313
+Comox / Sliammon / Klahoose,θ,1,1,\u03b8,\u03b8,\u03b8
+Comox / Sliammon / Klahoose,tᶿ,2,2,\u0074\u1dbf,\u0074\u1dbf,\u0074\u1dbf
+Comox / Sliammon / Klahoose,t̓ᶿ,3,2,\u0074\u0313\u1dbf,\u0074\u0313\u1dbf,\u0074\u0313\u1dbf
+Comox / Sliammon / Klahoose,u,1,1,\u0075,\u0075,\u0075
+Comox / Sliammon / Klahoose,ʊ,1,1,\u028a,\u028a,\u028a
+Comox / Sliammon / Klahoose,w,1,1,\u0077,\u0077,\u0077
+Comox / Sliammon / Klahoose,w̓,2,1,\u0077\u0313,\u0077\u0313,\u0077\u0313
+Comox / Sliammon / Klahoose,χ,1,1,\u03c7,\u03c7,\u03c7
+Comox / Sliammon / Klahoose,χʷ,2,2,\u03c7\u02b7,\u03c7\u02b7,\u03c7\u02b7
+Comox / Sliammon / Klahoose,xʷ,2,2,\u0078\u02b7,\u0078\u02b7,\u0078\u02b7
+Comox / Sliammon / Klahoose,y,1,1,\u0079,\u0079,\u0079
+Comox / Sliammon / Klahoose,y̓,2,1,\u0079\u0313,\u0079\u0313,\u0079\u0313
+Comox / Sliammon / Klahoose,ʔ,1,1,\u0294,\u0294,\u0294
+Pentlach,EXTINCT`,8,8,\u0045\u0058\u0054\u0049\u004e\u0043\u0054\u0060,\u0045\u0058\u0054\u0049\u004e\u0043\u0054\u0060,\u0045\u0058\u0054\u0049\u004e\u0043\u0054\u0060
+Sechelt,a,1,1,\u0061,\u0061,\u0061
+Sechelt,ch,2,2,\u0063\u0068,\u0063\u0068,\u0063\u0068
+Sechelt,ch̕,3,2,\u0063\u0068\u0315,\u0063\u0068\u0315,\u0063\u0068\u0315
+Sechelt,e,1,1,\u0065,\u0065,\u0065
+Sechelt,h,1,1,\u0068,\u0068,\u0068
+Sechelt,i,1,1,\u0069,\u0069,\u0069
+Sechelt,k,1,1,\u006b,\u006b,\u006b
+Sechelt,k̕,2,1,\u006b\u0315,\u006b\u0315,\u006b\u0315
+Sechelt,kw,2,2,\u006b\u0077,\u006b\u0077,\u006b\u0077
+Sechelt,kw̕,3,2,\u006b\u0077\u0315,\u006b\u0077\u0315,\u006b\u0077\u0315
+Sechelt,ḵ,1,1,\u1e35,\u1e35,\u006b\u0331
+Sechelt,ḵ̕,2,1,\u1e35\u0315,\u1e35\u0315,\u006b\u0331\u0315
+Sechelt,ḵw,2,2,\u1e35\u0077,\u1e35\u0077,\u006b\u0331\u0077
+Sechelt,ḵw̕,3,2,\u1e35\u0077\u0315,\u1e35\u0077\u0315,\u006b\u0331\u0077\u0315
+Sechelt,l,1,1,\u006c,\u006c,\u006c
+Sechelt,lh,2,2,\u006c\u0068,\u006c\u0068,\u006c\u0068
+Sechelt,m,1,1,\u006d,\u006d,\u006d
+Sechelt,n,1,1,\u006e,\u006e,\u006e
+Sechelt,p,1,1,\u0070,\u0070,\u0070
+Sechelt,p̕,2,1,\u0070\u0315,\u0070\u0315,\u0070\u0315
+Sechelt,s,1,1,\u0073,\u0073,\u0073
+Sechelt,sh,2,2,\u0073\u0068,\u0073\u0068,\u0073\u0068
+Sechelt,t,1,1,\u0074,\u0074,\u0074
+Sechelt,t̕,2,1,\u0074\u0315,\u0074\u0315,\u0074\u0315
+Sechelt,tl̕,3,2,\u0074\u006c\u0315,\u0074\u006c\u0315,\u0074\u006c\u0315
+Sechelt,ts,2,2,\u0074\u0073,\u0074\u0073,\u0074\u0073
+Sechelt,ts̕,3,2,\u0074\u0073\u0315,\u0074\u0073\u0315,\u0074\u0073\u0315
+Sechelt,u,1,1,\u0075,\u0075,\u0075
+Sechelt,w,1,1,\u0077,\u0077,\u0077
+Sechelt,x,1,1,\u0078,\u0078,\u0078
+Sechelt,xw,2,2,\u0078\u0077,\u0078\u0077,\u0078\u0077
+Sechelt,x̱,2,1,\u0078\u0331,\u0078\u0331,\u0078\u0331
+Sechelt,x̱w,3,2,\u0078\u0331\u0077,\u0078\u0331\u0077,\u0078\u0331\u0077
+Sechelt,y,1,1,\u0079,\u0079,\u0079
+Sechelt,ˀ,1,1,\u02c0,\u02c0,\u02c0
+Sechelt,ʔ,1,1,\u0294,\u0294,\u0294
+Squamish,7,1,1,\u0037,\u0037,\u0037
+Squamish,a,1,1,\u0061,\u0061,\u0061
+Squamish,ao,2,2,\u0061\u006f,\u0061\u006f,\u0061\u006f
+Squamish,e,1,1,\u0065,\u0065,\u0065
+Squamish,h,1,1,\u0068,\u0068,\u0068
+Squamish,i,1,1,\u0069,\u0069,\u0069
+Squamish,k,1,1,\u006b,\u006b,\u006b
+Squamish,ḵ,1,1,\u1e35,\u1e35,\u006b\u0331
+Squamish,k',2,2,\u006b\u0027,\u006b\u0027,\u006b\u0027
+Squamish,kw,2,2,\u006b\u0077,\u006b\u0077,\u006b\u0077
+Squamish,k̓w,3,2,\u006b\u0313\u0077,\u006b\u0313\u0077,\u006b\u0313\u0077
+Squamish,ḵw,2,2,\u1e35\u0077,\u1e35\u0077,\u006b\u0331\u0077
+Squamish,ḵwʼ,3,3,\u1e35\u0077\u02bc,\u1e35\u0077\u02bc,\u006b\u0331\u0077\u02bc
+Squamish,l,1,1,\u006c,\u006c,\u006c
+Squamish,l',2,2,\u006c\u0027,\u006c\u0027,\u006c\u0027
+Squamish,lh,2,2,\u006c\u0068,\u006c\u0068,\u006c\u0068
+Squamish,m,1,1,\u006d,\u006d,\u006d
+Squamish,m̓,2,1,\u006d\u0313,\u006d\u0313,\u006d\u0313
+Squamish,n,1,1,\u006e,\u006e,\u006e
+Squamish,n̓,2,1,\u006e\u0313,\u006e\u0313,\u006e\u0313
+Squamish,p,1,1,\u0070,\u0070,\u0070
+Squamish,p̓,2,1,\u0070\u0313,\u0070\u0313,\u0070\u0313
+Squamish,s,1,1,\u0073,\u0073,\u0073
+Squamish,sh,2,2,\u0073\u0068,\u0073\u0068,\u0073\u0068
+Squamish,t,1,1,\u0074,\u0074,\u0074
+Squamish,t’,2,2,\u0074\u2019,\u0074\u2019,\u0074\u2019
+Squamish,ts,2,2,\u0074\u0073,\u0074\u0073,\u0074\u0073
+Squamish,ts̓,3,2,\u0074\u0073\u0313,\u0074\u0073\u0313,\u0074\u0073\u0313
+Squamish,u,1,1,\u0075,\u0075,\u0075
+Squamish,x̱,2,1,\u0078\u0331,\u0078\u0331,\u0078\u0331
+Squamish,xw,2,2,\u0078\u0077,\u0078\u0077,\u0078\u0077
+Squamish,y,1,1,\u0079,\u0079,\u0079
+Squamish,y̓,2,1,\u0079\u0313,\u0079\u0313,\u0079\u0313
+Squamish,z,1,1,\u007a,\u007a,\u007a
+Squamish,z̓,2,1,\u007a\u0313,\u007a\u0313,\u007a\u0313
+Squamish,á,1,1,\u00e1,\u00e1,\u0061\u0301
+Squamish,é,1,1,\u00e9,\u00e9,\u0065\u0301
+Squamish,í,1,1,\u00ed,\u00ed,\u0069\u0301
+Squamish,ú`,2,2,\u00fa\u0060,\u00fa\u0060,\u0075\u0301\u0060
+Hul'q’umi'num / Halkomelem,',1,1,\u0027,\u0027,\u0027
+Hul'q’umi'num / Halkomelem,a,1,1,\u0061,\u0061,\u0061
+Hul'q’umi'num / Halkomelem,aa,2,2,\u0061\u0061,\u0061\u0061,\u0061\u0061
+Hul'q’umi'num / Halkomelem,ch,2,2,\u0063\u0068,\u0063\u0068,\u0063\u0068
+Hul'q’umi'num / Halkomelem,ch',3,3,\u0063\u0068\u0027,\u0063\u0068\u0027,\u0063\u0068\u0027
+Hul'q’umi'num / Halkomelem,e,1,1,\u0065,\u0065,\u0065
+Hul'q’umi'num / Halkomelem,ee,2,2,\u0065\u0065,\u0065\u0065,\u0065\u0065
+Hul'q’umi'num / Halkomelem,h,1,1,\u0068,\u0068,\u0068
+Hul'q’umi'num / Halkomelem,hw,2,2,\u0068\u0077,\u0068\u0077,\u0068\u0077
+Hul'q’umi'num / Halkomelem,i,1,1,\u0069,\u0069,\u0069
+Hul'q’umi'num / Halkomelem,ii,2,2,\u0069\u0069,\u0069\u0069,\u0069\u0069
+Hul'q’umi'num / Halkomelem,k,1,1,\u006b,\u006b,\u006b
+Hul'q’umi'num / Halkomelem,kw,2,2,\u006b\u0077,\u006b\u0077,\u006b\u0077
+Hul'q’umi'num / Halkomelem,kw',3,3,\u006b\u0077\u0027,\u006b\u0077\u0027,\u006b\u0077\u0027
+Hul'q’umi'num / Halkomelem,l,1,1,\u006c,\u006c,\u006c
+Hul'q’umi'num / Halkomelem,lh,2,2,\u006c\u0068,\u006c\u0068,\u006c\u0068
+Hul'q’umi'num / Halkomelem,m,1,1,\u006d,\u006d,\u006d
+Hul'q’umi'num / Halkomelem,n,1,1,\u006e,\u006e,\u006e
+Hul'q’umi'num / Halkomelem,o,1,1,\u006f,\u006f,\u006f
+Hul'q’umi'num / Halkomelem,oo,2,2,\u006f\u006f,\u006f\u006f,\u006f\u006f
+Hul'q’umi'num / Halkomelem,ou,2,2,\u006f\u0075,\u006f\u0075,\u006f\u0075
+Hul'q’umi'num / Halkomelem,p,1,1,\u0070,\u0070,\u0070
+Hul'q’umi'num / Halkomelem,p',2,2,\u0070\u0027,\u0070\u0027,\u0070\u0027
+Hul'q’umi'num / Halkomelem,q,1,1,\u0071,\u0071,\u0071
+Hul'q’umi'num / Halkomelem,q',2,2,\u0071\u0027,\u0071\u0027,\u0071\u0027
+Hul'q’umi'num / Halkomelem,qw,2,2,\u0071\u0077,\u0071\u0077,\u0071\u0077
+Hul'q’umi'num / Halkomelem,qw',3,3,\u0071\u0077\u0027,\u0071\u0077\u0027,\u0071\u0077\u0027
+Hul'q’umi'num / Halkomelem,s,1,1,\u0073,\u0073,\u0073
+Hul'q’umi'num / Halkomelem,sh,2,2,\u0073\u0068,\u0073\u0068,\u0073\u0068
+Hul'q’umi'num / Halkomelem,t,1,1,\u0074,\u0074,\u0074
+Hul'q’umi'num / Halkomelem,t',2,2,\u0074\u0027,\u0074\u0027,\u0074\u0027
+Hul'q’umi'num / Halkomelem,th,2,2,\u0074\u0068,\u0074\u0068,\u0074\u0068
+Hul'q’umi'num / Halkomelem,tl',3,3,\u0074\u006c\u0027,\u0074\u006c\u0027,\u0074\u006c\u0027
+Hul'q’umi'num / Halkomelem,ts,2,2,\u0074\u0073,\u0074\u0073,\u0074\u0073
+Hul'q’umi'num / Halkomelem,ts',3,3,\u0074\u0073\u0027,\u0074\u0073\u0027,\u0074\u0073\u0027
+Hul'q’umi'num / Halkomelem,tth,3,3,\u0074\u0074\u0068,\u0074\u0074\u0068,\u0074\u0074\u0068
+Hul'q’umi'num / Halkomelem,tth',4,4,\u0074\u0074\u0068\u0027,\u0074\u0074\u0068\u0027,\u0074\u0074\u0068\u0027
+Hul'q’umi'num / Halkomelem,u,1,1,\u0075,\u0075,\u0075
+Hul'q’umi'num / Halkomelem,w,1,1,\u0077,\u0077,\u0077
+Hul'q’umi'num / Halkomelem,x,1,1,\u0078,\u0078,\u0078
+Hul'q’umi'num / Halkomelem,xw,2,2,\u0078\u0077,\u0078\u0077,\u0078\u0077
+Hul'q’umi'num / Halkomelem,y,1,1,\u0079,\u0079,\u0079
+Hən̓q̓əmin̓əm̓,c,1,1,\u0063,\u0063,\u0063
+Hən̓q̓əmin̓əm̓,c̓,2,1,\u0063\u0313,\u0063\u0313,\u0063\u0313
+Hən̓q̓əmin̓əm̓,č,1,1,\u010d,\u010d,\u0063\u030c
+Hən̓q̓əmin̓əm̓,h,1,1,\u0068,\u0068,\u0068
+Hən̓q̓əmin̓əm̓,k,1,1,\u006b,\u006b,\u006b
+Hən̓q̓əmin̓əm̓,kʷ,2,2,\u006b\u02b7,\u006b\u02b7,\u006b\u02b7
+Hən̓q̓əmin̓əm̓,k̓ʷ,3,2,\u006b\u0313\u02b7,\u006b\u0313\u02b7,\u006b\u0313\u02b7
+Hən̓q̓əmin̓əm̓,l,1,1,\u006c,\u006c,\u006c
+Hən̓q̓əmin̓əm̓,l̓,2,1,\u006c\u0313,\u006c\u0313,\u006c\u0313
+Hən̓q̓əmin̓əm̓,ƛ̓,2,1,\u019b\u0313,\u019b\u0313,\u019b\u0313
+Hən̓q̓əmin̓əm̓,ɬ,1,1,\u026c,\u026c,\u026c
+Hən̓q̓əmin̓əm̓,m,1,1,\u006d,\u006d,\u006d
+Hən̓q̓əmin̓əm̓,m̓,2,1,\u006d\u0313,\u006d\u0313,\u006d\u0313
+Hən̓q̓əmin̓əm̓,n,1,1,\u006e,\u006e,\u006e
+Hən̓q̓əmin̓əm̓,n̓,2,1,\u006e\u0313,\u006e\u0313,\u006e\u0313
+Hən̓q̓əmin̓əm̓,p,1,1,\u0070,\u0070,\u0070
+Hən̓q̓əmin̓əm̓,p̓,2,1,\u0070\u0313,\u0070\u0313,\u0070\u0313
+Hən̓q̓əmin̓əm̓,q,1,1,\u0071,\u0071,\u0071
+Hən̓q̓əmin̓əm̓,q̓,2,1,\u0071\u0313,\u0071\u0313,\u0071\u0313
+Hən̓q̓əmin̓əm̓,qʷ,2,2,\u0071\u02b7,\u0071\u02b7,\u0071\u02b7
+Hən̓q̓əmin̓əm̓,q̓ʷ,3,2,\u0071\u0313\u02b7,\u0071\u0313\u02b7,\u0071\u0313\u02b7
+Hən̓q̓əmin̓əm̓,s,1,1,\u0073,\u0073,\u0073
+Hən̓q̓əmin̓əm̓,š,1,1,\u0161,\u0161,\u0073\u030c
+Hən̓q̓əmin̓əm̓,t,1,1,\u0074,\u0074,\u0074
+Hən̓q̓əmin̓əm̓,t̓,2,1,\u0074\u0313,\u0074\u0313,\u0074\u0313
+Hən̓q̓əmin̓əm̓,t̓ᶿ,3,2,\u0074\u0313\u1dbf,\u0074\u0313\u1dbf,\u0074\u0313\u1dbf
+Hən̓q̓əmin̓əm̓,θ,1,1,\u03b8,\u03b8,\u03b8
+Hən̓q̓əmin̓əm̓,w,1,1,\u0077,\u0077,\u0077
+Hən̓q̓əmin̓əm̓,w̓,2,1,\u0077\u0313,\u0077\u0313,\u0077\u0313
+Hən̓q̓əmin̓əm̓,x,1,1,\u0078,\u0078,\u0078
+Hən̓q̓əmin̓əm̓,xʷ,2,2,\u0078\u02b7,\u0078\u02b7,\u0078\u02b7
+Hən̓q̓əmin̓əm̓,χ,1,1,\u03c7,\u03c7,\u03c7
+Hən̓q̓əmin̓əm̓,χʷ,2,2,\u03c7\u02b7,\u03c7\u02b7,\u03c7\u02b7
+Hən̓q̓əmin̓əm̓,y,1,1,\u0079,\u0079,\u0079
+Hən̓q̓əmin̓əm̓,y̓,2,1,\u0079\u0313,\u0079\u0313,\u0079\u0313
+Hən̓q̓əmin̓əm̓,ʔ,1,1,\u0294,\u0294,\u0294
+Hən̓q̓əmin̓əm̓,a,1,1,\u0061,\u0061,\u0061
+Hən̓q̓əmin̓əm̓,a:,2,2,\u0061\u003a,\u0061\u003a,\u0061\u003a
+Hən̓q̓əmin̓əm̓,e,1,1,\u0065,\u0065,\u0065
+Hən̓q̓əmin̓əm̓,e:,2,2,\u0065\u003a,\u0065\u003a,\u0065\u003a
+Hən̓q̓əmin̓əm̓,i,1,1,\u0069,\u0069,\u0069
+Hən̓q̓əmin̓əm̓,i:,2,2,\u0069\u003a,\u0069\u003a,\u0069\u003a
+Hən̓q̓əmin̓əm̓,u,1,1,\u0075,\u0075,\u0075
+Hən̓q̓əmin̓əm̓,u:,2,2,\u0075\u003a,\u0075\u003a,\u0075\u003a
+Hən̓q̓əmin̓əm̓,ǝ,1,1,\u01dd,\u01dd,\u01dd
+Hən̓q̓əmin̓əm̓,ay,2,2,\u0061\u0079,\u0061\u0079,\u0061\u0079
+Hən̓q̓əmin̓əm̓,ey,2,2,\u0065\u0079,\u0065\u0079,\u0065\u0079
+Hən̓q̓əmin̓əm̓,ey̓,3,2,\u0065\u0079\u0313,\u0065\u0079\u0313,\u0065\u0079\u0313
+Hən̓q̓əmin̓əm̓,ǝy,2,2,\u01dd\u0079,\u01dd\u0079,\u01dd\u0079
+Hən̓q̓əmin̓əm̓,ǝy̓,3,2,\u01dd\u0079\u0313,\u01dd\u0079\u0313,\u01dd\u0079\u0313
+Hən̓q̓əmin̓əm̓,aw̓,3,2,\u0061\u0077\u0313,\u0061\u0077\u0313,\u0061\u0077\u0313
+Hən̓q̓əmin̓əm̓,a:w̓,4,3,\u0061\u003a\u0077\u0313,\u0061\u003a\u0077\u0313,\u0061\u003a\u0077\u0313
+Hən̓q̓əmin̓əm̓,ew,2,2,\u0065\u0077,\u0065\u0077,\u0065\u0077
+Hən̓q̓əmin̓əm̓,iw,2,2,\u0069\u0077,\u0069\u0077,\u0069\u0077
+Hən̓q̓əmin̓əm̓,iw̓,3,2,\u0069\u0077\u0313,\u0069\u0077\u0313,\u0069\u0077\u0313
+Hən̓q̓əmin̓əm̓,ǝw,2,2,\u01dd\u0077,\u01dd\u0077,\u01dd\u0077
+Hən̓q̓əmin̓əm̓,ǝw̓`,4,3,\u01dd\u0077\u0313\u0060,\u01dd\u0077\u0313\u0060,\u01dd\u0077\u0313\u0060
+Halq'eméylem,í,1,1,\u00ed,\u00ed,\u0069\u0301
+Halq'eméylem,é,1,1,\u00e9,\u00e9,\u0065\u0301
+Halq'eméylem,á,1,1,\u00e1,\u00e1,\u0061\u0301
+Halq'eméylem,ú,1,1,\u00fa,\u00fa,\u0075\u0301
+Halq'eméylem,ó,1,1,\u00f3,\u00f3,\u006f\u0301
+Halq'eméylem,ō,1,1,\u014d,\u014d,\u006f\u0304
+Halq'eméylem,m,1,1,\u006d,\u006d,\u006d
+Halq'eméylem,ch,2,2,\u0063\u0068,\u0063\u0068,\u0063\u0068
+Halq'eméylem,ch',3,3,\u0063\u0068\u0027,\u0063\u0068\u0027,\u0063\u0068\u0027
+Halq'eméylem,p,1,1,\u0070,\u0070,\u0070
+Halq'eméylem,p',2,2,\u0070\u0027,\u0070\u0027,\u0070\u0027
+Halq'eméylem,',1,1,\u0027,\u0027,\u0027
+Halq'eméylem,k,1,1,\u006b,\u006b,\u006b
+Halq'eméylem,k',2,2,\u006b\u0027,\u006b\u0027,\u006b\u0027
+Halq'eméylem,kw,2,2,\u006b\u0077,\u006b\u0077,\u006b\u0077
+Halq'eméylem,kw',3,3,\u006b\u0077\u0027,\u006b\u0077\u0027,\u006b\u0077\u0027
+Halq'eméylem,y,1,1,\u0079,\u0079,\u0079
+Halq'eméylem,w,1,1,\u0077,\u0077,\u0077
+Halq'eméylem,q,1,1,\u0071,\u0071,\u0071
+Halq'eméylem,q',2,2,\u0071\u0027,\u0071\u0027,\u0071\u0027
+Halq'eméylem,qw,2,2,\u0071\u0077,\u0071\u0077,\u0071\u0077
+Halq'eméylem,qw',3,3,\u0071\u0077\u0027,\u0071\u0077\u0027,\u0071\u0077\u0027
+Halq'eméylem,t,1,1,\u0074,\u0074,\u0074
+Halq'eméylem,t',2,2,\u0074\u0027,\u0074\u0027,\u0074\u0027
+Halq'eméylem,ts,2,2,\u0074\u0073,\u0074\u0073,\u0074\u0073
+Halq'eméylem,ts',3,3,\u0074\u0073\u0027,\u0074\u0073\u0027,\u0074\u0073\u0027
+Halq'eméylem,th,2,2,\u0074\u0068,\u0074\u0068,\u0074\u0068
+Halq'eméylem,th',3,3,\u0074\u0068\u0027,\u0074\u0068\u0027,\u0074\u0068\u0027
+Halq'eméylem,tl',3,3,\u0074\u006c\u0027,\u0074\u006c\u0027,\u0074\u006c\u0027
+Halq'eméylem,l,1,1,\u006c,\u006c,\u006c
+Halq'eméylem,h,1,1,\u0068,\u0068,\u0068
+Halq'eméylem,lh,2,2,\u006c\u0068,\u006c\u0068,\u006c\u0068
+Halq'eméylem,s,1,1,\u0073,\u0073,\u0073
+Halq'eméylem,sh,2,2,\u0073\u0068,\u0073\u0068,\u0073\u0068
+Halq'eméylem,shxw,4,4,\u0073\u0068\u0078\u0077,\u0073\u0068\u0078\u0077,\u0073\u0068\u0078\u0077
+Halq'eméylem,x,1,1,\u0078,\u0078,\u0078
+Halq'eméylem,x̱,2,1,\u0078\u0331,\u0078\u0331,\u0078\u0331
+Halq'eméylem,xw,2,2,\u0078\u0077,\u0078\u0077,\u0078\u0077
+Halq'eméylem,x̱w,3,2,\u0078\u0331\u0077,\u0078\u0331\u0077,\u0078\u0331\u0077
+Halq'eméylem,ey,2,2,\u0065\u0079,\u0065\u0079,\u0065\u0079
+Halq'eméylem,é:y,3,3,\u00e9\u003a\u0079,\u00e9\u003a\u0079,\u0065\u0301\u003a\u0079
+Halq'eméylem,iy,2,2,\u0069\u0079,\u0069\u0079,\u0069\u0079
+Halq'eméylem,oy,2,2,\u006f\u0079,\u006f\u0079,\u006f\u0079
+Halq'eméylem,ōy,2,2,\u014d\u0079,\u014d\u0079,\u006f\u0304\u0079
+Halq'eméylem,uy,2,2,\u0075\u0079,\u0075\u0079,\u0075\u0079
+Halq'eméylem,ew,2,2,\u0065\u0077,\u0065\u0077,\u0065\u0077
+Halq'eméylem,iw,2,2,\u0069\u0077,\u0069\u0077,\u0069\u0077
+Halq'eméylem,ow,2,2,\u006f\u0077,\u006f\u0077,\u006f\u0077
+Halq'eméylem,ōw,2,2,\u014d\u0077,\u014d\u0077,\u006f\u0304\u0077
+Halq'eméylem,úw,2,2,\u00fa\u0077,\u00fa\u0077,\u0075\u0301\u0077
+Halq'eméylem,áy,2,2,\u00e1\u0079,\u00e1\u0079,\u0061\u0301\u0079
+Halq'eméylem,áw,2,2,\u00e1\u0077,\u00e1\u0077,\u0061\u0301\u0077
+Nooksack,a,1,1,\u0061,\u0061,\u0061
+Nooksack,qw,2,2,\u0071\u0077,\u0071\u0077,\u0071\u0077
+Nooksack,ch,2,2,\u0063\u0068,\u0063\u0068,\u0063\u0068
+Nooksack,qw',3,3,\u0071\u0077\u0027,\u0071\u0077\u0027,\u0071\u0077\u0027
+Nooksack,ch',3,3,\u0063\u0068\u0027,\u0063\u0068\u0027,\u0063\u0068\u0027
+Nooksack,s,1,1,\u0073,\u0073,\u0073
+Nooksack,e,1,1,\u0065,\u0065,\u0065
+Nooksack,sh,2,2,\u0073\u0068,\u0073\u0068,\u0073\u0068
+Nooksack,h,1,1,\u0068,\u0068,\u0068
+Nooksack,t,1,1,\u0074,\u0074,\u0074
+Nooksack,i,1,1,\u0069,\u0069,\u0069
+Nooksack,t',2,2,\u0074\u0027,\u0074\u0027,\u0074\u0027
+Nooksack,k,1,1,\u006b,\u006b,\u006b
+Nooksack,ts,2,2,\u0074\u0073,\u0074\u0073,\u0074\u0073
+Nooksack,kw,2,2,\u006b\u0077,\u006b\u0077,\u006b\u0077
+Nooksack,ts',3,3,\u0074\u0073\u0027,\u0074\u0073\u0027,\u0074\u0073\u0027
+Nooksack,kw',3,3,\u006b\u0077\u0027,\u006b\u0077\u0027,\u006b\u0077\u0027
+Nooksack,tl',3,3,\u0074\u006c\u0027,\u0074\u006c\u0027,\u0074\u006c\u0027
+Nooksack,l,1,1,\u006c,\u006c,\u006c
+Nooksack,u,1,1,\u0075,\u0075,\u0075
+Nooksack,lh,2,2,\u006c\u0068,\u006c\u0068,\u006c\u0068
+Nooksack,w,1,1,\u0077,\u0077,\u0077
+Nooksack,lh',3,3,\u006c\u0068\u0027,\u006c\u0068\u0027,\u006c\u0068\u0027
+Nooksack,x,1,1,\u0078,\u0078,\u0078
+Nooksack,m,1,1,\u006d,\u006d,\u006d
+Nooksack,xw,2,2,\u0078\u0077,\u0078\u0077,\u0078\u0077
+Nooksack,n,1,1,\u006e,\u006e,\u006e
+Nooksack,x̱,2,1,\u0078\u0331,\u0078\u0331,\u0078\u0331
+Nooksack,o,1,1,\u006f,\u006f,\u006f
+Nooksack,x̱w,3,2,\u0078\u0331\u0077,\u0078\u0331\u0077,\u0078\u0331\u0077
+Nooksack,p,1,1,\u0070,\u0070,\u0070
+Nooksack,y,1,1,\u0079,\u0079,\u0079
+Nooksack,p',2,2,\u0070\u0027,\u0070\u0027,\u0070\u0027
+Nooksack,y',2,2,\u0079\u0027,\u0079\u0027,\u0079\u0027
+Nooksack,q,1,1,\u0071,\u0071,\u0071
+Nooksack,ʔ,1,1,\u0294,\u0294,\u0294
+Nooksack,q',2,2,\u0071\u0027,\u0071\u0027,\u0071\u0027
+Nooksack,á,1,1,\u00e1,\u00e1,\u0061\u0301
+Nooksack,í,1,1,\u00ed,\u00ed,\u0069\u0301
+Nooksack,é,1,1,\u00e9,\u00e9,\u0065\u0301
+Nooksack,ó,1,1,\u00f3,\u00f3,\u006f\u0301
+Nooksack,ú,1,1,\u00fa,\u00fa,\u0075\u0301
+Nooksack,ː,1,1,\u02d0,\u02d0,\u02d0
+Squamish,a,1,1,\u0061,\u0061,\u0061
+Squamish,ao,2,2,\u0061\u006f,\u0061\u006f,\u0061\u006f
+Squamish,e,1,1,\u0065,\u0065,\u0065
+Squamish,i,1,1,\u0069,\u0069,\u0069
+Squamish,u,1,1,\u0075,\u0075,\u0075
+Squamish,aw,2,2,\u0061\u0077,\u0061\u0077,\u0061\u0077
+Squamish,ay,2,2,\u0061\u0079,\u0061\u0079,\u0061\u0079
+Squamish,ew,2,2,\u0065\u0077,\u0065\u0077,\u0065\u0077
+Squamish,ey,2,2,\u0065\u0079,\u0065\u0079,\u0065\u0079
+Squamish,iw,2,2,\u0069\u0077,\u0069\u0077,\u0069\u0077
+Squamish,iy,2,2,\u0069\u0079,\u0069\u0079,\u0069\u0079
+Squamish,uw,2,2,\u0075\u0077,\u0075\u0077,\u0075\u0077
+Squamish,uy,2,2,\u0075\u0079,\u0075\u0079,\u0075\u0079
+Squamish,ch,2,2,\u0063\u0068,\u0063\u0068,\u0063\u0068
+Squamish,ch’,3,3,\u0063\u0068\u2019,\u0063\u0068\u2019,\u0063\u0068\u2019
+Squamish,h,1,1,\u0068,\u0068,\u0068
+Squamish,k,1,1,\u006b,\u006b,\u006b
+Squamish,kw,2,2,\u006b\u0077,\u006b\u0077,\u006b\u0077
+Squamish,k’,2,2,\u006b\u2019,\u006b\u2019,\u006b\u2019
+Squamish,k̓w,3,2,\u006b\u0313\u0077,\u006b\u0313\u0077,\u006b\u0313\u0077
+Squamish,ḵ,1,1,\u1e35,\u1e35,\u006b\u0331
+Squamish,ḵ’,2,2,\u1e35\u2019,\u1e35\u2019,\u006b\u0331\u2019
+Squamish,ḵw,2,2,\u1e35\u0077,\u1e35\u0077,\u006b\u0331\u0077
+Squamish,ḵw’,3,3,\u1e35\u0077\u2019,\u1e35\u0077\u2019,\u006b\u0331\u0077\u2019
+Squamish,l,1,1,\u006c,\u006c,\u006c
+Squamish,lʼ,2,2,\u006c\u02bc,\u006c\u02bc,\u006c\u02bc
+Squamish,lh,2,2,\u006c\u0068,\u006c\u0068,\u006c\u0068
+Squamish,m,1,1,\u006d,\u006d,\u006d
+Squamish,m̓,2,1,\u006d\u0313,\u006d\u0313,\u006d\u0313
+Squamish,n,1,1,\u006e,\u006e,\u006e
+Squamish,n̓,2,1,\u006e\u0313,\u006e\u0313,\u006e\u0313
+Squamish,p,1,1,\u0070,\u0070,\u0070
+Squamish,p̓,2,1,\u0070\u0313,\u0070\u0313,\u0070\u0313
+Squamish,s,1,1,\u0073,\u0073,\u0073
+Squamish,sh,2,2,\u0073\u0068,\u0073\u0068,\u0073\u0068
+Squamish,t,1,1,\u0074,\u0074,\u0074
+Squamish,t’,2,2,\u0074\u2019,\u0074\u2019,\u0074\u2019
+Squamish,tl’,3,3,\u0074\u006c\u2019,\u0074\u006c\u2019,\u0074\u006c\u2019
+Squamish,ts,2,2,\u0074\u0073,\u0074\u0073,\u0074\u0073
+Squamish,ts’,3,3,\u0074\u0073\u2019,\u0074\u0073\u2019,\u0074\u0073\u2019
+Squamish,w,1,1,\u0077,\u0077,\u0077
+Squamish,w̓,2,1,\u0077\u0313,\u0077\u0313,\u0077\u0313
+Squamish,xw,2,2,\u0078\u0077,\u0078\u0077,\u0078\u0077
+Squamish,x̱,2,1,\u0078\u0331,\u0078\u0331,\u0078\u0331
+Squamish,x̱w,3,2,\u0078\u0331\u0077,\u0078\u0331\u0077,\u0078\u0331\u0077
+Squamish,y,1,1,\u0079,\u0079,\u0079
+Squamish,y̓,2,1,\u0079\u0313,\u0079\u0313,\u0079\u0313
+Squamish,7`,2,2,\u0037\u0060,\u0037\u0060,\u0037\u0060
+Straights Salish (Saanich),A,1,1,\u0041,\u0041,\u0041
+Straights Salish (Saanich),Á,1,1,\u00c1,\u00c1,\u0041\u0301
+Straights Salish (Saanich),Ⱥ,1,1,\u023a,\u023a,\u023a
+Straights Salish (Saanich),B,1,1,\u0042,\u0042,\u0042
+Straights Salish (Saanich),C,1,1,\u0043,\u0043,\u0043
+Straights Salish (Saanich),Ć,1,1,\u0106,\u0106,\u0043\u0301
+Straights Salish (Saanich),Ȼ,1,1,\u023b,\u023b,\u023b
+Straights Salish (Saanich),D,1,1,\u0044,\u0044,\u0044
+Straights Salish (Saanich),E,1,1,\u0045,\u0045,\u0045
+Straights Salish (Saanich),H,1,1,\u0048,\u0048,\u0048
+Straights Salish (Saanich),I,1,1,\u0049,\u0049,\u0049
+Straights Salish (Saanich),Í,1,1,\u00cd,\u00cd,\u0049\u0301
+Straights Salish (Saanich),J,1,1,\u004a,\u004a,\u004a
+Straights Salish (Saanich),K,1,1,\u004b,\u004b,\u004b
+Straights Salish (Saanich),₭,1,1,\u20ad,\u20ad,\u20ad
+Straights Salish (Saanich),Ḵ,1,1,\u1e34,\u1e34,\u004b\u0331
+Straights Salish (Saanich),Ḱ,1,1,\u1e30,\u1e30,\u004b\u0301
+Straights Salish (Saanich),L,1,1,\u004c,\u004c,\u004c
+Straights Salish (Saanich),Ƚ,1,1,\u023d,\u023d,\u023d
+Straights Salish (Saanich),M,1,1,\u004d,\u004d,\u004d
+Straights Salish (Saanich),N,1,1,\u004e,\u004e,\u004e
+Straights Salish (Saanich),Ṉ,1,1,\u1e48,\u1e48,\u004e\u0331
+Straights Salish (Saanich),O,1,1,\u004f,\u004f,\u004f
+Straights Salish (Saanich),P,1,1,\u0050,\u0050,\u0050
+Straights Salish (Saanich),Q,1,1,\u0051,\u0051,\u0051
+Straights Salish (Saanich),S,1,1,\u0053,\u0053,\u0053
+Straights Salish (Saanich),Ś,1,1,\u015a,\u015a,\u0053\u0301
+Straights Salish (Saanich),T,1,1,\u0054,\u0054,\u0054
+Straights Salish (Saanich),Ⱦ,1,1,\u023e,\u023e,\u023e
+Straights Salish (Saanich),Ŧ,1,1,\u0166,\u0166,\u0166
+Straights Salish (Saanich),Ṯ,1,1,\u1e6e,\u1e6e,\u0054\u0331
+Straights Salish (Saanich),U,1,1,\u0055,\u0055,\u0055
+Straights Salish (Saanich),W,1,1,\u0057,\u0057,\u0057
+Straights Salish (Saanich),W̱,2,1,\u0057\u0331,\u0057\u0331,\u0057\u0331
+Straights Salish (Saanich),X,1,1,\u0058,\u0058,\u0058
+Straights Salish (Saanich),X̱,2,1,\u0058\u0331,\u0058\u0331,\u0058\u0331
+Straights Salish (Saanich),Y,1,1,\u0059,\u0059,\u0059
+Straights Salish (Saanich),Z,1,1,\u005a,\u005a,\u005a
+Straights Salish (Saanich),s,1,1,\u0073,\u0073,\u0073
+Straights Salish (Saanich),",",1,1,\u002c,\u002c,\u002c
+Straights Salish (Saanich),¸`,2,2,\u00b8\u0060,\u00b8\u0060,\u00b8\u0060
+Lummi,MISSING`,8,8,\u004d\u0049\u0053\u0053\u0049\u004e\u0047\u0060,\u004d\u0049\u0053\u0053\u0049\u004e\u0047\u0060,\u004d\u0049\u0053\u0053\u0049\u004e\u0047\u0060
+Samish,a,1,1,\u0061,\u0061,\u0061
+Samish,ch,2,2,\u0063\u0068,\u0063\u0068,\u0063\u0068
+Samish,ch',3,3,\u0063\u0068\u0027,\u0063\u0068\u0027,\u0063\u0068\u0027
+Samish,e,1,1,\u0065,\u0065,\u0065
+Samish,h,1,1,\u0068,\u0068,\u0068
+Samish,i,1,1,\u0069,\u0069,\u0069
+Samish,k,1,1,\u006b,\u006b,\u006b
+Samish,kw,2,2,\u006b\u0077,\u006b\u0077,\u006b\u0077
+Samish,kw',3,3,\u006b\u0077\u0027,\u006b\u0077\u0027,\u006b\u0077\u0027
+Samish,l,1,1,\u006c,\u006c,\u006c
+Samish,lh,2,2,\u006c\u0068,\u006c\u0068,\u006c\u0068
+Samish,m,1,1,\u006d,\u006d,\u006d
+Samish,n,1,1,\u006e,\u006e,\u006e
+Samish,ng,2,2,\u006e\u0067,\u006e\u0067,\u006e\u0067
+Samish,o,1,1,\u006f,\u006f,\u006f
+Samish,p,1,1,\u0070,\u0070,\u0070
+Samish,p',2,2,\u0070\u0027,\u0070\u0027,\u0070\u0027
+Samish,q,1,1,\u0071,\u0071,\u0071
+Samish,q',2,2,\u0071\u0027,\u0071\u0027,\u0071\u0027
+Samish,qw,2,2,\u0071\u0077,\u0071\u0077,\u0071\u0077
+Samish,qw',3,3,\u0071\u0077\u0027,\u0071\u0077\u0027,\u0071\u0077\u0027
+Samish,s,1,1,\u0073,\u0073,\u0073
+Samish,sh,2,2,\u0073\u0068,\u0073\u0068,\u0073\u0068
+Samish,t,1,1,\u0074,\u0074,\u0074
+Samish,t',2,2,\u0074\u0027,\u0074\u0027,\u0074\u0027
+Samish,tl',3,3,\u0074\u006c\u0027,\u0074\u006c\u0027,\u0074\u006c\u0027
+Samish,ts,2,2,\u0074\u0073,\u0074\u0073,\u0074\u0073
+Samish,ts',3,3,\u0074\u0073\u0027,\u0074\u0073\u0027,\u0074\u0073\u0027
+Samish,u,1,1,\u0075,\u0075,\u0075
+Samish,w,1,1,\u0077,\u0077,\u0077
+Samish,x̲,2,1,\u0078\u0332,\u0078\u0332,\u0078\u0332
+Samish,xw,2,2,\u0078\u0077,\u0078\u0077,\u0078\u0077
+Samish,x̲w,3,2,\u0078\u0332\u0077,\u0078\u0332\u0077,\u0078\u0332\u0077
+Samish,y,1,1,\u0079,\u0079,\u0079
+Samish,á,1,1,\u00e1,\u00e1,\u0061\u0301
+Samish,é,1,1,\u00e9,\u00e9,\u0065\u0301
+Samish,í,1,1,\u00ed,\u00ed,\u0069\u0301
+Samish,ó,1,1,\u00f3,\u00f3,\u006f\u0301
+Samish,ú`,2,2,\u00fa\u0060,\u00fa\u0060,\u0075\u0301\u0060
+Lushootseed,ʔ,1,1,\u0294,\u0294,\u0294
+Lushootseed,a,1,1,\u0061,\u0061,\u0061
+Lushootseed,b,1,1,\u0062,\u0062,\u0062
+Lushootseed,c,1,1,\u0063,\u0063,\u0063
+Lushootseed,c̓,2,1,\u0063\u0313,\u0063\u0313,\u0063\u0313
+Lushootseed,č,1,1,\u010d,\u010d,\u0063\u030c
+Lushootseed,č̓,2,1,\u010d\u0313,\u010d\u0313,\u0063\u030c\u0313
+Lushootseed,d,1,1,\u0064,\u0064,\u0064
+Lushootseed,dᶻ,2,2,\u0064\u1dbb,\u0064\u1dbb,\u0064\u1dbb
+Lushootseed,ə,1,1,\u0259,\u0259,\u0259
+Lushootseed,g,1,1,\u0067,\u0067,\u0067
+Lushootseed,gʷ,2,2,\u0067\u02b7,\u0067\u02b7,\u0067\u02b7
+Lushootseed,h,1,1,\u0068,\u0068,\u0068
+Lushootseed,i,1,1,\u0069,\u0069,\u0069
+Lushootseed,ii,2,2,\u0069\u0069,\u0069\u0069,\u0069\u0069
+Lushootseed,ǰ,1,1,\u01f0,\u01f0,\u006a\u030c
+Lushootseed,k,1,1,\u006b,\u006b,\u006b
+Lushootseed,k̓,2,1,\u006b\u0313,\u006b\u0313,\u006b\u0313
+Lushootseed,kʷ,2,2,\u006b\u02b7,\u006b\u02b7,\u006b\u02b7
+Lushootseed,k̓ʷ,3,2,\u006b\u0313\u02b7,\u006b\u0313\u02b7,\u006b\u0313\u02b7
+Lushootseed,l,1,1,\u006c,\u006c,\u006c
+Lushootseed,l̓,2,1,\u006c\u0313,\u006c\u0313,\u006c\u0313
+Lushootseed,ɬ,1,1,\u026c,\u026c,\u026c
+Lushootseed,ɫ,1,1,\u026b,\u026b,\u026b
+Lushootseed,ł,1,1,\u0142,\u0142,\u0142
+Lushootseed,ƛ̓,2,1,\u019b\u0313,\u019b\u0313,\u019b\u0313
+Lushootseed,m,1,1,\u006d,\u006d,\u006d
+Lushootseed,m̓,2,1,\u006d\u0313,\u006d\u0313,\u006d\u0313
+Lushootseed,n,1,1,\u006e,\u006e,\u006e
+Lushootseed,n̓,2,1,\u006e\u0313,\u006e\u0313,\u006e\u0313
+Lushootseed,p,1,1,\u0070,\u0070,\u0070
+Lushootseed,p̓,2,1,\u0070\u0313,\u0070\u0313,\u0070\u0313
+Lushootseed,q,1,1,\u0071,\u0071,\u0071
+Lushootseed,q̓,2,1,\u0071\u0313,\u0071\u0313,\u0071\u0313
+Lushootseed,qʷ,2,2,\u0071\u02b7,\u0071\u02b7,\u0071\u02b7
+Lushootseed,q̓ʷ,3,2,\u0071\u0313\u02b7,\u0071\u0313\u02b7,\u0071\u0313\u02b7
+Lushootseed,s,1,1,\u0073,\u0073,\u0073
+Lushootseed,š,1,1,\u0161,\u0161,\u0073\u030c
+Lushootseed,t,1,1,\u0074,\u0074,\u0074
+Lushootseed,t̓,2,1,\u0074\u0313,\u0074\u0313,\u0074\u0313
+Lushootseed,u,1,1,\u0075,\u0075,\u0075
+Lushootseed,w,1,1,\u0077,\u0077,\u0077
+Lushootseed,w̓,2,1,\u0077\u0313,\u0077\u0313,\u0077\u0313
+Lushootseed,xʷ,2,2,\u0078\u02b7,\u0078\u02b7,\u0078\u02b7
+Lushootseed,x̌,2,1,\u0078\u030c,\u0078\u030c,\u0078\u030c
+Lushootseed,x̌ʷ,3,2,\u0078\u030c\u02b7,\u0078\u030c\u02b7,\u0078\u030c\u02b7
+Lushootseed,y,1,1,\u0079,\u0079,\u0079
+Lushootseed,y̓,2,1,\u0079\u0313,\u0079\u0313,\u0079\u0313
+Lushootseed,⋯,1,1,\u22ef,\u22ef,\u22ef
+Lushootseed,·`,2,2,\u00b7\u0060,\u00b7\u0060,\u00b7\u0060
+Twana,MISSING`,8,8,\u004d\u0049\u0053\u0053\u0049\u004e\u0047\u0060,\u004d\u0049\u0053\u0053\u0049\u004e\u0047\u0060,\u004d\u0049\u0053\u0053\u0049\u004e\u0047\u0060
+Quileute,a,1,1,\u0061,\u0061,\u0061
+Quileute,b,1,1,\u0062,\u0062,\u0062
+Quileute,ch,2,2,\u0063\u0068,\u0063\u0068,\u0063\u0068
+Quileute,c̓h,3,2,\u0063\u0313\u0068,\u0063\u0313\u0068,\u0063\u0313\u0068
+Quileute,d,1,1,\u0064,\u0064,\u0064
+Quileute,h,1,1,\u0068,\u0068,\u0068
+Quileute,i,1,1,\u0069,\u0069,\u0069
+Quileute,k,1,1,\u006b,\u006b,\u006b
+Quileute,k̓,2,1,\u006b\u0313,\u006b\u0313,\u006b\u0313
+Quileute,kʷ,2,2,\u006b\u02b7,\u006b\u02b7,\u006b\u02b7
+Quileute,k̓ʷ,3,2,\u006b\u0313\u02b7,\u006b\u0313\u02b7,\u006b\u0313\u02b7
+Quileute,ḳ,2,1,\u006b\u0323,\u1e33,\u006b\u0323
+Quileute,k̓,2,1,\u006b\u0313,\u006b\u0313,\u006b\u0313
+Quileute,ḳʷ,3,2,\u006b\u0323\u02b7,\u1e33\u02b7,\u006b\u0323\u02b7
+Quileute,k̓ʷ,3,2,\u006b\u0313\u02b7,\u006b\u0313\u02b7,\u006b\u0313\u02b7
+Quileute,l,1,1,\u006c,\u006c,\u006c
+Quileute,ł,1,1,\u0142,\u0142,\u0142
+Quileute,ɫ,1,1,\u026b,\u026b,\u026b
+Quileute,o,1,1,\u006f,\u006f,\u006f
+Quileute,p,1,1,\u0070,\u0070,\u0070
+Quileute,p̓,2,1,\u0070\u0313,\u0070\u0313,\u0070\u0313
+Quileute,s,1,1,\u0073,\u0073,\u0073
+Quileute,sh,2,2,\u0073\u0068,\u0073\u0068,\u0073\u0068
+Quileute,t,1,1,\u0074,\u0074,\u0074
+Quileute,t̓,2,1,\u0074\u0313,\u0074\u0313,\u0074\u0313
+Quileute,tł,2,2,\u0074\u0142,\u0074\u0142,\u0074\u0142
+Quileute,t̓ł,3,2,\u0074\u0313\u0142,\u0074\u0313\u0142,\u0074\u0313\u0142
+Quileute,ts,2,2,\u0074\u0073,\u0074\u0073,\u0074\u0073
+Quileute,t̓s,3,2,\u0074\u0313\u0073,\u0074\u0313\u0073,\u0074\u0313\u0073
+Quileute,w,1,1,\u0077,\u0077,\u0077
+Quileute,x,1,1,\u0078,\u0078,\u0078
+Quileute,xʷ,2,2,\u0078\u02b7,\u0078\u02b7,\u0078\u02b7
+Quileute,x̣,2,1,\u0078\u0323,\u0078\u0323,\u0078\u0323
+Quileute,x̣ʷ,3,2,\u0078\u0323\u02b7,\u0078\u0323\u02b7,\u0078\u0323\u02b7
+Quileute,y,1,1,\u0079,\u0079,\u0079
+Quileute,ʔ,1,1,\u0294,\u0294,\u0294
+Quileute,a̱,2,1,\u0061\u0331,\u0061\u0331,\u0061\u0331
+Quileute,g,1,1,\u0067,\u0067,\u0067
+Quileute,·`,2,2,\u00b7\u0060,\u00b7\u0060,\u00b7\u0060
+S’Klallam,ʔ,1,1,\u0294,\u0294,\u0294
+S’Klallam,a,1,1,\u0061,\u0061,\u0061
+S’Klallam,c,1,1,\u0063,\u0063,\u0063
+S’Klallam,c̕,2,1,\u0063\u0315,\u0063\u0315,\u0063\u0315
+S’Klallam,č,1,1,\u010d,\u010d,\u0063\u030c
+S’Klallam,č̕,2,1,\u010d\u0315,\u010d\u0315,\u0063\u030c\u0315
+S’Klallam,e,1,1,\u0065,\u0065,\u0065
+S’Klallam,ə,1,1,\u0259,\u0259,\u0259
+S’Klallam,h,1,1,\u0068,\u0068,\u0068
+S’Klallam,i,1,1,\u0069,\u0069,\u0069
+S’Klallam,k,1,1,\u006b,\u006b,\u006b
+S’Klallam,kʷ,2,2,\u006b\u02b7,\u006b\u02b7,\u006b\u02b7
+S’Klallam,k̕ʷ,3,2,\u006b\u0315\u02b7,\u006b\u0315\u02b7,\u006b\u0315\u02b7
+S’Klallam,l,1,1,\u006c,\u006c,\u006c
+S’Klallam,ɬ,1,1,\u026c,\u026c,\u026c
+S’Klallam,ƛ̕,2,1,\u019b\u0315,\u019b\u0315,\u019b\u0315
+S’Klallam,m,1,1,\u006d,\u006d,\u006d
+S’Klallam,m̕,2,1,\u006d\u0315,\u006d\u0315,\u006d\u0315
+S’Klallam,n,1,1,\u006e,\u006e,\u006e
+S’Klallam,n̕,2,1,\u006e\u0315,\u006e\u0315,\u006e\u0315
+S’Klallam,ŋ,1,1,\u014b,\u014b,\u014b
+S’Klallam,ŋ̕,2,1,\u014b\u0315,\u014b\u0315,\u014b\u0315
+S’Klallam,p,1,1,\u0070,\u0070,\u0070
+S’Klallam,p̕,2,1,\u0070\u0315,\u0070\u0315,\u0070\u0315
+S’Klallam,q,1,1,\u0071,\u0071,\u0071
+S’Klallam,q̕,2,1,\u0071\u0315,\u0071\u0315,\u0071\u0315
+S’Klallam,qʷ,2,2,\u0071\u02b7,\u0071\u02b7,\u0071\u02b7
+S’Klallam,q̕ʷ,3,2,\u0071\u0315\u02b7,\u0071\u0315\u02b7,\u0071\u0315\u02b7
+S’Klallam,s,1,1,\u0073,\u0073,\u0073
+S’Klallam,š,1,1,\u0161,\u0161,\u0073\u030c
+S’Klallam,t,1,1,\u0074,\u0074,\u0074
+S’Klallam,t̕,2,1,\u0074\u0315,\u0074\u0315,\u0074\u0315
+S’Klallam,u,1,1,\u0075,\u0075,\u0075
+S’Klallam,w,1,1,\u0077,\u0077,\u0077
+S’Klallam,w̕,2,1,\u0077\u0315,\u0077\u0315,\u0077\u0315
+S’Klallam,xʷ,2,2,\u0078\u02b7,\u0078\u02b7,\u0078\u02b7
+S’Klallam,x̣,2,1,\u0078\u0323,\u0078\u0323,\u0078\u0323
+S’Klallam,x̣ʷ,3,2,\u0078\u0323\u02b7,\u0078\u0323\u02b7,\u0078\u0323\u02b7
+S’Klallam,y,1,1,\u0079,\u0079,\u0079
+S’Klallam,y̕,2,1,\u0079\u0315,\u0079\u0315,\u0079\u0315
+S’Klallam,á,1,1,\u00e1,\u00e1,\u0061\u0301
+S’Klallam,é,1,1,\u00e9,\u00e9,\u0065\u0301
+S’Klallam,í,1,1,\u00ed,\u00ed,\u0069\u0301
+S’Klallam,ú,1,1,\u00fa,\u00fa,\u0075\u0301
+S’Klallam,ə́,2,1,\u0259\u0301,\u0259\u0301,\u0259\u0301
+S’Klallam,ˑ`,2,2,\u02d1\u0060,\u02d1\u0060,\u02d1\u0060
+Quinault,ʔ,1,1,\u0294,\u0294,\u0294
+Quinault,a,1,1,\u0061,\u0061,\u0061
+Quinault,c,1,1,\u0063,\u0063,\u0063
+Quinault,c̓,2,1,\u0063\u0313,\u0063\u0313,\u0063\u0313
+Quinault,č,1,1,\u010d,\u010d,\u0063\u030c
+Quinault,č̕,2,1,\u010d\u0315,\u010d\u0315,\u0063\u030c\u0315
+Quinault,ə,1,1,\u0259,\u0259,\u0259
+Quinault,e,1,1,\u0065,\u0065,\u0065
+Quinault,g,1,1,\u0067,\u0067,\u0067
+Quinault,g̣,2,1,\u0067\u0323,\u0067\u0323,\u0067\u0323
+Quinault,h,1,1,\u0068,\u0068,\u0068
+Quinault,ɪ,1,1,\u026a,\u026a,\u026a
+Quinault,i,1,1,\u0069,\u0069,\u0069
+Quinault,j,1,1,\u006a,\u006a,\u006a
+Quinault,k,1,1,\u006b,\u006b,\u006b
+Quinault,k̓,2,1,\u006b\u0313,\u006b\u0313,\u006b\u0313
+Quinault,ḳ,2,1,\u006b\u0323,\u1e33,\u006b\u0323
+Quinault,ḳ̓,3,1,\u006b\u0313\u0323,\u1e33\u0313,\u006b\u0323\u0313
+Quinault,l,1,1,\u006c,\u006c,\u006c
+Quinault,l̓,2,1,\u006c\u0313,\u006c\u0313,\u006c\u0313
+Quinault,ɫ,1,1,\u026b,\u026b,\u026b
+Quinault,ƛ̕,2,1,\u019b\u0315,\u019b\u0315,\u019b\u0315
+Quinault,m,1,1,\u006d,\u006d,\u006d
+Quinault,n,1,1,\u006e,\u006e,\u006e
+Quinault,o,1,1,\u006f,\u006f,\u006f
+Quinault,p,1,1,\u0070,\u0070,\u0070
+Quinault,p̕,2,1,\u0070\u0315,\u0070\u0315,\u0070\u0315
+Quinault,s,1,1,\u0073,\u0073,\u0073
+Quinault,š,1,1,\u0161,\u0161,\u0073\u030c
+Quinault,t,1,1,\u0074,\u0074,\u0074
+Quinault,t̕,2,1,\u0074\u0315,\u0074\u0315,\u0074\u0315
+Quinault,u,1,1,\u0075,\u0075,\u0075
+Quinault,w,1,1,\u0077,\u0077,\u0077
+Quinault,W,1,1,\u0057,\u0057,\u0057
+Quinault,x̣,2,1,\u0078\u0323,\u0078\u0323,\u0078\u0323
+Quinault,y`,2,2,\u0079\u0060,\u0079\u0060,\u0079\u0060
+Upper Chehalis,MISSING`,8,8,\u004d\u0049\u0053\u0053\u0049\u004e\u0047\u0060,\u004d\u0049\u0053\u0053\u0049\u004e\u0047\u0060,\u004d\u0049\u0053\u0053\u0049\u004e\u0047\u0060
+Lower Chehalis,MISSING`,8,8,\u004d\u0049\u0053\u0053\u0049\u004e\u0047\u0060,\u004d\u0049\u0053\u0053\u0049\u004e\u0047\u0060,\u004d\u0049\u0053\u0053\u0049\u004e\u0047\u0060
+Cowlitz,MISSING`,8,8,\u004d\u0049\u0053\u0053\u0049\u004e\u0047\u0060,\u004d\u0049\u0053\u0053\u0049\u004e\u0047\u0060,\u004d\u0049\u0053\u0053\u0049\u004e\u0047\u0060
+Haida -,b,1,1,\u0062,\u0062,\u0062
+Haida -,c,1,1,\u0063,\u0063,\u0063
+Haida -,x,1,1,\u0078,\u0078,\u0078
+Haida -,d,1,1,\u0064,\u0064,\u0064
+Haida -,dl,2,2,\u0064\u006c,\u0064\u006c,\u0064\u006c
+Haida -,g,1,1,\u0067,\u0067,\u0067
+Haida -,G,1,1,\u0047,\u0047,\u0047
+Haida -,r,1,1,\u0072,\u0072,\u0072
+Haida -,ĝ,1,1,\u011d,\u011d,\u0067\u0302
+Haida -,ǥ,1,1,\u01e5,\u01e5,\u01e5
+Haida -,gh,2,2,\u0067\u0068,\u0067\u0068,\u0067\u0068
+Haida -,h,1,1,\u0068,\u0068,\u0068
+Haida -,hl,2,2,\u0068\u006c,\u0068\u006c,\u0068\u006c
+Haida -,j,1,1,\u006a,\u006a,\u006a
+Haida -,k,1,1,\u006b,\u006b,\u006b
+Haida -,k’,2,2,\u006b\u2019,\u006b\u2019,\u006b\u2019
+Haida -,kk,2,2,\u006b\u006b,\u006b\u006b,\u006b\u006b
+Haida -,q,1,1,\u0071,\u0071,\u0071
+Haida -,ḵ,1,1,\u1e35,\u1e35,\u006b\u0331
+Haida -,q,1,1,\u0071,\u0071,\u0071
+Haida -,q’,2,2,\u0071\u2019,\u0071\u2019,\u0071\u2019
+Haida -,ḵ’,2,2,\u1e35\u2019,\u1e35\u2019,\u006b\u0331\u2019
+Haida -,qq,2,2,\u0071\u0071,\u0071\u0071,\u0071\u0071
+Haida -,l,1,1,\u006c,\u006c,\u006c
+Haida -,l,1,1,\u006c,\u006c,\u006c
+Haida -,ll,2,2,\u006c\u006c,\u006c\u006c,\u006c\u006c
+Haida -,m,1,1,\u006d,\u006d,\u006d
+Haida -,m,1,1,\u006d,\u006d,\u006d
+Haida -,mm,2,2,\u006d\u006d,\u006d\u006d,\u006d\u006d
+Haida -,n,1,1,\u006e,\u006e,\u006e
+Haida -,n,1,1,\u006e,\u006e,\u006e
+Haida -,nn,2,2,\u006e\u006e,\u006e\u006e,\u006e\u006e
+Haida -,ng,2,2,\u006e\u0067,\u006e\u0067,\u006e\u0067
+Haida -,p,1,1,\u0070,\u0070,\u0070
+Haida -,p',2,2,\u0070\u0027,\u0070\u0027,\u0070\u0027
+Haida -,r,1,1,\u0072,\u0072,\u0072
+Haida -,ǥ,1,1,\u01e5,\u01e5,\u01e5
+Haida -,gh,2,2,\u0067\u0068,\u0067\u0068,\u0067\u0068
+Haida -,s,1,1,\u0073,\u0073,\u0073
+Haida -,t,1,1,\u0074,\u0074,\u0074
+Haida -,t’,2,2,\u0074\u2019,\u0074\u2019,\u0074\u2019
+Haida -,tt,2,2,\u0074\u0074,\u0074\u0074,\u0074\u0074
+Haida -,tl,2,2,\u0074\u006c,\u0074\u006c,\u0074\u006c
+Haida -,tl’,3,3,\u0074\u006c\u2019,\u0074\u006c\u2019,\u0074\u006c\u2019
+Haida -,ttl,3,3,\u0074\u0074\u006c,\u0074\u0074\u006c,\u0074\u0074\u006c
+Haida -,ts,2,2,\u0074\u0073,\u0074\u0073,\u0074\u0073
+Haida -,(ch),4,4,\u0028\u0063\u0068\u0029,\u0028\u0063\u0068\u0029,\u0028\u0063\u0068\u0029
+Haida -,ts’,3,3,\u0074\u0073\u2019,\u0074\u0073\u2019,\u0074\u0073\u2019
+Haida -,tts,3,3,\u0074\u0074\u0073,\u0074\u0074\u0073,\u0074\u0074\u0073
+Haida -,w,1,1,\u0077,\u0077,\u0077
+Haida -,x,1,1,\u0078,\u0078,\u0078
+Haida -,x̱,2,1,\u0078\u0331,\u0078\u0331,\u0078\u0331
+Haida -,X,1,1,\u0058,\u0058,\u0058
+Haida -,x,1,1,\u0078,\u0078,\u0078
+Haida -,x̂,2,1,\u0078\u0302,\u0078\u0302,\u0078\u0302
+Haida -,x̱,2,1,\u0078\u0331,\u0078\u0331,\u0078\u0331
+Haida -,xh,2,2,\u0078\u0068,\u0078\u0068,\u0078\u0068
+Haida -,y,1,1,\u0079,\u0079,\u0079
+Haida -,7,1,1,\u0037,\u0037,\u0037
+Haida -,’,1,1,\u2019,\u2019,\u2019
+Haida -,',1,1,\u0027,\u0027,\u0027
+Haida -,i,1,1,\u0069,\u0069,\u0069
+Haida -,ii,2,2,\u0069\u0069,\u0069\u0069,\u0069\u0069
+Haida -,u,1,1,\u0075,\u0075,\u0075
+Haida -,uu,2,2,\u0075\u0075,\u0075\u0075,\u0075\u0075
+Haida -,e,1,1,\u0065,\u0065,\u0065
+Haida -,ee,2,2,\u0065\u0065,\u0065\u0065,\u0065\u0065
+Haida -,o,1,1,\u006f,\u006f,\u006f
+Haida -,oo,2,2,\u006f\u006f,\u006f\u006f,\u006f\u006f
+Haida -,a,1,1,\u0061,\u0061,\u0061
+Haida -,aa,2,2,\u0061\u0061,\u0061\u0061,\u0061\u0061
+Haida -,·,1,1,\u00b7,\u00b7,\u00b7
+Haida -,.`,2,2,\u002e\u0060,\u002e\u0060,\u002e\u0060
+Bella Coola,a,1,1,\u0061,\u0061,\u0061
+Bella Coola,x,1,1,\u0078,\u0078,\u0078
+Bella Coola,xʷ,2,2,\u0078\u02b7,\u0078\u02b7,\u0078\u02b7
+Bella Coola,h,1,1,\u0068,\u0068,\u0068
+Bella Coola,i,1,1,\u0069,\u0069,\u0069
+Bella Coola,k,1,1,\u006b,\u006b,\u006b
+Bella Coola,k̓,2,1,\u006b\u0313,\u006b\u0313,\u006b\u0313
+Bella Coola,kʷ,2,2,\u006b\u02b7,\u006b\u02b7,\u006b\u02b7
+Bella Coola,k̓ʷ,3,2,\u006b\u0313\u02b7,\u006b\u0313\u02b7,\u006b\u0313\u02b7
+Bella Coola,l,1,1,\u006c,\u006c,\u006c
+Bella Coola,ł,1,1,\u0142,\u0142,\u0142
+Bella Coola,m,1,1,\u006d,\u006d,\u006d
+Bella Coola,n,1,1,\u006e,\u006e,\u006e
+Bella Coola,p,1,1,\u0070,\u0070,\u0070
+Bella Coola,p̓,2,1,\u0070\u0313,\u0070\u0313,\u0070\u0313
+Bella Coola,q,1,1,\u0071,\u0071,\u0071
+Bella Coola,q̓,2,1,\u0071\u0313,\u0071\u0313,\u0071\u0313
+Bella Coola,qʷ,2,2,\u0071\u02b7,\u0071\u02b7,\u0071\u02b7
+Bella Coola,q̓ʷ,3,2,\u0071\u0313\u02b7,\u0071\u0313\u02b7,\u0071\u0313\u02b7
+Bella Coola,s,1,1,\u0073,\u0073,\u0073
+Bella Coola,t,1,1,\u0074,\u0074,\u0074
+Bella Coola,t̓,2,1,\u0074\u0313,\u0074\u0313,\u0074\u0313
+Bella Coola,ƛ,1,1,\u019b,\u019b,\u019b
+Bella Coola,ƛ̓,2,1,\u019b\u0313,\u019b\u0313,\u019b\u0313
+Bella Coola,c,1,1,\u0063,\u0063,\u0063
+Bella Coola,c̓,2,1,\u0063\u0313,\u0063\u0313,\u0063\u0313
+Bella Coola,u,1,1,\u0075,\u0075,\u0075
+Bella Coola,w,1,1,\u0077,\u0077,\u0077
+Bella Coola,x̣,2,1,\u0078\u0323,\u0078\u0323,\u0078\u0323
+Bella Coola,x̣ʷ,3,2,\u0078\u0323\u02b7,\u0078\u0323\u02b7,\u0078\u0323\u02b7
+Bella Coola,y,1,1,\u0079,\u0079,\u0079
+Bella Coola,ʔ,1,1,\u0294,\u0294,\u0294
+Bella Coola,a,1,1,\u0061,\u0061,\u0061
+Bella Coola,c,1,1,\u0063,\u0063,\u0063
+Bella Coola,cw,2,2,\u0063\u0077,\u0063\u0077,\u0063\u0077
+Bella Coola,h,1,1,\u0068,\u0068,\u0068
+Bella Coola,i,1,1,\u0069,\u0069,\u0069
+Bella Coola,k,1,1,\u006b,\u006b,\u006b
+Bella Coola,k',2,2,\u006b\u0027,\u006b\u0027,\u006b\u0027
+Bella Coola,kw,2,2,\u006b\u0077,\u006b\u0077,\u006b\u0077
+Bella Coola,kw',3,3,\u006b\u0077\u0027,\u006b\u0077\u0027,\u006b\u0077\u0027
+Bella Coola,l,1,1,\u006c,\u006c,\u006c
+Bella Coola,lh,2,2,\u006c\u0068,\u006c\u0068,\u006c\u0068
+Bella Coola,m,1,1,\u006d,\u006d,\u006d
+Bella Coola,n,1,1,\u006e,\u006e,\u006e
+Bella Coola,p,1,1,\u0070,\u0070,\u0070
+Bella Coola,p',2,2,\u0070\u0027,\u0070\u0027,\u0070\u0027
+Bella Coola,q,1,1,\u0071,\u0071,\u0071
+Bella Coola,q',2,2,\u0071\u0027,\u0071\u0027,\u0071\u0027
+Bella Coola,qw,2,2,\u0071\u0077,\u0071\u0077,\u0071\u0077
+Bella Coola,qw',3,3,\u0071\u0077\u0027,\u0071\u0077\u0027,\u0071\u0077\u0027
+Bella Coola,s,1,1,\u0073,\u0073,\u0073
+Bella Coola,t,1,1,\u0074,\u0074,\u0074
+Bella Coola,t',2,2,\u0074\u0027,\u0074\u0027,\u0074\u0027
+Bella Coola,tl,2,2,\u0074\u006c,\u0074\u006c,\u0074\u006c
+Bella Coola,tl',3,3,\u0074\u006c\u0027,\u0074\u006c\u0027,\u0074\u006c\u0027
+Bella Coola,ts,2,2,\u0074\u0073,\u0074\u0073,\u0074\u0073
+Bella Coola,ts',3,3,\u0074\u0073\u0027,\u0074\u0073\u0027,\u0074\u0073\u0027
+Bella Coola,u,1,1,\u0075,\u0075,\u0075
+Bella Coola,w,1,1,\u0077,\u0077,\u0077
+Bella Coola,x,1,1,\u0078,\u0078,\u0078
+Bella Coola,xw,2,2,\u0078\u0077,\u0078\u0077,\u0078\u0077
+Bella Coola,y,1,1,\u0079,\u0079,\u0079
+Bella Coola,7`,2,2,\u0037\u0060,\u0037\u0060,\u0037\u0060
+Diidiitidq (Hul’q’umi’num’ area),a,1,1,\u0061,\u0061,\u0061
+Diidiitidq (Hul’q’umi’num’ area),aa,2,2,\u0061\u0061,\u0061\u0061,\u0061\u0061
+Diidiitidq (Hul’q’umi’num’ area),b,1,1,\u0062,\u0062,\u0062
+Diidiitidq (Hul’q’umi’num’ area),b̓,2,1,\u0062\u0313,\u0062\u0313,\u0062\u0313
+Diidiitidq (Hul’q’umi’num’ area),c,1,1,\u0063,\u0063,\u0063
+Diidiitidq (Hul’q’umi’num’ area),c̓,2,1,\u0063\u0313,\u0063\u0313,\u0063\u0313
+Diidiitidq (Hul’q’umi’num’ area),č,1,1,\u010d,\u010d,\u0063\u030c
+Diidiitidq (Hul’q’umi’num’ area),čʼ,2,2,\u010d\u02bc,\u010d\u02bc,\u0063\u030c\u02bc
+Diidiitidq (Hul’q’umi’num’ area),d,1,1,\u0064,\u0064,\u0064
+Diidiitidq (Hul’q’umi’num’ area),d̓,2,1,\u0064\u0313,\u0064\u0313,\u0064\u0313
+Diidiitidq (Hul’q’umi’num’ area),e,1,1,\u0065,\u0065,\u0065
+Diidiitidq (Hul’q’umi’num’ area),ee,2,2,\u0065\u0065,\u0065\u0065,\u0065\u0065
+Diidiitidq (Hul’q’umi’num’ area),h,1,1,\u0068,\u0068,\u0068
+Diidiitidq (Hul’q’umi’num’ area),i,1,1,\u0069,\u0069,\u0069
+Diidiitidq (Hul’q’umi’num’ area),ii,2,2,\u0069\u0069,\u0069\u0069,\u0069\u0069
+Diidiitidq (Hul’q’umi’num’ area),k,1,1,\u006b,\u006b,\u006b
+Diidiitidq (Hul’q’umi’num’ area),kʷ,2,2,\u006b\u02b7,\u006b\u02b7,\u006b\u02b7
+Diidiitidq (Hul’q’umi’num’ area),k̕,2,1,\u006b\u0315,\u006b\u0315,\u006b\u0315
+Diidiitidq (Hul’q’umi’num’ area),k̕ʷ,3,2,\u006b\u0315\u02b7,\u006b\u0315\u02b7,\u006b\u0315\u02b7
+Diidiitidq (Hul’q’umi’num’ area),l,1,1,\u006c,\u006c,\u006c
+Diidiitidq (Hul’q’umi’num’ area),l̓,2,1,\u006c\u0313,\u006c\u0313,\u006c\u0313
+Diidiitidq (Hul’q’umi’num’ area),ł,1,1,\u0142,\u0142,\u0142
+Diidiitidq (Hul’q’umi’num’ area),ƛ,1,1,\u019b,\u019b,\u019b
+Diidiitidq (Hul’q’umi’num’ area),ƛ̕,2,1,\u019b\u0315,\u019b\u0315,\u019b\u0315
+Diidiitidq (Hul’q’umi’num’ area),m,1,1,\u006d,\u006d,\u006d
+Diidiitidq (Hul’q’umi’num’ area),m̓,2,1,\u006d\u0313,\u006d\u0313,\u006d\u0313
+Diidiitidq (Hul’q’umi’num’ area),n,1,1,\u006e,\u006e,\u006e
+Diidiitidq (Hul’q’umi’num’ area),n̓,2,1,\u006e\u0313,\u006e\u0313,\u006e\u0313
+Diidiitidq (Hul’q’umi’num’ area),o,1,1,\u006f,\u006f,\u006f
+Diidiitidq (Hul’q’umi’num’ area),oo,2,2,\u006f\u006f,\u006f\u006f,\u006f\u006f
+Diidiitidq (Hul’q’umi’num’ area),p,1,1,\u0070,\u0070,\u0070
+Diidiitidq (Hul’q’umi’num’ area),p̓,2,1,\u0070\u0313,\u0070\u0313,\u0070\u0313
+Diidiitidq (Hul’q’umi’num’ area),q,1,1,\u0071,\u0071,\u0071
+Diidiitidq (Hul’q’umi’num’ area),qʷ,2,2,\u0071\u02b7,\u0071\u02b7,\u0071\u02b7
+Diidiitidq (Hul’q’umi’num’ area),q̓,2,1,\u0071\u0313,\u0071\u0313,\u0071\u0313
+Diidiitidq (Hul’q’umi’num’ area),q̓ʷ,3,2,\u0071\u0313\u02b7,\u0071\u0313\u02b7,\u0071\u0313\u02b7
+Diidiitidq (Hul’q’umi’num’ area),s,1,1,\u0073,\u0073,\u0073
+Diidiitidq (Hul’q’umi’num’ area),š,1,1,\u0161,\u0161,\u0073\u030c
+Diidiitidq (Hul’q’umi’num’ area),t,1,1,\u0074,\u0074,\u0074
+Diidiitidq (Hul’q’umi’num’ area),t̕,2,1,\u0074\u0315,\u0074\u0315,\u0074\u0315
+Diidiitidq (Hul’q’umi’num’ area),u,1,1,\u0075,\u0075,\u0075
+Diidiitidq (Hul’q’umi’num’ area),uu,2,2,\u0075\u0075,\u0075\u0075,\u0075\u0075
+Diidiitidq (Hul’q’umi’num’ area),w,1,1,\u0077,\u0077,\u0077
+Diidiitidq (Hul’q’umi’num’ area),w̓,2,1,\u0077\u0313,\u0077\u0313,\u0077\u0313
+Diidiitidq (Hul’q’umi’num’ area),x,1,1,\u0078,\u0078,\u0078
+Diidiitidq (Hul’q’umi’num’ area),xʷ,2,2,\u0078\u02b7,\u0078\u02b7,\u0078\u02b7
+Diidiitidq (Hul’q’umi’num’ area),x̣,2,1,\u0078\u0323,\u0078\u0323,\u0078\u0323
+Diidiitidq (Hul’q’umi’num’ area),x̣ʷ,3,2,\u0078\u0323\u02b7,\u0078\u0323\u02b7,\u0078\u0323\u02b7
+Diidiitidq (Hul’q’umi’num’ area),y,1,1,\u0079,\u0079,\u0079
+Diidiitidq (Hul’q’umi’num’ area),y̓,2,1,\u0079\u0313,\u0079\u0313,\u0079\u0313
+Diidiitidq (Hul’q’umi’num’ area),ʔ,1,1,\u0294,\u0294,\u0294
+Diidiitidq (Hul’q’umi’num’ area),ʕ,1,1,\u0295,\u0295,\u0295
+Cisaaath (Hul’q’umi’num’ area),a,1,1,\u0061,\u0061,\u0061
+Cisaaath (Hul’q’umi’num’ area),aa,2,2,\u0061\u0061,\u0061\u0061,\u0061\u0061
+Cisaaath (Hul’q’umi’num’ area),c,1,1,\u0063,\u0063,\u0063
+Cisaaath (Hul’q’umi’num’ area),c̕,2,1,\u0063\u0315,\u0063\u0315,\u0063\u0315
+Cisaaath (Hul’q’umi’num’ area),č,1,1,\u010d,\u010d,\u0063\u030c
+Cisaaath (Hul’q’umi’num’ area),č’,2,2,\u010d\u2019,\u010d\u2019,\u0063\u030c\u2019
+Cisaaath (Hul’q’umi’num’ area),h,1,1,\u0068,\u0068,\u0068
+Cisaaath (Hul’q’umi’num’ area),ḥ,1,1,\u1e25,\u1e25,\u0068\u0323
+Cisaaath (Hul’q’umi’num’ area),i,1,1,\u0069,\u0069,\u0069
+Cisaaath (Hul’q’umi’num’ area),ii,2,2,\u0069\u0069,\u0069\u0069,\u0069\u0069
+Cisaaath (Hul’q’umi’num’ area),k,1,1,\u006b,\u006b,\u006b
+Cisaaath (Hul’q’umi’num’ area),k̕,2,1,\u006b\u0315,\u006b\u0315,\u006b\u0315
+Cisaaath (Hul’q’umi’num’ area),kʷ,2,2,\u006b\u02b7,\u006b\u02b7,\u006b\u02b7
+Cisaaath (Hul’q’umi’num’ area),k̕ʷ,3,2,\u006b\u0315\u02b7,\u006b\u0315\u02b7,\u006b\u0315\u02b7
+Cisaaath (Hul’q’umi’num’ area),ł,1,1,\u0142,\u0142,\u0142
+Cisaaath (Hul’q’umi’num’ area),ƛ,1,1,\u019b,\u019b,\u019b
+Cisaaath (Hul’q’umi’num’ area),ƛ̕,2,1,\u019b\u0315,\u019b\u0315,\u019b\u0315
+Cisaaath (Hul’q’umi’num’ area),m,1,1,\u006d,\u006d,\u006d
+Cisaaath (Hul’q’umi’num’ area),m̓,2,1,\u006d\u0313,\u006d\u0313,\u006d\u0313
+Cisaaath (Hul’q’umi’num’ area),n,1,1,\u006e,\u006e,\u006e
+Cisaaath (Hul’q’umi’num’ area),n̓,2,1,\u006e\u0313,\u006e\u0313,\u006e\u0313
+Cisaaath (Hul’q’umi’num’ area),p,1,1,\u0070,\u0070,\u0070
+Cisaaath (Hul’q’umi’num’ area),p̓,2,1,\u0070\u0313,\u0070\u0313,\u0070\u0313
+Cisaaath (Hul’q’umi’num’ area),q,1,1,\u0071,\u0071,\u0071
+Cisaaath (Hul’q’umi’num’ area),qʷ,2,2,\u0071\u02b7,\u0071\u02b7,\u0071\u02b7
+Cisaaath (Hul’q’umi’num’ area),s,1,1,\u0073,\u0073,\u0073
+Cisaaath (Hul’q’umi’num’ area),š,1,1,\u0161,\u0161,\u0073\u030c
+Cisaaath (Hul’q’umi’num’ area),t,1,1,\u0074,\u0074,\u0074
+Cisaaath (Hul’q’umi’num’ area),t̕,2,1,\u0074\u0315,\u0074\u0315,\u0074\u0315
+Cisaaath (Hul’q’umi’num’ area),u,1,1,\u0075,\u0075,\u0075
+Cisaaath (Hul’q’umi’num’ area),uu,2,2,\u0075\u0075,\u0075\u0075,\u0075\u0075
+Cisaaath (Hul’q’umi’num’ area),w,1,1,\u0077,\u0077,\u0077
+Cisaaath (Hul’q’umi’num’ area),w̓,2,1,\u0077\u0313,\u0077\u0313,\u0077\u0313
+Cisaaath (Hul’q’umi’num’ area),x,1,1,\u0078,\u0078,\u0078
+Cisaaath (Hul’q’umi’num’ area),x̣,2,1,\u0078\u0323,\u0078\u0323,\u0078\u0323
+Cisaaath (Hul’q’umi’num’ area),xʷ,2,2,\u0078\u02b7,\u0078\u02b7,\u0078\u02b7
+Cisaaath (Hul’q’umi’num’ area),x̣ʷ,3,2,\u0078\u0323\u02b7,\u0078\u0323\u02b7,\u0078\u0323\u02b7
+Cisaaath (Hul’q’umi’num’ area),y,1,1,\u0079,\u0079,\u0079
+Cisaaath (Hul’q’umi’num’ area),y̓,2,1,\u0079\u0313,\u0079\u0313,\u0079\u0313
+Cisaaath (Hul’q’umi’num’ area),ʕ,1,1,\u0295,\u0295,\u0295
+Cisaaath (Hul’q’umi’num’ area),ʔ,1,1,\u0294,\u0294,\u0294
+Cisaaath (Hul’q’umi’num’ area),e,1,1,\u0065,\u0065,\u0065
+Cisaaath (Hul’q’umi’num’ area),ee,2,2,\u0065\u0065,\u0065\u0065,\u0065\u0065
+Cisaaath (Hul’q’umi’num’ area),oo,2,2,\u006f\u006f,\u006f\u006f,\u006f\u006f
+Nuu-chah-nulth (Island Comox area),a,1,1,\u0061,\u0061,\u0061
+Nuu-chah-nulth (Island Comox area),ʔa,2,2,\u0294\u0061,\u0294\u0061,\u0294\u0061
+Nuu-chah-nulth (Island Comox area),ʕa,2,2,\u0295\u0061,\u0295\u0061,\u0295\u0061
+Nuu-chah-nulth (Island Comox area),aa,2,2,\u0061\u0061,\u0061\u0061,\u0061\u0061
+Nuu-chah-nulth (Island Comox area),ʔaa,3,3,\u0294\u0061\u0061,\u0294\u0061\u0061,\u0294\u0061\u0061
+Nuu-chah-nulth (Island Comox area),ʕaa,3,3,\u0295\u0061\u0061,\u0295\u0061\u0061,\u0295\u0061\u0061
+Nuu-chah-nulth (Island Comox area),e,1,1,\u0065,\u0065,\u0065
+Nuu-chah-nulth (Island Comox area),ʔe,2,2,\u0294\u0065,\u0294\u0065,\u0294\u0065
+Nuu-chah-nulth (Island Comox area),ʕe,2,2,\u0295\u0065,\u0295\u0065,\u0295\u0065
+Nuu-chah-nulth (Island Comox area),ee,2,2,\u0065\u0065,\u0065\u0065,\u0065\u0065
+Nuu-chah-nulth (Island Comox area),ʔee,3,3,\u0294\u0065\u0065,\u0294\u0065\u0065,\u0294\u0065\u0065
+Nuu-chah-nulth (Island Comox area),ʕee,3,3,\u0295\u0065\u0065,\u0295\u0065\u0065,\u0295\u0065\u0065
+Nuu-chah-nulth (Island Comox area),c,1,1,\u0063,\u0063,\u0063
+Nuu-chah-nulth (Island Comox area),c̕,2,1,\u0063\u0315,\u0063\u0315,\u0063\u0315
+Nuu-chah-nulth (Island Comox area),č,1,1,\u010d,\u010d,\u0063\u030c
+Nuu-chah-nulth (Island Comox area),č’,2,2,\u010d\u2019,\u010d\u2019,\u0063\u030c\u2019
+Nuu-chah-nulth (Island Comox area),h,1,1,\u0068,\u0068,\u0068
+Nuu-chah-nulth (Island Comox area),ḥ,1,1,\u1e25,\u1e25,\u0068\u0323
+Nuu-chah-nulth (Island Comox area),i,1,1,\u0069,\u0069,\u0069
+Nuu-chah-nulth (Island Comox area),ʔi,2,2,\u0294\u0069,\u0294\u0069,\u0294\u0069
+Nuu-chah-nulth (Island Comox area),ʕi,2,2,\u0295\u0069,\u0295\u0069,\u0295\u0069
+Nuu-chah-nulth (Island Comox area),ii,2,2,\u0069\u0069,\u0069\u0069,\u0069\u0069
+Nuu-chah-nulth (Island Comox area),ʔii,3,3,\u0294\u0069\u0069,\u0294\u0069\u0069,\u0294\u0069\u0069
+Nuu-chah-nulth (Island Comox area),ʕii,3,3,\u0295\u0069\u0069,\u0295\u0069\u0069,\u0295\u0069\u0069
+Nuu-chah-nulth (Island Comox area),k,1,1,\u006b,\u006b,\u006b
+Nuu-chah-nulth (Island Comox area),k̕,2,1,\u006b\u0315,\u006b\u0315,\u006b\u0315
+Nuu-chah-nulth (Island Comox area),kʷ,2,2,\u006b\u02b7,\u006b\u02b7,\u006b\u02b7
+Nuu-chah-nulth (Island Comox area),k̕ʷ,3,2,\u006b\u0315\u02b7,\u006b\u0315\u02b7,\u006b\u0315\u02b7
+Nuu-chah-nulth (Island Comox area),ł,1,1,\u0142,\u0142,\u0142
+Nuu-chah-nulth (Island Comox area),ƛ,1,1,\u019b,\u019b,\u019b
+Nuu-chah-nulth (Island Comox area),ƛ̕,2,1,\u019b\u0315,\u019b\u0315,\u019b\u0315
+Nuu-chah-nulth (Island Comox area),m,1,1,\u006d,\u006d,\u006d
+Nuu-chah-nulth (Island Comox area),m̕,2,1,\u006d\u0315,\u006d\u0315,\u006d\u0315
+Nuu-chah-nulth (Island Comox area),n,1,1,\u006e,\u006e,\u006e
+Nuu-chah-nulth (Island Comox area),n̕,2,1,\u006e\u0315,\u006e\u0315,\u006e\u0315
+Nuu-chah-nulth (Island Comox area),p,1,1,\u0070,\u0070,\u0070
+Nuu-chah-nulth (Island Comox area),p̕,2,1,\u0070\u0315,\u0070\u0315,\u0070\u0315
+Nuu-chah-nulth (Island Comox area),q,1,1,\u0071,\u0071,\u0071
+Nuu-chah-nulth (Island Comox area),qʷ,2,2,\u0071\u02b7,\u0071\u02b7,\u0071\u02b7
+Nuu-chah-nulth (Island Comox area),s,1,1,\u0073,\u0073,\u0073
+Nuu-chah-nulth (Island Comox area),š,1,1,\u0161,\u0161,\u0073\u030c
+Nuu-chah-nulth (Island Comox area),t,1,1,\u0074,\u0074,\u0074
+Nuu-chah-nulth (Island Comox area),t̕,2,1,\u0074\u0315,\u0074\u0315,\u0074\u0315
+Nuu-chah-nulth (Island Comox area),u,1,1,\u0075,\u0075,\u0075
+Nuu-chah-nulth (Island Comox area),ʔu,2,2,\u0294\u0075,\u0294\u0075,\u0294\u0075
+Nuu-chah-nulth (Island Comox area),ʕu,2,2,\u0295\u0075,\u0295\u0075,\u0295\u0075
+Nuu-chah-nulth (Island Comox area),uu,2,2,\u0075\u0075,\u0075\u0075,\u0075\u0075
+Nuu-chah-nulth (Island Comox area),ʔuu,3,3,\u0294\u0075\u0075,\u0294\u0075\u0075,\u0294\u0075\u0075
+Nuu-chah-nulth (Island Comox area),ʕuu,3,3,\u0295\u0075\u0075,\u0295\u0075\u0075,\u0295\u0075\u0075
+Nuu-chah-nulth (Island Comox area),w,1,1,\u0077,\u0077,\u0077
+Nuu-chah-nulth (Island Comox area),w̕,2,1,\u0077\u0315,\u0077\u0315,\u0077\u0315
+Nuu-chah-nulth (Island Comox area),x,1,1,\u0078,\u0078,\u0078
+Nuu-chah-nulth (Island Comox area),x̣,2,1,\u0078\u0323,\u0078\u0323,\u0078\u0323
+Nuu-chah-nulth (Island Comox area),xʷ,2,2,\u0078\u02b7,\u0078\u02b7,\u0078\u02b7
+Nuu-chah-nulth (Island Comox area),x̣ʷ,3,2,\u0078\u0323\u02b7,\u0078\u0323\u02b7,\u0078\u0323\u02b7
+Nuu-chah-nulth (Island Comox area),y,1,1,\u0079,\u0079,\u0079
+Nuu-chah-nulth (Island Comox area),y̕,2,1,\u0079\u0315,\u0079\u0315,\u0079\u0315
+Nuu-chah-nulth (Island Comox area),ʕ,1,1,\u0295,\u0295,\u0295
+Nuu-chah-nulth (Island Comox area),ʔ,1,1,\u0294,\u0294,\u0294
+Ehattesaht Nuchatlaht (Island Comox area),a,1,1,\u0061,\u0061,\u0061
+Ehattesaht Nuchatlaht (Island Comox area),aa,2,2,\u0061\u0061,\u0061\u0061,\u0061\u0061
+Ehattesaht Nuchatlaht (Island Comox area),c,1,1,\u0063,\u0063,\u0063
+Ehattesaht Nuchatlaht (Island Comox area),c̓,2,1,\u0063\u0313,\u0063\u0313,\u0063\u0313
+Ehattesaht Nuchatlaht (Island Comox area),č,2,1,\u0063\u030c,\u010d,\u0063\u030c
+Ehattesaht Nuchatlaht (Island Comox area),č̓,3,1,\u0063\u030c\u0313,\u010d\u0313,\u0063\u030c\u0313
+Ehattesaht Nuchatlaht (Island Comox area),h,1,1,\u0068,\u0068,\u0068
+Ehattesaht Nuchatlaht (Island Comox area),ḥ,2,1,\u0068\u0323,\u1e25,\u0068\u0323
+Ehattesaht Nuchatlaht (Island Comox area),i,1,1,\u0069,\u0069,\u0069
+Ehattesaht Nuchatlaht (Island Comox area),ii,2,2,\u0069\u0069,\u0069\u0069,\u0069\u0069
+Ehattesaht Nuchatlaht (Island Comox area),k,1,1,\u006b,\u006b,\u006b
+Ehattesaht Nuchatlaht (Island Comox area),k̓,2,1,\u006b\u0313,\u006b\u0313,\u006b\u0313
+Ehattesaht Nuchatlaht (Island Comox area),kʷ,2,2,\u006b\u02b7,\u006b\u02b7,\u006b\u02b7
+Ehattesaht Nuchatlaht (Island Comox area),k̓ʷ,3,2,\u006b\u0313\u02b7,\u006b\u0313\u02b7,\u006b\u0313\u02b7
+Ehattesaht Nuchatlaht (Island Comox area),ł,1,1,\u0142,\u0142,\u0142
+Ehattesaht Nuchatlaht (Island Comox area),ƛ,1,1,\u019b,\u019b,\u019b
+Ehattesaht Nuchatlaht (Island Comox area),ƛ̓,2,1,\u019b\u0313,\u019b\u0313,\u019b\u0313
+Ehattesaht Nuchatlaht (Island Comox area),m,1,1,\u006d,\u006d,\u006d
+Ehattesaht Nuchatlaht (Island Comox area),m̓,2,1,\u006d\u0313,\u006d\u0313,\u006d\u0313
+Ehattesaht Nuchatlaht (Island Comox area),n,1,1,\u006e,\u006e,\u006e
+Ehattesaht Nuchatlaht (Island Comox area),n̓,2,1,\u006e\u0313,\u006e\u0313,\u006e\u0313
+Ehattesaht Nuchatlaht (Island Comox area),p,1,1,\u0070,\u0070,\u0070
+Ehattesaht Nuchatlaht (Island Comox area),p̓,2,1,\u0070\u0313,\u0070\u0313,\u0070\u0313
+Ehattesaht Nuchatlaht (Island Comox area),q,1,1,\u0071,\u0071,\u0071
+Ehattesaht Nuchatlaht (Island Comox area),qʷ,2,2,\u0071\u02b7,\u0071\u02b7,\u0071\u02b7
+Ehattesaht Nuchatlaht (Island Comox area),s,1,1,\u0073,\u0073,\u0073
+Ehattesaht Nuchatlaht (Island Comox area),š,2,1,\u0073\u030c,\u0161,\u0073\u030c
+Ehattesaht Nuchatlaht (Island Comox area),t,1,1,\u0074,\u0074,\u0074
+Ehattesaht Nuchatlaht (Island Comox area),t̓,2,1,\u0074\u0313,\u0074\u0313,\u0074\u0313
+Ehattesaht Nuchatlaht (Island Comox area),u,1,1,\u0075,\u0075,\u0075
+Ehattesaht Nuchatlaht (Island Comox area),uu,2,2,\u0075\u0075,\u0075\u0075,\u0075\u0075
+Ehattesaht Nuchatlaht (Island Comox area),w,1,1,\u0077,\u0077,\u0077
+Ehattesaht Nuchatlaht (Island Comox area),w̓,2,1,\u0077\u0313,\u0077\u0313,\u0077\u0313
+Ehattesaht Nuchatlaht (Island Comox area),x,1,1,\u0078,\u0078,\u0078
+Ehattesaht Nuchatlaht (Island Comox area),x̣,2,1,\u0078\u0323,\u0078\u0323,\u0078\u0323
+Ehattesaht Nuchatlaht (Island Comox area),xʷ,2,2,\u0078\u02b7,\u0078\u02b7,\u0078\u02b7
+Ehattesaht Nuchatlaht (Island Comox area),x̣ʷ,3,2,\u0078\u0323\u02b7,\u0078\u0323\u02b7,\u0078\u0323\u02b7
+Ehattesaht Nuchatlaht (Island Comox area),y,1,1,\u0079,\u0079,\u0079
+Ehattesaht Nuchatlaht (Island Comox area),y̓,2,1,\u0079\u0313,\u0079\u0313,\u0079\u0313
+Ehattesaht Nuchatlaht (Island Comox area),ʕ,1,1,\u0295,\u0295,\u0295
+Ehattesaht Nuchatlaht (Island Comox area),ʔ,1,1,\u0294,\u0294,\u0294
+Ehattesaht Nuchatlaht (Island Comox area),e,1,1,\u0065,\u0065,\u0065
+Ehattesaht Nuchatlaht (Island Comox area),ee,2,2,\u0065\u0065,\u0065\u0065,\u0065\u0065
+Ehattesaht Nuchatlaht (Island Comox area),o,1,1,\u006f,\u006f,\u006f
+Ehattesaht Nuchatlaht (Island Comox area),oo,2,2,\u006f\u006f,\u006f\u006f,\u006f\u006f
+Kwak’wala,a,1,1,\u0061,\u0061,\u0061
+Kwak’wala,a̱,2,1,\u0061\u0331,\u0061\u0331,\u0061\u0331
+Kwak’wala,b,1,1,\u0062,\u0062,\u0062
+Kwak’wala,d,1,1,\u0064,\u0064,\u0064
+Kwak’wala,ḏ,1,1,\u1e0f,\u1e0f,\u0064\u0331
+Kwak’wala,dł,2,2,\u0064\u0142,\u0064\u0142,\u0064\u0142
+Kwak’wala,dz,2,2,\u0064\u007a,\u0064\u007a,\u0064\u007a
+Kwak’wala,e,1,1,\u0065,\u0065,\u0065
+Kwak’wala,g,1,1,\u0067,\u0067,\u0067
+Kwak’wala,gw,2,2,\u0067\u0077,\u0067\u0077,\u0067\u0077
+Kwak’wala,ǥ,1,1,\u01e5,\u01e5,\u01e5
+Kwak’wala,ǥw,2,2,\u01e5\u0077,\u01e5\u0077,\u01e5\u0077
+Kwak’wala,h,1,1,\u0068,\u0068,\u0068
+Kwak’wala,i,1,1,\u0069,\u0069,\u0069
+Kwak’wala,k,1,1,\u006b,\u006b,\u006b
+Kwak’wala,kw,2,2,\u006b\u0077,\u006b\u0077,\u006b\u0077
+Kwak’wala,k̓,2,1,\u006b\u0313,\u006b\u0313,\u006b\u0313
+Kwak’wala,k̕w,3,2,\u006b\u0315\u0077,\u006b\u0315\u0077,\u006b\u0315\u0077
+Kwak’wala,ḵ,2,1,\u006b\u0331,\u1e35,\u006b\u0331
+Kwak’wala,ḵw,3,2,\u006b\u0331\u0077,\u1e35\u0077,\u006b\u0331\u0077
+Kwak’wala,ḵ̓,2,1,\u1e35\u0313,\u1e35\u0313,\u006b\u0331\u0313
+Kwak’wala,ḵ̕w,4,2,\u006b\u0331\u0315\u0077,\u1e35\u0315\u0077,\u006b\u0331\u0315\u0077
+Kwak’wala,l,1,1,\u006c,\u006c,\u006c
+Kwak’wala,ł,1,1,\u0142,\u0142,\u0142
+Kwak’wala,m,1,1,\u006d,\u006d,\u006d
+Kwak’wala,n,1,1,\u006e,\u006e,\u006e
+Kwak’wala,o,1,1,\u006f,\u006f,\u006f
+Kwak’wala,p,1,1,\u0070,\u0070,\u0070
+Kwak’wala,p̓,2,1,\u0070\u0313,\u0070\u0313,\u0070\u0313
+Kwak’wala,s,1,1,\u0073,\u0073,\u0073
+Kwak’wala,t,1,1,\u0074,\u0074,\u0074
+Kwak’wala,t̕,2,1,\u0074\u0315,\u0074\u0315,\u0074\u0315
+Kwak’wala,ts,2,2,\u0074\u0073,\u0074\u0073,\u0074\u0073
+Kwak’wala,t̕s,3,2,\u0074\u0315\u0073,\u0074\u0315\u0073,\u0074\u0315\u0073
+Kwak’wala,tł,2,2,\u0074\u0142,\u0074\u0142,\u0074\u0142
+Kwak’wala,t̕ł,3,2,\u0074\u0315\u0142,\u0074\u0315\u0142,\u0074\u0315\u0142
+Kwak’wala,u,1,1,\u0075,\u0075,\u0075
+Kwak’wala,w,1,1,\u0077,\u0077,\u0077
+Kwak’wala,x,1,1,\u0078,\u0078,\u0078
+Kwak’wala,xw,2,2,\u0078\u0077,\u0078\u0077,\u0078\u0077
+Kwak’wala,x̱,2,1,\u0078\u0331,\u0078\u0331,\u0078\u0331
+Kwak’wala,x̱w,3,2,\u0078\u0331\u0077,\u0078\u0331\u0077,\u0078\u0331\u0077
+Kwak’wala,y,1,1,\u0079,\u0079,\u0079
+Kwak’wala,',1,1,\u0027,\u0027,\u0027
+Qʷi·qʷi·diččaq (Makah),ŋ,1,1,\u014b,\u014b,\u014b
+Qʷi·qʷi·diččaq (Makah),ḥ,1,1,\u1e25,\u1e25,\u0068\u0323
+Qʷi·qʷi·diččaq (Makah),m,1,1,\u006d,\u006d,\u006d
+Qʷi·qʷi·diččaq (Makah),n,1,1,\u006e,\u006e,\u006e
+Qʷi·qʷi·diččaq (Makah),p,1,1,\u0070,\u0070,\u0070
+Qʷi·qʷi·diččaq (Makah),t,1,1,\u0074,\u0074,\u0074
+Qʷi·qʷi·diččaq (Makah),c,1,1,\u0063,\u0063,\u0063
+Qʷi·qʷi·diččaq (Makah),ƛ,1,1,\u019b,\u019b,\u019b
+Qʷi·qʷi·diččaq (Makah),č,1,1,\u010d,\u010d,\u0063\u030c
+Qʷi·qʷi·diččaq (Makah),k,1,1,\u006b,\u006b,\u006b
+Qʷi·qʷi·diččaq (Makah),kʷ,2,2,\u006b\u02b7,\u006b\u02b7,\u006b\u02b7
+Qʷi·qʷi·diččaq (Makah),q,1,1,\u0071,\u0071,\u0071
+Qʷi·qʷi·diččaq (Makah),qʷ,2,2,\u0071\u02b7,\u0071\u02b7,\u0071\u02b7
+Qʷi·qʷi·diččaq (Makah),ʔ,1,1,\u0294,\u0294,\u0294
+Qʷi·qʷi·diččaq (Makah),p̓,2,1,\u0070\u0313,\u0070\u0313,\u0070\u0313
+Qʷi·qʷi·diččaq (Makah),t̓,2,1,\u0074\u0313,\u0074\u0313,\u0074\u0313
+Qʷi·qʷi·diččaq (Makah),c̓,2,1,\u0063\u0313,\u0063\u0313,\u0063\u0313
+Qʷi·qʷi·diččaq (Makah),ƛ̓,2,1,\u019b\u0313,\u019b\u0313,\u019b\u0313
+Qʷi·qʷi·diččaq (Makah),č̓,2,1,\u010d\u0313,\u010d\u0313,\u0063\u030c\u0313
+Qʷi·qʷi·diččaq (Makah),k̓,2,1,\u006b\u0313,\u006b\u0313,\u006b\u0313
+Qʷi·qʷi·diččaq (Makah),k̓ʷ,3,2,\u006b\u0313\u02b7,\u006b\u0313\u02b7,\u006b\u0313\u02b7
+Qʷi·qʷi·diččaq (Makah),q̓,2,1,\u0071\u0313,\u0071\u0313,\u0071\u0313
+Qʷi·qʷi·diččaq (Makah),q̓ʷ,3,2,\u0071\u0313\u02b7,\u0071\u0313\u02b7,\u0071\u0313\u02b7
+Qʷi·qʷi·diččaq (Makah),b,1,1,\u0062,\u0062,\u0062
+Qʷi·qʷi·diččaq (Makah),d,1,1,\u0064,\u0064,\u0064
+Qʷi·qʷi·diččaq (Makah),s,1,1,\u0073,\u0073,\u0073
+Qʷi·qʷi·diččaq (Makah),ł,1,1,\u0142,\u0142,\u0142
+Qʷi·qʷi·diččaq (Makah),ɫ,1,1,\u026b,\u026b,\u026b
+Qʷi·qʷi·diččaq (Makah),š,1,1,\u0161,\u0161,\u0073\u030c
+Qʷi·qʷi·diččaq (Makah),x,1,1,\u0078,\u0078,\u0078
+Qʷi·qʷi·diččaq (Makah),xʷ,2,2,\u0078\u02b7,\u0078\u02b7,\u0078\u02b7
+Qʷi·qʷi·diččaq (Makah),x̌,2,1,\u0078\u030c,\u0078\u030c,\u0078\u030c
+Qʷi·qʷi·diččaq (Makah),x̌ʷ,3,2,\u0078\u030c\u02b7,\u0078\u030c\u02b7,\u0078\u030c\u02b7
+Qʷi·qʷi·diččaq (Makah),l,1,1,\u006c,\u006c,\u006c
+Qʷi·qʷi·diččaq (Makah),y,1,1,\u0079,\u0079,\u0079
+Qʷi·qʷi·diččaq (Makah),w,1,1,\u0077,\u0077,\u0077
+Qʷi·qʷi·diččaq (Makah),a,1,1,\u0061,\u0061,\u0061
+Qʷi·qʷi·diččaq (Makah),e,1,1,\u0065,\u0065,\u0065
+Qʷi·qʷi·diččaq (Makah),i,1,1,\u0069,\u0069,\u0069
+Qʷi·qʷi·diččaq (Makah),o,1,1,\u006f,\u006f,\u006f
+Qʷi·qʷi·diččaq (Makah),u,1,1,\u0075,\u0075,\u0075
+Qʷi·qʷi·diččaq (Makah),a·,2,2,\u0061\u00b7,\u0061\u00b7,\u0061\u00b7
+Qʷi·qʷi·diččaq (Makah),e·,2,2,\u0065\u00b7,\u0065\u00b7,\u0065\u00b7
+Qʷi·qʷi·diččaq (Makah),i·,2,2,\u0069\u00b7,\u0069\u00b7,\u0069\u00b7
+Qʷi·qʷi·diččaq (Makah),o·,2,2,\u006f\u00b7,\u006f\u00b7,\u006f\u00b7
+Qʷi·qʷi·diččaq (Makah),u·,2,2,\u0075\u00b7,\u0075\u00b7,\u0075\u00b7
+Qʷi·qʷi·diččaq (Makah),ay,2,2,\u0061\u0079,\u0061\u0079,\u0061\u0079
+Qʷi·qʷi·diččaq (Makah),oy,2,2,\u006f\u0079,\u006f\u0079,\u006f\u0079
+Qʷi·qʷi·diččaq (Makah),ey,2,2,\u0065\u0079,\u0065\u0079,\u0065\u0079
+Qʷi·qʷi·diččaq (Makah),iy,2,2,\u0069\u0079,\u0069\u0079,\u0069\u0079
+Qʷi·qʷi·diččaq (Makah),aw,2,2,\u0061\u0077,\u0061\u0077,\u0061\u0077
+Qʷi·qʷi·diččaq (Makah),uy,2,2,\u0075\u0079,\u0075\u0079,\u0075\u0079
+Qʷi·qʷi·diččaq (Makah),°`,2,2,\u00b0\u0060,\u00b0\u0060,\u00b0\u0060
+Shuswap,a,1,1,\u0061,\u0061,\u0061
+Shuswap,á,1,1,\u00e1,\u00e1,\u0061\u0301
+Shuswap,c,1,1,\u0063,\u0063,\u0063
+Shuswap,cw,2,2,\u0063\u0077,\u0063\u0077,\u0063\u0077
+Shuswap,e,1,1,\u0065,\u0065,\u0065
+Shuswap,é,1,1,\u00e9,\u00e9,\u0065\u0301
+Shuswap,g,1,1,\u0067,\u0067,\u0067
+Shuswap,gw,2,2,\u0067\u0077,\u0067\u0077,\u0067\u0077
+Shuswap,g̓w,3,2,\u0067\u0313\u0077,\u0067\u0313\u0077,\u0067\u0313\u0077
+Shuswap,h,1,1,\u0068,\u0068,\u0068
+Shuswap,i,1,1,\u0069,\u0069,\u0069
+Shuswap,í,1,1,\u00ed,\u00ed,\u0069\u0301
+Shuswap,k,1,1,\u006b,\u006b,\u006b
+Shuswap,kw,2,2,\u006b\u0077,\u006b\u0077,\u006b\u0077
+Shuswap,k̕,2,1,\u006b\u0315,\u006b\u0315,\u006b\u0315
+Shuswap,k̕w,3,2,\u006b\u0315\u0077,\u006b\u0315\u0077,\u006b\u0315\u0077
+Shuswap,l,1,1,\u006c,\u006c,\u006c
+Shuswap,ĺ,1,1,\u013a,\u013a,\u006c\u0301
+Shuswap,ll,2,2,\u006c\u006c,\u006c\u006c,\u006c\u006c
+Shuswap,m,1,1,\u006d,\u006d,\u006d
+Shuswap,m̓,2,1,\u006d\u0313,\u006d\u0313,\u006d\u0313
+Shuswap,n,1,1,\u006e,\u006e,\u006e
+Shuswap,n̓,2,1,\u006e\u0313,\u006e\u0313,\u006e\u0313
+Shuswap,o,1,1,\u006f,\u006f,\u006f
+Shuswap,ó,1,1,\u00f3,\u00f3,\u006f\u0301
+Shuswap,p,1,1,\u0070,\u0070,\u0070
+Shuswap,p̓,2,1,\u0070\u0313,\u0070\u0313,\u0070\u0313
+Shuswap,q,1,1,\u0071,\u0071,\u0071
+Shuswap,qw,2,2,\u0071\u0077,\u0071\u0077,\u0071\u0077
+Shuswap,q̓,2,1,\u0071\u0313,\u0071\u0313,\u0071\u0313
+Shuswap,q̓w,3,2,\u0071\u0313\u0077,\u0071\u0313\u0077,\u0071\u0313\u0077
+Shuswap,r,1,1,\u0072,\u0072,\u0072
+Shuswap,r̓,2,1,\u0072\u0313,\u0072\u0313,\u0072\u0313
+Shuswap,s,1,1,\u0073,\u0073,\u0073
+Shuswap,t,1,1,\u0074,\u0074,\u0074
+Shuswap,ts,2,2,\u0074\u0073,\u0074\u0073,\u0074\u0073
+Shuswap,ts',3,3,\u0074\u0073\u0027,\u0074\u0073\u0027,\u0074\u0073\u0027
+Shuswap,t̕,2,1,\u0074\u0315,\u0074\u0315,\u0074\u0315
+Shuswap,u,1,1,\u0075,\u0075,\u0075
+Shuswap,ú,1,1,\u00fa,\u00fa,\u0075\u0301
+Shuswap,w,1,1,\u0077,\u0077,\u0077
+Shuswap,w̓,2,1,\u0077\u0313,\u0077\u0313,\u0077\u0313
+Shuswap,x,1,1,\u0078,\u0078,\u0078
+Shuswap,xw,2,2,\u0078\u0077,\u0078\u0077,\u0078\u0077
+Shuswap,y,1,1,\u0079,\u0079,\u0079
+Shuswap,y̓,2,1,\u0079\u0313,\u0079\u0313,\u0079\u0313
+Shuswap,7,1,1,\u0037,\u0037,\u0037
+Lillooet,(Líl̓wat),9,8,\u0028\u004c\u00ed\u006c\u0313\u0077\u0061\u0074\u0029,\u0028\u004c\u00ed\u006c\u0313\u0077\u0061\u0074\u0029,\u0028\u004c\u0069\u0301\u006c\u0313\u0077\u0061\u0074\u0029
+Lillooet,a,1,1,\u0061,\u0061,\u0061
+Lillooet,á,2,1,\u0061\u0301,\u00e1,\u0061\u0301
+Lillooet,e,1,1,\u0065,\u0065,\u0065
+Lillooet,é,2,1,\u0065\u0301,\u00e9,\u0065\u0301
+Lillooet,i,1,1,\u0069,\u0069,\u0069
+Lillooet,í,2,1,\u0069\u0301,\u00ed,\u0069\u0301
+Lillooet,o,1,1,\u006f,\u006f,\u006f
+Lillooet,ó,2,1,\u006f\u0301,\u00f3,\u006f\u0301
+Lillooet,ii,2,2,\u0069\u0069,\u0069\u0069,\u0069\u0069
+Lillooet,u,1,1,\u0075,\u0075,\u0075
+Lillooet,ú,2,1,\u0075\u0301,\u00fa,\u0075\u0301
+Lillooet,ao,2,2,\u0061\u006f,\u0061\u006f,\u0061\u006f
+Lillooet,aó,2,2,\u0061\u00f3,\u0061\u00f3,\u0061\u006f\u0301
+Lillooet,v,1,1,\u0076,\u0076,\u0076
+Lillooet,v́,2,1,\u0076\u0301,\u0076\u0301,\u0076\u0301
+Lillooet,p,1,1,\u0070,\u0070,\u0070
+Lillooet,t,1,1,\u0074,\u0074,\u0074
+Lillooet,ts,2,2,\u0074\u0073,\u0074\u0073,\u0074\u0073
+Lillooet,k,1,1,\u006b,\u006b,\u006b
+Lillooet,kw,2,2,\u006b\u0077,\u006b\u0077,\u006b\u0077
+Lillooet,s,1,1,\u0073,\u0073,\u0073
+Lillooet,z,1,1,\u007a,\u007a,\u007a
+Lillooet,l,1,1,\u006c,\u006c,\u006c
+Lillooet,m,1,1,\u006d,\u006d,\u006d
+Lillooet,n,1,1,\u006e,\u006e,\u006e
+Lillooet,w,1,1,\u0077,\u0077,\u0077
+Lillooet,y,1,1,\u0079,\u0079,\u0079
+Lillooet,h,1,1,\u0068,\u0068,\u0068
+Lillooet,c,1,1,\u0063,\u0063,\u0063
+Lillooet,cw,2,2,\u0063\u0077,\u0063\u0077,\u0063\u0077
+Lillooet,lh,2,2,\u006c\u0068,\u006c\u0068,\u006c\u0068
+Lillooet,q,1,1,\u0071,\u0071,\u0071
+Lillooet,qw,2,2,\u0071\u0077,\u0071\u0077,\u0071\u0077
+Lillooet,x,1,1,\u0078,\u0078,\u0078
+Lillooet,xw,2,2,\u0078\u0077,\u0078\u0077,\u0078\u0077
+Lillooet,g,1,1,\u0067,\u0067,\u0067
+Lillooet,gw,2,2,\u0067\u0077,\u0067\u0077,\u0067\u0077
+Lillooet,r,1,1,\u0072,\u0072,\u0072
+Lillooet,7,1,1,\u0037,\u0037,\u0037
+Lillooet,p̓,2,1,\u0070\u0313,\u0070\u0313,\u0070\u0313
+Lillooet,t̓,2,1,\u0074\u0313,\u0074\u0313,\u0074\u0313
+Lillooet,ts̓,3,2,\u0074\u0073\u0313,\u0074\u0073\u0313,\u0074\u0073\u0313
+Lillooet,k̓,2,1,\u006b\u0313,\u006b\u0313,\u006b\u0313
+Lillooet,k̓w,3,2,\u006b\u0313\u0077,\u006b\u0313\u0077,\u006b\u0313\u0077
+Lillooet,q̓,2,1,\u0071\u0313,\u0071\u0313,\u0071\u0313
+Lillooet,q̓w,3,2,\u0071\u0313\u0077,\u0071\u0313\u0077,\u0071\u0313\u0077
+Lillooet,z̓,2,1,\u007a\u0313,\u007a\u0313,\u007a\u0313
+Lillooet,ľ,1,1,\u013e,\u013e,\u006c\u030c
+Lillooet,m̓,2,1,\u006d\u0313,\u006d\u0313,\u006d\u0313
+Lillooet,n̓,2,1,\u006e\u0313,\u006e\u0313,\u006e\u0313
+Lillooet,w̓,2,1,\u0077\u0313,\u0077\u0313,\u0077\u0313
+Lillooet,y̓,2,1,\u0079\u0313,\u0079\u0313,\u0079\u0313
+Lillooet,r̕,2,1,\u0072\u0315,\u0072\u0315,\u0072\u0315
+Lillooet,g̓,2,1,\u0067\u0313,\u0067\u0313,\u0067\u0313
+Lillooet,g̓w,3,2,\u0067\u0313\u0077,\u0067\u0313\u0077,\u0067\u0313\u0077
+Lillooet,l̲,2,1,\u006c\u0332,\u006c\u0332,\u006c\u0332
+Lillooet,s̲,2,1,\u0073\u0332,\u0073\u0332,\u0073\u0332
+Lillooet,t̲s̲`,5,3,\u0074\u0332\u0073\u0332\u0060,\u0074\u0332\u0073\u0332\u0060,\u0074\u0332\u0073\u0332\u0060
+Thompson River Salish,ʔ,1,1,\u0294,\u0294,\u0294
+Thompson River Salish,a,1,1,\u0061,\u0061,\u0061
+Thompson River Salish,á,1,1,\u00e1,\u00e1,\u0061\u0301
+Thompson River Salish,c,1,1,\u0063,\u0063,\u0063
+Thompson River Salish,c̓,2,1,\u0063\u0313,\u0063\u0313,\u0063\u0313
+Thompson River Salish,c̣,2,1,\u0063\u0323,\u0063\u0323,\u0063\u0323
+Thompson River Salish,e,1,1,\u0065,\u0065,\u0065
+Thompson River Salish,é,1,1,\u00e9,\u00e9,\u0065\u0301
+Thompson River Salish,ə,1,1,\u0259,\u0259,\u0259
+Thompson River Salish,ə́,2,1,\u0259\u0301,\u0259\u0301,\u0259\u0301
+Thompson River Salish,ə̣,2,1,\u0259\u0323,\u0259\u0323,\u0259\u0323
+Thompson River Salish,ɣ,1,1,\u0263,\u0263,\u0263
+Thompson River Salish,ɣ̓,2,1,\u0263\u0313,\u0263\u0313,\u0263\u0313
+Thompson River Salish,h,1,1,\u0068,\u0068,\u0068
+Thompson River Salish,i,1,1,\u0069,\u0069,\u0069
+Thompson River Salish,í,1,1,\u00ed,\u00ed,\u0069\u0301
+Thompson River Salish,ị,1,1,\u1ecb,\u1ecb,\u0069\u0323
+Thompson River Salish,k,1,1,\u006b,\u006b,\u006b
+Thompson River Salish,k̓,2,1,\u006b\u0313,\u006b\u0313,\u006b\u0313
+Thompson River Salish,kʷ,2,2,\u006b\u02b7,\u006b\u02b7,\u006b\u02b7
+Thompson River Salish,k̓ʷ,3,2,\u006b\u0313\u02b7,\u006b\u0313\u02b7,\u006b\u0313\u02b7
+Thompson River Salish,l,1,1,\u006c,\u006c,\u006c
+Thompson River Salish,ḷ,1,1,\u1e37,\u1e37,\u006c\u0323
+Thompson River Salish,Ì,1,1,\u00cc,\u00cc,\u0049\u0300
+Thompson River Salish,ł,1,1,\u0142,\u0142,\u0142
+Thompson River Salish,ƛ̓,2,1,\u019b\u0313,\u019b\u0313,\u019b\u0313
+Thompson River Salish,m,1,1,\u006d,\u006d,\u006d
+Thompson River Salish,m̓,2,1,\u006d\u0313,\u006d\u0313,\u006d\u0313
+Thompson River Salish,n,1,1,\u006e,\u006e,\u006e
+Thompson River Salish,n̓,2,1,\u006e\u0313,\u006e\u0313,\u006e\u0313
+Thompson River Salish,ó,1,1,\u00f3,\u00f3,\u006f\u0301
+Thompson River Salish,p,1,1,\u0070,\u0070,\u0070
+Thompson River Salish,p̓,2,1,\u0070\u0313,\u0070\u0313,\u0070\u0313
+Thompson River Salish,q,1,1,\u0071,\u0071,\u0071
+Thompson River Salish,q̓,2,1,\u0071\u0313,\u0071\u0313,\u0071\u0313
+Thompson River Salish,qʷ,2,2,\u0071\u02b7,\u0071\u02b7,\u0071\u02b7
+Thompson River Salish,q̓ʷ,3,2,\u0071\u0313\u02b7,\u0071\u0313\u02b7,\u0071\u0313\u02b7
+Thompson River Salish,s,1,1,\u0073,\u0073,\u0073
+Thompson River Salish,ṣ,1,1,\u1e63,\u1e63,\u0073\u0323
+Thompson River Salish,t,1,1,\u0074,\u0074,\u0074
+Thompson River Salish,t̓,2,1,\u0074\u0313,\u0074\u0313,\u0074\u0313
+Thompson River Salish,Ɵ,1,1,\u019f,\u019f,\u019f
+Thompson River Salish,u,1,1,\u0075,\u0075,\u0075
+Thompson River Salish,ú,1,1,\u00fa,\u00fa,\u0075\u0301
+Thompson River Salish,w,1,1,\u0077,\u0077,\u0077
+Thompson River Salish,w̓,2,1,\u0077\u0313,\u0077\u0313,\u0077\u0313
+Thompson River Salish,x,1,1,\u0078,\u0078,\u0078
+Thompson River Salish,xʷ,2,2,\u0078\u02b7,\u0078\u02b7,\u0078\u02b7
+Thompson River Salish,x̣,2,1,\u0078\u0323,\u0078\u0323,\u0078\u0323
+Thompson River Salish,x̣ʷ,3,2,\u0078\u0323\u02b7,\u0078\u0323\u02b7,\u0078\u0323\u02b7
+Thompson River Salish,y,1,1,\u0079,\u0079,\u0079
+Thompson River Salish,y̓,2,1,\u0079\u0313,\u0079\u0313,\u0079\u0313
+Thompson River Salish,z,1,1,\u007a,\u007a,\u007a
+Thompson River Salish,z̓,2,1,\u007a\u0313,\u007a\u0313,\u007a\u0313
+Thompson River Salish,ʕ,1,1,\u0295,\u0295,\u0295
+Thompson River Salish,ʕ̓,2,1,\u0295\u0313,\u0295\u0313,\u0295\u0313
+Thompson River Salish,ʕʷ,2,2,\u0295\u02b7,\u0295\u02b7,\u0295\u02b7
+Thompson River Salish,ʕ̓ʷ,3,2,\u0295\u0313\u02b7,\u0295\u0313\u02b7,\u0295\u0313\u02b7
+Thompson River Salish,l̓,2,1,\u006c\u0313,\u006c\u0313,\u006c\u0313
+Thompson River Salish,l̕`,3,2,\u006c\u0315\u0060,\u006c\u0315\u0060,\u006c\u0315\u0060
+Coeur d’Alene,ɑ,1,1,\u0251,\u0251,\u0251
+Coeur d’Alene,e,1,1,\u0065,\u0065,\u0065
+Coeur d’Alene,ɑ̈,2,1,\u0251\u0308,\u0251\u0308,\u0251\u0308
+Coeur d’Alene,ê,1,1,\u00ea,\u00ea,\u0065\u0302
+Coeur d’Alene,I,1,1,\u0049,\u0049,\u0049
+Coeur d’Alene,i,1,1,\u0069,\u0069,\u0069
+Coeur d’Alene,o,1,1,\u006f,\u006f,\u006f
+Coeur d’Alene,ɔ,1,1,\u0254,\u0254,\u0254
+Coeur d’Alene,u,1,1,\u0075,\u0075,\u0075
+Coeur d’Alene,ə,1,1,\u0259,\u0259,\u0259
+Coeur d’Alene,E,1,1,\u0045,\u0045,\u0045
+Coeur d’Alene,ι,1,1,\u03b9,\u03b9,\u03b9
+Coeur d’Alene,ụ,1,1,\u1ee5,\u1ee5,\u0075\u0323
+Coeur d’Alene,p,1,1,\u0070,\u0070,\u0070
+Coeur d’Alene,pʼ,2,2,\u0070\u02bc,\u0070\u02bc,\u0070\u02bc
+Coeur d’Alene,b,1,1,\u0062,\u0062,\u0062
+Coeur d’Alene,m,1,1,\u006d,\u006d,\u006d
+Coeur d’Alene,mʼ,2,2,\u006d\u02bc,\u006d\u02bc,\u006d\u02bc
+Coeur d’Alene,ʼm,2,2,\u02bc\u006d,\u02bc\u006d,\u02bc\u006d
+Coeur d’Alene,w,1,1,\u0077,\u0077,\u0077
+Coeur d’Alene,wʼ,2,2,\u0077\u02bc,\u0077\u02bc,\u0077\u02bc
+Coeur d’Alene,ʼw,2,2,\u02bc\u0077,\u02bc\u0077,\u02bc\u0077
+Coeur d’Alene,t,1,1,\u0074,\u0074,\u0074
+Coeur d’Alene,tʼ,2,2,\u0074\u02bc,\u0074\u02bc,\u0074\u02bc
+Coeur d’Alene,d,1,1,\u0064,\u0064,\u0064
+Coeur d’Alene,n,1,1,\u006e,\u006e,\u006e
+Coeur d’Alene,nʼ,2,2,\u006e\u02bc,\u006e\u02bc,\u006e\u02bc
+Coeur d’Alene,ʼn,2,2,\u02bc\u006e,\u02bc\u006e,\u02bc\u006e
+Coeur d’Alene,s,1,1,\u0073,\u0073,\u0073
+Coeur d’Alene,c,1,1,\u0063,\u0063,\u0063
+Coeur d’Alene,ts,2,2,\u0074\u0073,\u0074\u0073,\u0074\u0073
+Coeur d’Alene,ts,2,2,\u0074\u0073,\u0074\u0073,\u0074\u0073
+Coeur d’Alene,cʼ,2,2,\u0063\u02bc,\u0063\u02bc,\u0063\u02bc
+Coeur d’Alene,tsʼ,3,3,\u0074\u0073\u02bc,\u0074\u0073\u02bc,\u0074\u0073\u02bc
+Coeur d’Alene,ts’,3,3,\u0074\u0073\u2019,\u0074\u0073\u2019,\u0074\u0073\u2019
+Coeur d’Alene,š,1,1,\u0161,\u0161,\u0073\u030c
+Coeur d’Alene,sh,2,2,\u0073\u0068,\u0073\u0068,\u0073\u0068
+Coeur d’Alene,c,1,1,\u0063,\u0063,\u0063
+Coeur d’Alene,ǰ,1,1,\u01f0,\u01f0,\u006a\u030c
+Coeur d’Alene,j,1,1,\u006a,\u006a,\u006a
+Coeur d’Alene,dj,2,2,\u0064\u006a,\u0064\u006a,\u0064\u006a
+Coeur d’Alene,č,1,1,\u010d,\u010d,\u0063\u030c
+Coeur d’Alene,ch,2,2,\u0063\u0068,\u0063\u0068,\u0063\u0068
+Coeur d’Alene,tc,2,2,\u0074\u0063,\u0074\u0063,\u0074\u0063
+Coeur d’Alene,čʼ,2,2,\u010d\u02bc,\u010d\u02bc,\u0063\u030c\u02bc
+Coeur d’Alene,ch’,3,3,\u0063\u0068\u2019,\u0063\u0068\u2019,\u0063\u0068\u2019
+Coeur d’Alene,tc’,3,3,\u0074\u0063\u2019,\u0074\u0063\u2019,\u0074\u0063\u2019
+Coeur d’Alene,y,1,1,\u0079,\u0079,\u0079
+Coeur d’Alene,yʼ,2,2,\u0079\u02bc,\u0079\u02bc,\u0079\u02bc
+Coeur d’Alene,ʼy,2,2,\u02bc\u0079,\u02bc\u0079,\u02bc\u0079
+Coeur d’Alene,ɡʷ,2,2,\u0261\u02b7,\u0261\u02b7,\u0261\u02b7
+Coeur d’Alene,ɡw,2,2,\u0261\u0077,\u0261\u0077,\u0261\u0077
+Coeur d’Alene,ɡu,2,2,\u0261\u0075,\u0261\u0075,\u0261\u0075
+Coeur d’Alene,kʷ,2,2,\u006b\u02b7,\u006b\u02b7,\u006b\u02b7
+Coeur d’Alene,kw,2,2,\u006b\u0077,\u006b\u0077,\u006b\u0077
+Coeur d’Alene,k,1,1,\u006b,\u006b,\u006b
+Coeur d’Alene,ku,2,2,\u006b\u0075,\u006b\u0075,\u006b\u0075
+Coeur d’Alene,ko,2,2,\u006b\u006f,\u006b\u006f,\u006b\u006f
+Coeur d’Alene,kʼʷ,3,3,\u006b\u02bc\u02b7,\u006b\u02bc\u02b7,\u006b\u02bc\u02b7
+Coeur d’Alene,kʼw,3,3,\u006b\u02bc\u0077,\u006b\u02bc\u0077,\u006b\u02bc\u0077
+Coeur d’Alene,kʼu,3,3,\u006b\u02bc\u0075,\u006b\u02bc\u0075,\u006b\u02bc\u0075
+Coeur d’Alene,kʼo,3,3,\u006b\u02bc\u006f,\u006b\u02bc\u006f,\u006b\u02bc\u006f
+Coeur d’Alene,kʼụ,3,3,\u006b\u02bc\u1ee5,\u006b\u02bc\u1ee5,\u006b\u02bc\u0075\u0323
+Coeur d’Alene,xʷ,2,2,\u0078\u02b7,\u0078\u02b7,\u0078\u02b7
+Coeur d’Alene,khw,3,3,\u006b\u0068\u0077,\u006b\u0068\u0077,\u006b\u0068\u0077
+Coeur d’Alene,khu,3,3,\u006b\u0068\u0075,\u006b\u0068\u0075,\u006b\u0068\u0075
+Coeur d’Alene,kho,3,3,\u006b\u0068\u006f,\u006b\u0068\u006f,\u006b\u0068\u006f
+Coeur d’Alene,xʷ,2,2,\u0078\u02b7,\u0078\u02b7,\u0078\u02b7
+Coeur d’Alene,xu,2,2,\u0078\u0075,\u0078\u0075,\u0078\u0075
+Coeur d’Alene,q,1,1,\u0071,\u0071,\u0071
+Coeur d’Alene,q’,2,2,\u0071\u2019,\u0071\u2019,\u0071\u2019
+Coeur d’Alene,qʷ,2,2,\u0071\u02b7,\u0071\u02b7,\u0071\u02b7
+Coeur d’Alene,qw,2,2,\u0071\u0077,\u0071\u0077,\u0071\u0077
+Coeur d’Alene,qu,2,2,\u0071\u0075,\u0071\u0075,\u0071\u0075
+Coeur d’Alene,qo,2,2,\u0071\u006f,\u0071\u006f,\u0071\u006f
+Coeur d’Alene,qʼʷ,3,3,\u0071\u02bc\u02b7,\u0071\u02bc\u02b7,\u0071\u02bc\u02b7
+Coeur d’Alene,q’w,3,3,\u0071\u2019\u0077,\u0071\u2019\u0077,\u0071\u2019\u0077
+Coeur d’Alene,qʼu,3,3,\u0071\u02bc\u0075,\u0071\u02bc\u0075,\u0071\u02bc\u0075
+Coeur d’Alene,qʼo,3,3,\u0071\u02bc\u006f,\u0071\u02bc\u006f,\u0071\u02bc\u006f
+Coeur d’Alene,qʼʷ,3,3,\u0071\u02bc\u02b7,\u0071\u02bc\u02b7,\u0071\u02bc\u02b7
+Coeur d’Alene,qʼu,3,3,\u0071\u02bc\u0075,\u0071\u02bc\u0075,\u0071\u02bc\u0075
+Coeur d’Alene,qh,2,2,\u0071\u0068,\u0071\u0068,\u0071\u0068
+Coeur d’Alene,x̣,2,1,\u0078\u0323,\u0078\u0323,\u0078\u0323
+Coeur d’Alene,x̣ʷ,3,2,\u0078\u0323\u02b7,\u0078\u0323\u02b7,\u0078\u0323\u02b7
+Coeur d’Alene,qhw,3,3,\u0071\u0068\u0077,\u0071\u0068\u0077,\u0071\u0068\u0077
+Coeur d’Alene,qhu,3,3,\u0071\u0068\u0075,\u0071\u0068\u0075,\u0071\u0068\u0075
+Coeur d’Alene,qho,3,3,\u0071\u0068\u006f,\u0071\u0068\u006f,\u0071\u0068\u006f
+Coeur d’Alene,l,1,1,\u006c,\u006c,\u006c
+Coeur d’Alene,lʼ,2,2,\u006c\u02bc,\u006c\u02bc,\u006c\u02bc
+Coeur d’Alene,ʼl,2,2,\u02bc\u006c,\u02bc\u006c,\u02bc\u006c
+Coeur d’Alene,ɬ,1,1,\u026c,\u026c,\u026c
+Coeur d’Alene,ł,1,1,\u0142,\u0142,\u0142
+Coeur d’Alene,r,1,1,\u0072,\u0072,\u0072
+Coeur d’Alene,rʼ,2,2,\u0072\u02bc,\u0072\u02bc,\u0072\u02bc
+Coeur d’Alene,ʼr,2,2,\u02bc\u0072,\u02bc\u0072,\u02bc\u0072
+Coeur d’Alene,ʕ,1,1,\u0295,\u0295,\u0295
+Coeur d’Alene,(,1,1,\u0028,\u0028,\u0028
+Coeur d’Alene,),1,1,\u0029,\u0029,\u0029
+Coeur d’Alene,R,1,1,\u0052,\u0052,\u0052
+Coeur d’Alene,ʕʼ,2,2,\u0295\u02bc,\u0295\u02bc,\u0295\u02bc
+Coeur d’Alene,ʼ(,2,2,\u02bc\u0028,\u02bc\u0028,\u02bc\u0028
+Coeur d’Alene,ʼ),2,2,\u02bc\u0029,\u02bc\u0029,\u02bc\u0029
+Coeur d’Alene,Rʼ,2,2,\u0052\u02bc,\u0052\u02bc,\u0052\u02bc
+Coeur d’Alene,ʕʷ,2,2,\u0295\u02b7,\u0295\u02b7,\u0295\u02b7
+Coeur d’Alene,(w,2,2,\u0028\u0077,\u0028\u0077,\u0028\u0077
+Coeur d’Alene,(u,2,2,\u0028\u0075,\u0028\u0075,\u0028\u0075
+Coeur d’Alene,rʷ,2,2,\u0072\u02b7,\u0072\u02b7,\u0072\u02b7
+Coeur d’Alene,ʕʼʷ,3,3,\u0295\u02bc\u02b7,\u0295\u02bc\u02b7,\u0295\u02bc\u02b7
+Coeur d’Alene,ʼ(w,3,3,\u02bc\u0028\u0077,\u02bc\u0028\u0077,\u02bc\u0028\u0077
+Coeur d’Alene,uʼ(,3,3,\u0075\u02bc\u0028,\u0075\u02bc\u0028,\u0075\u02bc\u0028
+Coeur d’Alene,ṛʼʷ,3,3,\u1e5b\u02bc\u02b7,\u1e5b\u02bc\u02b7,\u0072\u0323\u02bc\u02b7
+Coeur d’Alene,ʔ,1,1,\u0294,\u0294,\u0294
+Coeur d’Alene,ʼ,1,1,\u02bc,\u02bc,\u02bc
+Coeur d’Alene,h`,2,2,\u0068\u0060,\u0068\u0060,\u0068\u0060
+Columbia-Moses,a,1,1,\u0061,\u0061,\u0061
+Columbia-Moses,aa,2,2,\u0061\u0061,\u0061\u0061,\u0061\u0061
+Columbia-Moses,c,1,1,\u0063,\u0063,\u0063
+Columbia-Moses,c̓,2,1,\u0063\u0313,\u0063\u0313,\u0063\u0313
+Columbia-Moses,č,1,1,\u010d,\u010d,\u0063\u030c
+Columbia-Moses,ə,1,1,\u0259,\u0259,\u0259
+Columbia-Moses,əə,2,2,\u0259\u0259,\u0259\u0259,\u0259\u0259
+Columbia-Moses,h,1,1,\u0068,\u0068,\u0068
+Columbia-Moses,ḥ,1,1,\u1e25,\u1e25,\u0068\u0323
+Columbia-Moses,ḥʷ,2,2,\u1e25\u02b7,\u1e25\u02b7,\u0068\u0323\u02b7
+Columbia-Moses,i,1,1,\u0069,\u0069,\u0069
+Columbia-Moses,k,1,1,\u006b,\u006b,\u006b
+Columbia-Moses,k̓,2,1,\u006b\u0313,\u006b\u0313,\u006b\u0313
+Columbia-Moses,kʷ,2,2,\u006b\u02b7,\u006b\u02b7,\u006b\u02b7
+Columbia-Moses,k̓ʷ,3,2,\u006b\u0313\u02b7,\u006b\u0313\u02b7,\u006b\u0313\u02b7
+Columbia-Moses,l,1,1,\u006c,\u006c,\u006c
+Columbia-Moses,l̕,2,1,\u006c\u0315,\u006c\u0315,\u006c\u0315
+Columbia-Moses,ll,2,2,\u006c\u006c,\u006c\u006c,\u006c\u006c
+Columbia-Moses,ll̕,3,2,\u006c\u006c\u0315,\u006c\u006c\u0315,\u006c\u006c\u0315
+Columbia-Moses,ł,1,1,\u0142,\u0142,\u0142
+Columbia-Moses,ɬ,1,1,\u026c,\u026c,\u026c
+Columbia-Moses,ƛ̓,2,1,\u019b\u0313,\u019b\u0313,\u019b\u0313
+Columbia-Moses,m,1,1,\u006d,\u006d,\u006d
+Columbia-Moses,m̓,2,1,\u006d\u0313,\u006d\u0313,\u006d\u0313
+Columbia-Moses,n,1,1,\u006e,\u006e,\u006e
+Columbia-Moses,n̓,2,1,\u006e\u0313,\u006e\u0313,\u006e\u0313
+Columbia-Moses,p,1,1,\u0070,\u0070,\u0070
+Columbia-Moses,p̓,2,1,\u0070\u0313,\u0070\u0313,\u0070\u0313
+Columbia-Moses,q,1,1,\u0071,\u0071,\u0071
+Columbia-Moses,q̓,2,1,\u0071\u0313,\u0071\u0313,\u0071\u0313
+Columbia-Moses,qʷ,2,2,\u0071\u02b7,\u0071\u02b7,\u0071\u02b7
+Columbia-Moses,q̓ʷ,3,2,\u0071\u0313\u02b7,\u0071\u0313\u02b7,\u0071\u0313\u02b7
+Columbia-Moses,r,1,1,\u0072,\u0072,\u0072
+Columbia-Moses,r̓,2,1,\u0072\u0313,\u0072\u0313,\u0072\u0313
+Columbia-Moses,š,1,1,\u0161,\u0161,\u0073\u030c
+Columbia-Moses,s,1,1,\u0073,\u0073,\u0073
+Columbia-Moses,t,1,1,\u0074,\u0074,\u0074
+Columbia-Moses,t̕,2,1,\u0074\u0315,\u0074\u0315,\u0074\u0315
+Columbia-Moses,u,1,1,\u0075,\u0075,\u0075
+Columbia-Moses,uu,2,2,\u0075\u0075,\u0075\u0075,\u0075\u0075
+Columbia-Moses,w,1,1,\u0077,\u0077,\u0077
+Columbia-Moses,w̓,2,1,\u0077\u0313,\u0077\u0313,\u0077\u0313
+Columbia-Moses,x,1,1,\u0078,\u0078,\u0078
+Columbia-Moses,xʷ,2,2,\u0078\u02b7,\u0078\u02b7,\u0078\u02b7
+Columbia-Moses,x̌,2,1,\u0078\u030c,\u0078\u030c,\u0078\u030c
+Columbia-Moses,x̌ʷ,3,2,\u0078\u030c\u02b7,\u0078\u030c\u02b7,\u0078\u030c\u02b7
+Columbia-Moses,y,1,1,\u0079,\u0079,\u0079
+Columbia-Moses,y̓,2,1,\u0079\u0313,\u0079\u0313,\u0079\u0313
+Columbia-Moses,ʔ,1,1,\u0294,\u0294,\u0294
+Columbia-Moses,ʕ,1,1,\u0295,\u0295,\u0295
+Columbia-Moses,ʕ̕,2,1,\u0295\u0315,\u0295\u0315,\u0295\u0315
+Columbia-Moses,ʕʷ,2,2,\u0295\u02b7,\u0295\u02b7,\u0295\u02b7
+Columbia-Moses,ʕ̕ʷ,3,2,\u0295\u0315\u02b7,\u0295\u0315\u02b7,\u0295\u0315\u02b7
+Columbia-Moses,‿`,2,2,\u203f\u0060,\u203f\u0060,\u203f\u0060
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),a,1,1,\u0061,\u0061,\u0061
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),c,1,1,\u0063,\u0063,\u0063
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),c̓,2,1,\u0063\u0313,\u0063\u0313,\u0063\u0313
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),ə,1,1,\u0259,\u0259,\u0259
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),h,1,1,\u0068,\u0068,\u0068
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),i,1,1,\u0069,\u0069,\u0069
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),k,1,1,\u006b,\u006b,\u006b
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),k̓,2,1,\u006b\u0313,\u006b\u0313,\u006b\u0313
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),kʷ,2,2,\u006b\u02b7,\u006b\u02b7,\u006b\u02b7
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),k̓ʷ,3,2,\u006b\u0313\u02b7,\u006b\u0313\u02b7,\u006b\u0313\u02b7
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),l,1,1,\u006c,\u006c,\u006c
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),l̓,2,1,\u006c\u0313,\u006c\u0313,\u006c\u0313
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),ł,1,1,\u0142,\u0142,\u0142
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),ƛ̓,2,1,\u019b\u0313,\u019b\u0313,\u019b\u0313
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),m,1,1,\u006d,\u006d,\u006d
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),m̓,2,1,\u006d\u0313,\u006d\u0313,\u006d\u0313
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),n,1,1,\u006e,\u006e,\u006e
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),n̓,2,1,\u006e\u0313,\u006e\u0313,\u006e\u0313
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),p,1,1,\u0070,\u0070,\u0070
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),p̓,2,1,\u0070\u0313,\u0070\u0313,\u0070\u0313
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),q,1,1,\u0071,\u0071,\u0071
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),q̓,2,1,\u0071\u0313,\u0071\u0313,\u0071\u0313
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),qʷ,2,2,\u0071\u02b7,\u0071\u02b7,\u0071\u02b7
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),q̓ʷ,3,2,\u0071\u0313\u02b7,\u0071\u0313\u02b7,\u0071\u0313\u02b7
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),r,1,1,\u0072,\u0072,\u0072
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),s,1,1,\u0073,\u0073,\u0073
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),t,1,1,\u0074,\u0074,\u0074
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),t̓,2,1,\u0074\u0313,\u0074\u0313,\u0074\u0313
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),u,1,1,\u0075,\u0075,\u0075
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),w,1,1,\u0077,\u0077,\u0077
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),w̓,2,1,\u0077\u0313,\u0077\u0313,\u0077\u0313
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),x,1,1,\u0078,\u0078,\u0078
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),x̌,2,1,\u0078\u030c,\u0078\u030c,\u0078\u030c
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),xʷ,2,2,\u0078\u02b7,\u0078\u02b7,\u0078\u02b7
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),x̌ʷ,3,2,\u0078\u030c\u02b7,\u0078\u030c\u02b7,\u0078\u030c\u02b7
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),y,1,1,\u0079,\u0079,\u0079
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),y̓,2,1,\u0079\u0313,\u0079\u0313,\u0079\u0313
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),ʕ,1,1,\u0295,\u0295,\u0295
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),ʕ̓,2,1,\u0295\u0313,\u0295\u0313,\u0295\u0313
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),ʕʷ,2,2,\u0295\u02b7,\u0295\u02b7,\u0295\u02b7
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),ʔ,1,1,\u0294,\u0294,\u0294
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),i,1,1,\u0069,\u0069,\u0069
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),a,1,1,\u0061,\u0061,\u0061
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),u,1,1,\u0075,\u0075,\u0075
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),ə,1,1,\u0259,\u0259,\u0259
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),o,1,1,\u006f,\u006f,\u006f
+Colville-Okanagan (n̓səl̓xcin̓ / Nsyilxcən),‿`,2,2,\u203f\u0060,\u203f\u0060,\u203f\u0060
+Montana Salish - https://en.wikipedia.org/wiki/Salish-Spokane-Kalispel_language,MISSING`,8,8,\u004d\u0049\u0053\u0053\u0049\u004e\u0047\u0060,\u004d\u0049\u0053\u0053\u0049\u004e\u0047\u0060,\u004d\u0049\u0053\u0053\u0049\u004e\u0047\u0060
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,a,1,1,\u0061,\u0061,\u0061
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,ch,2,2,\u0063\u0068,\u0063\u0068,\u0063\u0068
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,c’h,3,3,\u0063\u2019\u0068,\u0063\u2019\u0068,\u0063\u2019\u0068
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,ə,1,1,\u0259,\u0259,\u0259
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,h,1,1,\u0068,\u0068,\u0068
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,i,1,1,\u0069,\u0069,\u0069
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,k,1,1,\u006b,\u006b,\u006b
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,kʰ,2,2,\u006b\u02b0,\u006b\u02b0,\u006b\u02b0
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,kw,2,2,\u006b\u0077,\u006b\u0077,\u006b\u0077
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,kʰw,3,3,\u006b\u02b0\u0077,\u006b\u02b0\u0077,\u006b\u02b0\u0077
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,k’,2,2,\u006b\u2019,\u006b\u2019,\u006b\u2019
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,k’w,3,3,\u006b\u2019\u0077,\u006b\u2019\u0077,\u006b\u2019\u0077
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,l,1,1,\u006c,\u006c,\u006c
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,ɬ,1,1,\u026c,\u026c,\u026c
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,m,1,1,\u006d,\u006d,\u006d
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,n,1,1,\u006e,\u006e,\u006e
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,p,1,1,\u0070,\u0070,\u0070
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,pʰ,2,2,\u0070\u02b0,\u0070\u02b0,\u0070\u02b0
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,p’,2,2,\u0070\u2019,\u0070\u2019,\u0070\u2019
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,q,1,1,\u0071,\u0071,\u0071
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,qʰ,2,2,\u0071\u02b0,\u0071\u02b0,\u0071\u02b0
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,qw,2,2,\u0071\u0077,\u0071\u0077,\u0071\u0077
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,qʰw,3,3,\u0071\u02b0\u0077,\u0071\u02b0\u0077,\u0071\u02b0\u0077
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,q’,2,2,\u0071\u2019,\u0071\u2019,\u0071\u2019
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,q’w,3,3,\u0071\u2019\u0077,\u0071\u2019\u0077,\u0071\u2019\u0077
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,s,1,1,\u0073,\u0073,\u0073
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,sh,2,2,\u0073\u0068,\u0073\u0068,\u0073\u0068
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,t,1,1,\u0074,\u0074,\u0074
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,tʰ,2,2,\u0074\u02b0,\u0074\u02b0,\u0074\u02b0
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,t’,2,2,\u0074\u2019,\u0074\u2019,\u0074\u2019
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,tɬ,2,2,\u0074\u026c,\u0074\u026c,\u0074\u026c
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,t’ɬ,3,3,\u0074\u2019\u026c,\u0074\u2019\u026c,\u0074\u2019\u026c
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,ts,2,2,\u0074\u0073,\u0074\u0073,\u0074\u0073
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,t’s,3,3,\u0074\u2019\u0073,\u0074\u2019\u0073,\u0074\u2019\u0073
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,u,1,1,\u0075,\u0075,\u0075
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,w,1,1,\u0077,\u0077,\u0077
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,x,1,1,\u0078,\u0078,\u0078
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,xw,2,2,\u0078\u0077,\u0078\u0077,\u0078\u0077
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,x̣,2,1,\u0078\u0323,\u0078\u0323,\u0078\u0323
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,x̣w,3,2,\u0078\u0323\u0077,\u0078\u0323\u0077,\u0078\u0323\u0077
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,y,1,1,\u0079,\u0079,\u0079
+Chinook Jargon - http://www.sacred-texts.com/nam/nw/chinook/cht03.htm,ʔ,1,1,\u0294,\u0294,\u0294
