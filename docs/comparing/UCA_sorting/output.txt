@@ -214,3 +214,40 @@ Length - NFKD: 4
 Grapheme(s): ę̀, 
 Grapheme(s) Length: 2
 Sixth Grapheme: 
+
+
+String: ǫ́
+anyascii version: o
+NFC string: ǫ́
+NFD string: ǫ́
+NFKC string: ǫ́
+NFKD string: ǫ́
+Orig string unicode: \u006f\u0328\u0301\u000a
+NFC string unicode: \u01eb\u0301\u000a
+NFD string unicode: \u006f\u0328\u0301\u000a
+NFKC string unicode: \u01eb\u0301\u000a
+NFKD string unicode: \u006f\u0328\u0301\u000a
+NFC character list: ǫ, ́, 
+NFD character list: o, ̨, ́, 
+NFKC character list: ǫ, ́, 
+NFKD character list: o, ̨, ́, 
+Length - NFC: 3
+Length - NFD: 4
+Length - NFKC: 3
+Length - NFKD: 4
+Grapheme(s): ǫ́, 
+Grapheme(s) Length: 2
+Sixth Grapheme: 
+
+
+String: y̱̓anyascii version: yNFC string: y̱̓NFD string: y̱̓NFKC string: y̱̓NFKD string: y̱̓Orig string unicode: \u0079\u0331\u0313
+NFC string unicode: \u0079\u0331\u0313
+NFD string unicode: \u0079\u0331\u0313
+NFKC string unicode: \u0079\u0331\u0313
+NFKD string unicode: \u0079\u0331\u0313
+NFC character list: y, ̱, ̓NFD character list: y, ̱, ̓NFKC character list: y, ̱, ̓NFKD character list: y, ̱, ̓Length - NFC: 3
+Length - NFD: 3
+Length - NFKC: 3
+Length - NFKD: 3
+Grapheme(s): y̱̓Grapheme(s) Length: 1
+Sixth Grapheme: 

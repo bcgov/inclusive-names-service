@@ -1,0 +1,1 @@
+gc -Encoding utf8 ./unsorted.txt | sort | get-unique > sorted.txt

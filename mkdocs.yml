@@ -14,7 +14,8 @@ markdown_extensions:
 #          Example navigation structure shown below. Fill out as appropriate for your content.
 nav:
     -   Overview: index.md
-    -   Techniques for comparing text strings:
+    -   Unicode text complexities:
+            - Some challenges with Unicode text: comparing/README.md
             - Normalizing Unicode text: comparing/normalization/README.md
             - Segmenting Unicode text: comparing/segmentation/README.md
             - Approximating Unicode text with ASCII: comparing/anyascii/README.md

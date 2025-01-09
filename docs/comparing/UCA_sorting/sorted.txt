@@ -1,0 +1,22 @@
+AA
+AB
+AZ
+CA
+CB
+CZ
+ĆL NFD
+DA
+EA
+MA
+NA
+OA
+VA
+WA
+XA
+ZA
+ZB
+ZZ
+ĆL NFC
+ŋ
+ə
+ʷ

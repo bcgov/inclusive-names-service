@@ -5,85 +5,68 @@
   "description": "The name of a person.",
   "type": "object",
   "properties": {
-    "alternative": {
-      "description": "Another name that the person is known by. This might be an alias, a nickname or a name that the person is also known as (aka).",
+    "alternate": {
+      "description": "Another name that the person is known by. This might be an alias, a nickname, former name, or a name that the person is also known as (aka).",
       "type": "object",
       "required": [
-        "fullNameAlternative"
+        "fullNameAlternate"
       ],
       "properties": {
-        "fullNameAlternative": {
+        "fullNameAlternate": {
           "$ref": "#/$defs/NameValue",
           "description": "The full name of the person"
         },
-        "firstNameAlternative": {
+        "firstNameAlternate": {
           "$ref": "#/$defs/NameValue",
           "description": "The first segment of the full name"
         },
-        "givenNamesAlternative": {
+        "givenNamesAlternate": {
           "$ref": "#/$defs/NameValue",
           "description": "The parts of the full name that preceed the last name"
         },
-        "lastNameAlternative": {
+        "lastNameAlternate": {
           "$ref": "#/$defs/NameValue",
           "description": "The last segment of the full name"
         },
-        "middleInitialsAlternative": {
+        "middleInitialsAlternate": {
           "$ref": "#/$defs/ShortNameValue",
           "description": "First initials of the middle names, without periods, separated by spaces"
         },
-        "middleNamesAlternative": {
+        "middleNamesAlternate": {
           "$ref": "#/$defs/NameValue",
           "description": "Middle or additional names supplied between the First name and Last name, separated by spaces "
         },
-        "suffixAlternative": {
+        "suffixAlternate": {
           "$ref": "#/$defs/ShortNameValue",
           "description": "A group of letters provided after a person’s name to provide additional information (such as Jr., Sr., M.D., PhD, I, II, III, and so on)"
         },
-        "titleAlternative": {
+        "titleAlternate": {
           "$ref": "#/$defs/ShortNameValue",
           "description": "An abbreviation of a person’s title, honorific, or salutation (such as Mr., Ms., or Dr.)."
-        }
-      }
-    },
-    "birth": {
-      "description": "The legal name of the person at birth.",
-      "type": "object",
-      "required": [
-        "fullNameBirth"
-      ],
-      "properties": {
-        "fullNameBirth": {
+        },
+        "primaryNameAlternate": {
           "$ref": "#/$defs/NameValue",
-          "description": "The full name of the person"
+          "description": "May be last name, mononym, or in some cases, the entire name where the holder’s name cannot be divided into two parts. This is needed if the person name data is to be exchanged with Government of Canada systems."
         },
-        "firstNameBirth": {
+        "secondaryNameAlternate": {
           "$ref": "#/$defs/NameValue",
-          "description": "The first segment of the full name"
+          "description": "The portion of a person’s name that is not the primary name. All remaining portions of the name would be entered into this field. This is needed if the person name data is to be exchanged with Government of Canada systems."
         },
-        "givenNamesBirth": {
+        "nameSourceAlternate": {
           "$ref": "#/$defs/NameValue",
-          "description": "The parts of the full name that preceed the last name"
+          "description": "Where the name comes from (for example, an evidence of identity (EOI) document, a court-issued document or an attestation by the person). All name components should come from the same source."
         },
-        "lastNameBirth": {
-          "$ref": "#/$defs/NameValue",
-          "description": "The last segment of the full name"
+        "sourceDateAlternate": {
+          "$ref": "#/$defs/DateValue",
+          "description": "The date of issuance of an EOI document or other name source. Stored using a date data type."
         },
-        "middleInitialsBirth": {
-          "$ref": "#/$defs/ShortNameValue",
-          "description": "First initials of the middle names, without periods, separated by spaces"
+        "nameCollectionDateAlternate": {
+          "$ref": "#/$defs/DateValue",
+          "description": "The date the person name is captured in the dataset. Stored using a date data type."
         },
-        "middleNamesBirth": {
-          "$ref": "#/$defs/NameValue",
-          "description": "Middle or additional names supplied between the First name and Last name, separated by spaces "
-        },
-        "suffixBirth": {
-          "$ref": "#/$defs/ShortNameValue",
-          "description": "A group of letters provided after a person’s name to provide additional information (such as Jr., Sr., M.D., PhD, I, II, III, and so on)"
-        },
-        "titleBirth": {
-          "$ref": "#/$defs/ShortNameValue",
-          "description": "An abbreviation of a person’s title, honorific, or salutation (such as Mr., Ms., or Dr.)."
+        "lastModifiedDateAlternate": {
+          "$ref": "#/$defs/DateValue",
+          "description": "The most recent date any person name field was updated or changed. Stored using a date data type."
         }
       }
     },
@@ -125,6 +108,30 @@
         "titleFormer": {
           "$ref": "#/$defs/ShortNameValue",
           "description": "An abbreviation of a person’s title, honorific, or salutation (such as Mr., Ms., or Dr.)."
+        },
+        "primaryNameFormer": {
+          "$ref": "#/$defs/NameValue",
+          "description": "May be last name, mononym, or in some cases, the entire name where the holder’s name cannot be divided into two parts. This is needed if the person name data is to be exchanged with Government of Canada systems."
+        },
+        "secondaryNameFormer": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The portion of a person’s name that is not the primary name. All remaining portions of the name would be entered into this field. This is needed if the person name data is to be exchanged with Government of Canada systems."
+        },
+        "nameSourceFormer": {
+          "$ref": "#/$defs/NameValue",
+          "description": "Where the name comes from (for example, an evidence of identity (EOI) document, a court-issued document or an attestation by the person). All name components should come from the same source."
+        },
+        "sourceDateFormer": {
+          "$ref": "#/$defs/DateValue",
+          "description": "The date of issuance of an EOI document or other name source. Stored using a date data type."
+        },
+        "nameCollectionDateFormer": {
+          "$ref": "#/$defs/DateValue",
+          "description": "The date the person name is captured in the dataset. Stored using a date data type."
+        },
+        "lastModifiedDateFormer": {
+          "$ref": "#/$defs/DateValue",
+          "description": "The most recent date any person name field was updated or changed. Stored using a date data type."
         }
       }
     },
@@ -166,6 +173,30 @@
         "titleLegal": {
           "$ref": "#/$defs/ShortNameValue",
           "description": "An abbreviation of a person’s title, honorific, or salutation (such as Mr., Ms., or Dr.)."
+        },
+        "primaryNameLegal": {
+          "$ref": "#/$defs/NameValue",
+          "description": "May be last name, mononym, or in some cases, the entire name where the holder’s name cannot be divided into two parts. This is needed if the person name data is to be exchanged with Government of Canada systems."
+        },
+        "secondaryNameLegal": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The portion of a person’s name that is not the primary name. All remaining portions of the name would be entered into this field. This is needed if the person name data is to be exchanged with Government of Canada systems."
+        },
+        "nameSourceLegal": {
+          "$ref": "#/$defs/NameValue",
+          "description": "Where the name comes from (for example, an evidence of identity (EOI) document, a court-issued document or an attestation by the person). All name components should come from the same source."
+        },
+        "sourceDateLegal": {
+          "$ref": "#/$defs/DateValue",
+          "description": "The date of issuance of an EOI document or other name source. Stored using a date data type."
+        },
+        "nameCollectionDateLegal": {
+          "$ref": "#/$defs/DateValue",
+          "description": "The date the person name is captured in the dataset. Stored using a date data type."
+        },
+        "lastModifiedDateLegal": {
+          "$ref": "#/$defs/DateValue",
+          "description": "The most recent date any person name field was updated or changed. Stored using a date data type."
         }
       }
     },
@@ -207,6 +238,30 @@
         "titlePreferred": {
           "$ref": "#/$defs/ShortNameValue",
           "description": "An abbreviation of a person’s title, honorific, or salutation (such as Mr., Ms., or Dr.)."
+        },
+        "primaryNamePreferred": {
+          "$ref": "#/$defs/NameValue",
+          "description": "May be last name, mononym, or in some cases, the entire name where the holder’s name cannot be divided into two parts. This is needed if the person name data is to be exchanged with Government of Canada systems."
+        },
+        "secondaryNamePreferred": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The portion of a person’s name that is not the primary name. All remaining portions of the name would be entered into this field. This is needed if the person name data is to be exchanged with Government of Canada systems."
+        },
+        "nameSourcePreferred": {
+          "$ref": "#/$defs/NameValue",
+          "description": "Where the name comes from (for example, an evidence of identity (EOI) document, a court-issued document or an attestation by the person). All name components should come from the same source."
+        },
+        "sourceDatePreferred": {
+          "$ref": "#/$defs/DateValue",
+          "description": "The date of issuance of an EOI document or other name source. Stored using a date data type."
+        },
+        "nameCollectionDatePreferred": {
+          "$ref": "#/$defs/DateValue",
+          "description": "The date the person name is captured in the dataset. Stored using a date data type."
+        },
+        "lastModifiedDatePreferred": {
+          "$ref": "#/$defs/DateValue",
+          "description": "The most recent date any person name field was updated or changed. Stored using a date data type."
         }
       }
     },
@@ -248,88 +303,30 @@
         "titleRestrictedAlphabet": {
           "$ref": "#/$defs/ShortNameValue",
           "description": "An abbreviation of a person’s title, honorific, or salutation (such as Mr., Ms., or Dr.)."
-        }
-      }
-    },
-    "translation": {
-      "description": "A translation of the person’s legal name in a different language.",
-      "type": "object",
-      "required": [
-        "fullNameTranslation"
-      ],
-      "properties": {
-        "fullNameTranslation": {
+        },
+        "primaryNameRestrictedAlphabet": {
           "$ref": "#/$defs/NameValue",
-          "description": "The full name of the person"
+          "description": "May be last name, mononym, or in some cases, the entire name where the holder’s name cannot be divided into two parts. This is needed if the person name data is to be exchanged with Government of Canada systems."
         },
-        "firstNameTranslation": {
+        "secondaryNameRestrictedAlphabet": {
           "$ref": "#/$defs/NameValue",
-          "description": "The first segment of the full name"
+          "description": "The portion of a person’s name that is not the primary name. All remaining portions of the name would be entered into this field. This is needed if the person name data is to be exchanged with Government of Canada systems."
         },
-        "givenNamesTranslation": {
+        "nameSourceRestrictedAlphabet": {
           "$ref": "#/$defs/NameValue",
-          "description": "The parts of the full name that preceed the last name"
+          "description": "Where the name comes from (for example, an evidence of identity (EOI) document, a court-issued document or an attestation by the person). All name components should come from the same source."
         },
-        "lastNameTranslation": {
-          "$ref": "#/$defs/NameValue",
-          "description": "The last segment of the full name"
+        "sourceDateRestrictedAlphabet": {
+          "$ref": "#/$defs/DateValue",
+          "description": "The date of issuance of an EOI document or other name source. Stored using a date data type."
         },
-        "middleInitialsTranslation": {
-          "$ref": "#/$defs/ShortNameValue",
-          "description": "First initials of the middle names, without periods, separated by spaces"
+        "nameCollectionDateRestrictedAlphabet": {
+          "$ref": "#/$defs/DateValue",
+          "description": "The date the person name is captured in the dataset. Stored using a date data type."
         },
-        "middleNamesTranslation": {
-          "$ref": "#/$defs/NameValue",
-          "description": "Middle or additional names supplied between the First name and Last name, separated by spaces "
-        },
-        "suffixTranslation": {
-          "$ref": "#/$defs/ShortNameValue",
-          "description": "A group of letters provided after a person’s name to provide additional information (such as Jr., Sr., M.D., PhD, I, II, III, and so on)"
-        },
-        "titleTranslation": {
-          "$ref": "#/$defs/ShortNameValue",
-          "description": "An abbreviation of a person’s title, honorific, or salutation (such as Mr., Ms., or Dr.)."
-        }
-      }
-    },
-    "transliteration": {
-      "description": "A transliteration of the person’s legal name in a different script.",
-      "type": "object",
-      "required": [
-        "fullNameTransliteration"
-      ],
-      "properties": {
-        "fullNameTransliteration": {
-          "$ref": "#/$defs/NameValue",
-          "description": "The full name of the person"
-        },
-        "firstNameTransliteration": {
-          "$ref": "#/$defs/NameValue",
-          "description": "The first segment of the full name"
-        },
-        "givenNamesTransliteration": {
-          "$ref": "#/$defs/NameValue",
-          "description": "The parts of the full name that preceed the last name"
-        },
-        "lastNameTransliteration": {
-          "$ref": "#/$defs/NameValue",
-          "description": "The last segment of the full name"
-        },
-        "middleInitialsTransliteration": {
-          "$ref": "#/$defs/ShortNameValue",
-          "description": "First initials of the middle names, without periods, separated by spaces"
-        },
-        "middleNamesTransliteration": {
-          "$ref": "#/$defs/NameValue",
-          "description": "Middle or additional names supplied between the First name and Last name, separated by spaces "
-        },
-        "suffixTransliteration": {
-          "$ref": "#/$defs/ShortNameValue",
-          "description": "A group of letters provided after a person’s name to provide additional information (such as Jr., Sr., M.D., PhD, I, II, III, and so on)"
-        },
-        "titleTransliteration": {
-          "$ref": "#/$defs/ShortNameValue",
-          "description": "An abbreviation of a person’s title, honorific, or salutation (such as Mr., Ms., or Dr.)."
+        "lastModifiedDateRestrictedAlphabet": {
+          "$ref": "#/$defs/DateValue",
+          "description": "The most recent date any person name field was updated or changed. Stored using a date data type."
         }
       }
     },
@@ -340,12 +337,7 @@
   "anyOf": [
     {
       "required": [
-        "alternative"
-      ]
-    },
-    {
-      "required": [
-        "birth"
+        "alternate"
       ]
     },
     {
@@ -367,16 +359,6 @@
       "required": [
         "restrictedAlphabet"
       ]
-    },
-    {
-      "required": [
-        "translation"
-      ]
-    },
-    {
-      "required": [
-        "transliteration"
-      ]
     }
   ],
   "$defs": {
@@ -387,6 +369,10 @@
     "ShortNameValue": {
       "type": "string",
       "maxLength": 10
-    }
+     },
+    "DateValue": {
+      "type": "string",
+      "format": "date"
+   }
   }
 }

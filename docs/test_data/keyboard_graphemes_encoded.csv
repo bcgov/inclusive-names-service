@@ -1,0 +1,87 @@
+﻿sortorder,keyboard,language,grapheme,# code points,names,code_points,utf8_encodings,string lengths
+1,BC Sans,Lək̓ʷəŋən,θ,1,GREEK SMALL LETTER THETA,0x3b8,b'\xce\xb8',2
+1,Straits Salish Lekwungan,Lək̓ʷəŋən,θ,1,GREEK SMALL LETTER THETA,0x3b8,b'\xce\xb8',2
+2,BC Sans,Lək̓ʷəŋən,tᶿ,2,"LATIN SMALL LETTER T, MODIFIER LETTER SMALL THETA","0x74, 0x1dbf","b't', b'\xe1\xb6\xbf'","1,3"
+2,Straits Salish Lekwungan,Lək̓ʷəŋən,tᶿ,2,"LATIN SMALL LETTER T, MODIFIER LETTER SMALL THETA","0x74, 0x1dbf","b't', b'\xe1\xb6\xbf'","1,3"
+3,BC Sans,Lək̓ʷəŋən,ʷ,1,MODIFIER LETTER SMALL W,0x2b7,b'\xca\xb7',2
+3,Straits Salish Lekwungan,Lək̓ʷəŋən,ʷ,1,MODIFIER LETTER SMALL W,0x2b7,b'\xca\xb7',2
+4,BC Sans,Lək̓ʷəŋən,ə,1,LATIN SMALL LETTER SCHWA,0x259,b'\xc9\x99',2
+4,Straits Salish Lekwungan,Lək̓ʷəŋən,ə,1,LATIN SMALL LETTER SCHWA,0x259,b'\xc9\x99',2
+5,BC Sans,Lək̓ʷəŋən,ʔ,1,LATIN LETTER GLOTTAL STOP,0x294,b'\xca\x94',2
+5,Straits Salish Lekwungan,Lək̓ʷəŋən,ʔ,1,LATIN LETTER GLOTTAL STOP,0x294,b'\xca\x94',2
+6,BC Sans,Lək̓ʷəŋən,č,2,"LATIN SMALL LETTER C, COMBINING CARON","0x63, 0x30c","b'c', b'\xcc\x8c'","1,2"
+6,Straits Salish Lekwungan,Lək̓ʷəŋən,č,1,LATIN SMALL LETTER C WITH CARON,0x10d,b'\xc4\x8d',2
+7,BC Sans,Lək̓ʷəŋən,š,2,"LATIN SMALL LETTER S, COMBINING CARON","0x73, 0x30c","b's', b'\xcc\x8c'","1,2"
+7,Straits Salish Lekwungan,Lək̓ʷəŋən,š,1,LATIN SMALL LETTER S WITH CARON,0x161,b'\xc5\xa1',2
+8,BC Sans,Lək̓ʷəŋən,x̩,2,"LATIN SMALL LETTER X, COMBINING VERTICAL LINE BELOW","0x78, 0x329","b'x', b'\xcc\xa9'","1,2"
+8,Straits Salish Lekwungan,Lək̓ʷəŋən,x̣,2,"LATIN SMALL LETTER X, COMBINING DOT BELOW","0x78, 0x323","b'x', b'\xcc\xa3'","1,2"
+9,BC Sans,Lək̓ʷəŋən,ƛ̓,2,"LATIN SMALL LETTER LAMBDA WITH STROKE, COMBINING COMMA ABOVE","0x19b, 0x313","b'\xc6\x9b', b'\xcc\x93'","2,2"
+9,Straits Salish Lekwungan,Lək̓ʷəŋən,ƛ̓,2,"LATIN SMALL LETTER LAMBDA WITH STROKE, COMBINING COMMA ABOVE","0x19b, 0x313","b'\xc6\x9b', b'\xcc\x93'","2,2"
+10,BC Sans,Lək̓ʷəŋən,ł,1,LATIN SMALL LETTER L WITH STROKE,0x142,b'\xc5\x82',2
+10,Straits Salish Lekwungan,Lək̓ʷəŋən,ɬ,1,LATIN SMALL LETTER L WITH BELT,0x26c,b'\xc9\xac',2
+11,BC Sans,Lək̓ʷəŋən,ŋ,1,LATIN SMALL LETTER ENG,0x14b,b'\xc5\x8b',2
+11,Straits Salish Lekwungan,Lək̓ʷəŋən,ŋ,1,LATIN SMALL LETTER ENG,0x14b,b'\xc5\x8b',2
+12,BC Sans,SENĆOŦEN,Ć,2,"LATIN CAPITAL LETTER C, COMBINING ACUTE ACCENT","0x43, 0x301","b'C', b'\xcc\x81'","1,2"
+12,Straits Salish SENCOTEN,SENĆOŦEN,Ć,1,LATIN CAPITAL LETTER C WITH ACUTE,0x106,b'\xc4\x86',2
+13,BC Sans,SENĆOŦEN,Ⱥ,1,LATIN CAPITAL LETTER A WITH STROKE,0x23a,b'\xc8\xba',2
+13,Straits Salish SENCOTEN,SENĆOŦEN,Ⱥ,1,LATIN CAPITAL LETTER A WITH STROKE,0x23a,b'\xc8\xba',2
+14,BC Sans,SENĆOŦEN,Ŧ,1,LATIN CAPITAL LETTER T WITH STROKE,0x166,b'\xc5\xa6',2
+14,Straits Salish SENCOTEN,SENĆOŦEN,Ŧ,1,LATIN CAPITAL LETTER T WITH STROKE,0x166,b'\xc5\xa6',2
+15,BC Sans,SENĆOŦEN,N̲,2,"LATIN CAPITAL LETTER N, COMBINING LOW LINE","0x4e, 0x332","b'N', b'\xcc\xb2'","1,2"
+15,Straits Salish SENCOTEN,SENĆOŦEN,Ṉ,1,LATIN CAPITAL LETTER N WITH LINE BELOW,0x1e48,b'\xe1\xb9\x88',3
+16,BC Sans,SENĆOŦEN,,0,,,,
+16,Straits Salish SENCOTEN,SENĆOŦEN,«,1,LEFT-POINTING DOUBLE ANGLE QUOTATION MARK,0xab,b'\xc2\xab',2
+17,BC Sans,SENĆOŦEN,,0,,,,
+17,Straits Salish SENCOTEN,SENĆOŦEN,»,1,RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK,0xbb,b'\xc2\xbb',2
+18,BC Sans,Haíɫzaqvḷa (Heiltsuk),,0,,,,
+18,Haíɫzaqvḷa,Haíɫzaqvḷa (Heiltsuk),ħ,1,LATIN SMALL LETTER H WITH STROKE,0x127,b'\xc4\xa7',2
+19,BC Sans,Haíɫzaqvḷa (Heiltsuk),λ,1,GREEK SMALL LETTER LAMDA,0x3bb,b'\xce\xbb',2
+19,Haíɫzaqvḷa,Haíɫzaqvḷa (Heiltsuk),ꟛ,1,**not in Unicode**,0xa7db,b'\xea\x9f\x9b',3
+20,BC Sans,Haíɫzaqvḷa (Heiltsuk),ƛ̓,2,"LATIN SMALL LETTER LAMBDA WITH STROKE, COMBINING COMMA ABOVE","0x19b, 0x313","b'\xc6\x9b', b'\xcc\x93'","2,2"
+20,Haíɫzaqvḷa,Haíɫzaqvḷa (Heiltsuk),ƛ,1,LATIN SMALL LETTER LAMBDA WITH STROKE,0x19b,b'\xc6\x9b',2
+21,BC Sans,Haíɫzaqvḷa (Heiltsuk),ɫ̓,2,"LATIN SMALL LETTER L WITH MIDDLE TILDE, COMBINING COMMA ABOVE","0x26b, 0x313","b'\xc9\xab', b'\xcc\x93'","2,2"
+21,Haíɫzaqvḷa,Haíɫzaqvḷa (Heiltsuk),ɫ,1,LATIN SMALL LETTER L WITH MIDDLE TILDE,0x26b,b'\xc9\xab',2
+22,BC Sans,Haíɫzaqvḷa (Heiltsuk),,0,,,,
+22,Haíɫzaqvḷa,Haíɫzaqvḷa (Heiltsuk),Ꟛ,1,**not in Unicode**,0xa7da,b'\xea\x9f\x9a',3
+23,BC Sans,Haíɫzaqvḷa (Heiltsuk),ʔ,1,LATIN LETTER GLOTTAL STOP,0x294,b'\xca\x94',2
+23,Haíɫzaqvḷa,Haíɫzaqvḷa (Heiltsuk),ʔ,1,LATIN LETTER GLOTTAL STOP,0x294,b'\xca\x94',2
+24,BC Sans,Haíɫzaqvḷa (Heiltsuk),ǧ,2,"LATIN SMALL LETTER G, COMBINING CARON","0x67, 0x30c","b'g', b'\xcc\x8c'","1,2"
+24,Haíɫzaqvḷa,Haíɫzaqvḷa (Heiltsuk),ǧ,2,"LATIN SMALL LETTER G, COMBINING CARON","0x67, 0x30c","b'g', b'\xcc\x8c'","1,2"
+25,BC Sans,Haíɫzaqvḷa (Heiltsuk),x̌,2,"LATIN SMALL LETTER X, COMBINING CARON","0x78, 0x30c","b'x', b'\xcc\x8c'","1,2"
+25,Haíɫzaqvḷa,Haíɫzaqvḷa (Heiltsuk),x̌,2,"LATIN SMALL LETTER X, COMBINING CARON","0x78, 0x30c","b'x', b'\xcc\x8c'","1,2"
+26,BC Sans,Haíɫzaqvḷa (Heiltsuk),l̩,2,"LATIN SMALL LETTER L, COMBINING VERTICAL LINE BELOW","0x6c, 0x329","b'l', b'\xcc\xa9'","1,2"
+26,Haíɫzaqvḷa,Haíɫzaqvḷa (Heiltsuk),ḷ,1,LATIN SMALL LETTER L WITH DOT BELOW,0x1e37,b'\xe1\xb8\xb7',3
+27,BC Sans,Haíɫzaqvḷa (Heiltsuk),m̩,2,"LATIN SMALL LETTER M, COMBINING VERTICAL LINE BELOW","0x6d, 0x329","b'm', b'\xcc\xa9'","1,2"
+27,Haíɫzaqvḷa,Haíɫzaqvḷa (Heiltsuk),ṃ,1,LATIN SMALL LETTER M WITH DOT BELOW,0x1e43,b'\xe1\xb9\x83',3
+28,BC Sans,Haíɫzaqvḷa (Heiltsuk),n̩,2,"LATIN SMALL LETTER N, COMBINING VERTICAL LINE BELOW","0x6e, 0x329","b'n', b'\xcc\xa9'","1,2"
+28,Haíɫzaqvḷa,Haíɫzaqvḷa (Heiltsuk),ṇ,1,LATIN SMALL LETTER N WITH DOT BELOW,0x1e47,b'\xe1\xb9\x87',3
+29,BC Sans,Haíɫzaqvḷa (Heiltsuk),p̓,2,"LATIN SMALL LETTER P, COMBINING COMMA ABOVE","0x70, 0x313","b'p', b'\xcc\x93'","1,2"
+29,Haíɫzaqvḷa,Haíɫzaqvḷa (Heiltsuk),p̓,2,"LATIN SMALL LETTER P, COMBINING COMMA ABOVE","0x70, 0x313","b'p', b'\xcc\x93'","1,2"
+30,BC Sans,Haíɫzaqvḷa (Heiltsuk),t̓,2,"LATIN SMALL LETTER T, COMBINING COMMA ABOVE","0x74, 0x313","b't', b'\xcc\x93'","1,2"
+30,Haíɫzaqvḷa,Haíɫzaqvḷa (Heiltsuk),t̓,2,"LATIN SMALL LETTER T, COMBINING COMMA ABOVE","0x74, 0x313","b't', b'\xcc\x93'","1,2"
+31,BC Sans,Haíɫzaqvḷa (Heiltsuk),a̓,2,"LATIN SMALL LETTER A, COMBINING COMMA ABOVE","0x61, 0x313","b'a', b'\xcc\x93'","1,2"
+31,Haíɫzaqvḷa,Haíɫzaqvḷa (Heiltsuk),a̓,2,"LATIN SMALL LETTER A, COMBINING COMMA ABOVE","0x61, 0x313","b'a', b'\xcc\x93'","1,2"
+32,BC Sans,Haíɫzaqvḷa (Heiltsuk),á,2,"LATIN SMALL LETTER A, COMBINING ACUTE ACCENT","0x61, 0x301","b'a', b'\xcc\x81'","1,2"
+32,Haíɫzaqvḷa,Haíɫzaqvḷa (Heiltsuk),á,2,"LATIN SMALL LETTER A, COMBINING ACUTE ACCENT","0x61, 0x301","b'a', b'\xcc\x81'","1,2"
+33,BC Sans,Haíɫzaqvḷa (Heiltsuk),à,2,"LATIN SMALL LETTER A, COMBINING GRAVE ACCENT","0x61, 0x300","b'a', b'\xcc\x80'","1,2"
+33,Haíɫzaqvḷa,Haíɫzaqvḷa (Heiltsuk),à,2,"LATIN SMALL LETTER A, COMBINING GRAVE ACCENT","0x61, 0x300","b'a', b'\xcc\x80'","1,2"
+34,BC Sans,Haíɫzaqvḷa (Heiltsuk),ú,2,"LATIN SMALL LETTER U, COMBINING ACUTE ACCENT","0x75, 0x301","b'u', b'\xcc\x81'","1,2"
+34,Haíɫzaqvḷa,Haíɫzaqvḷa (Heiltsuk),ú,1,LATIN SMALL LETTER U WITH ACUTE,0xfa,b'\xc3\xba',2
+35,BC Sans,Haíɫzaqvḷa (Heiltsuk),ù,2,"LATIN SMALL LETTER U, COMBINING GRAVE ACCENT","0x75, 0x300","b'u', b'\xcc\x80'","1,2"
+35,Haíɫzaqvḷa,Haíɫzaqvḷa (Heiltsuk),ù,2,"LATIN SMALL LETTER U, COMBINING GRAVE ACCENT","0x75, 0x300","b'u', b'\xcc\x80'","1,2"
+36,Plains Cree,,ᐣ,1,CANADIAN SYLLABICS FINAL RIGHT HALF RING,0x1423,b'\xe1\x90\xa3',3
+37,Plains Cree,,ᐁ,1,CANADIAN SYLLABICS E,0x1401,b'\xe1\x90\x81',3
+38,Plains Cree,,ᐦ,1,CANADIAN SYLLABICS FINAL DOUBLE SHORT VERTICAL STROKES,0x1426,b'\xe1\x90\xa6',3
+39,Plains Cree,,ᐃ,1,CANADIAN SYLLABICS I,0x1403,b'\xe1\x90\x83',3
+40,Plains Cree,,ᐩ,1,CANADIAN SYLLABICS FINAL PLUS,0x1429,b'\xe1\x90\xa9',3
+41,Plains Cree,,ᐊ,1,CANADIAN SYLLABICS A,0x140a,b'\xe1\x90\x8a',3
+42,Plains Cree,,ᐤ,1,CANADIAN SYLLABICS FINAL RING,0x1424,b'\xe1\x90\xa4',3
+43,Plains Cree,,ᐁ,1,CANADIAN SYLLABICS E,0x1401,b'\xe1\x90\x81',3
+44,Plains Cree,,ᐤ,1,CANADIAN SYLLABICS FINAL RING,0x1424,b'\xe1\x90\xa4',3
+45,Plains Cree,,ᐃ,1,CANADIAN SYLLABICS I,0x1403,b'\xe1\x90\x83',3
+46,Plains Cree,,ᐣ,1,CANADIAN SYLLABICS FINAL RIGHT HALF RING,0x1423,b'\xe1\x90\xa3',3
+47,Plains Cree,,ᑲ,1,CANADIAN SYLLABICS KA,0x1472,b'\xe1\x91\xb2',3
+48,Plains Cree,,ᑳ,1,CANADIAN SYLLABICS KAA,0x1473,b'\xe1\x91\xb3',3
+49,Plains Cree,,᙮,1,CANADIAN SYLLABICS FULL STOP,0x166e,b'\xe1\x99\xae',3
+50,Plains Cree,,‹,1,SINGLE LEFT-POINTING ANGLE QUOTATION MARK,0x2039,b'\xe2\x80\xb9',3
+51,Plains Cree,,›,1,SINGLE RIGHT-POINTING ANGLE QUOTATION MARK,0x203a,b'\xe2\x80\xba',3

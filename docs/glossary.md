@@ -44,21 +44,44 @@ A glyph is the visual representation of a[grapheme](#grapheme), as drawn using a
 
 A grapheme is the basic element of a language. In the English language, grapheme and character are synonymous; the letters a-z, A-Z, and the digits 0-9 are all graphemes. In other languages, though, a grapheme may correspond with a combination of two or more characters (or [code points](#code_point), in [Unicode](#unicode)). For example, in the name of the First Nations community Tk'emlúps te Secwe̓pemc, the grapheme "e̓" is a combination of the code points 'LATIN SMALL LETTER E' (code point 0065) and 'COMBINING COMMA ABOVE' (code point 0313).
 
-#### <a id="unicode_ready"> </a> Unicode-Ready
-
-An information system is Unicode-Ready if it is capable of ingesting, storing (as character data), and transmitting people, place, and business names that contain Unicode characters (including the Indigenous characters used in B.C. languages).
 
 #### <a id="latin1"> </a> iso-8859-1(aka Latin1)
 
 The iso-8859-1 encoding defines how characters in the 'Latin alphabet no. 1' character set are stored as binary numbers in [bytes](#byte) of data. There are 191 characters in this alphabet, consisting of the graphemes present in the languages used in western European countries (English, Italian, French. Spanish, German, etc.).
 
+#### <a id="normalization"> </a> Normalization
+
+From [Unicode® Standard Annex #15: Unicode Normalization Forms](https://unicode.org/reports/tr15/), "Unicode Normalization Forms are formally defined normalizations of Unicode strings which make it possible to determine whether any two Unicode strings are equivalent to each other. Depending on the particular Unicode Normalization Form, that equivalence can either be a canonical equivalence or a compatibility equivalence.
+
+Essentially, the Unicode Normalization Algorithm puts all combining marks in a specified order, and uses rules for decomposition and composition to transform each string into one of the Unicode Normalization Forms. A binary comparison of the transformed strings will then determine equivalence."
+
+#### <a id="NFC"> </a> NFC Normalization
+
+NFC is a Unicode normalization form where 2 or more Unicode characters are combined into fewer characters where possible. For example, NFC when applied to [LATIN SMALL LEVEL O](https://www.compart.com/en/unicode/U+006f), [COMBINING OGONEK](https://www.compart.com/en/unicode/U+0328), [COMBINING ACUTE ACCENT](https://www.compart.com/en/unicode/U+0301) will combine the first two characters into [LATIN SMALL LETTER O WITH OGONEK](https://www.compart.com/en/unicode/U+01eb)
+
+In other words, ǫ́ = o + ◌̨ + ◌́ = ǫ + ◌́ 
+
+#### <a id="NFD"> </a> NFD Normalization
+
+NFD is a Unicode normalization form where a grapheme is decomposed into its constituent Unicode characters. 
+
+For example, ǫ́ = o + ◌̨ + ◌́ 
+
 #### <a id="regex"> </a> Regular Expression
 
 As defined in Wikipedia, "A  **regular expression**  … is a sequence of [characters](https://en.wikipedia.org/wiki/Character_(computing)) that specifies a [match pattern](https://en.wikipedia.org/wiki/Pattern_matching) in [text](https://en.wikipedia.org/wiki/String_(computer_science)). Usually such patterns are used by [string-searching algorithms](https://en.wikipedia.org/wiki/String-searching_algorithm) for "find" or "find and replace" operations on [strings](https://en.wikipedia.org/wiki/String_(computer_science)), or for [input validation](https://en.wikipedia.org/wiki/Data_validation). "
 
+#### <a id="segmentation"> Segmentation
+
+From [Unicode® Standard Annex #29: Unicode Text Segmentation](https://unicode.org/reports/tr29/), "A string of Unicode-encoded text often needs to be broken up into text elements programmatically. Common examples of text elements include what users think of as characters, words, lines (more precisely, where line breaks are allowed), and sentences. The precise determination of text elements may vary according to orthographic conventions for a given script or language. The goal of matching user perceptions cannot always be met exactly because the text alone does not always contain enough information to unambiguously decide boundaries. For example, the period (U+002E FULL STOP) is used ambiguously, sometimes for end-of-sentence purposes, sometimes for abbreviations, and sometimes for numbers. In most cases, however, programmatic text boundaries can match user perceptions quite closely, although sometimes the best that can be done is not to surprise the user." The process of boundary termination is referred to as segmentation.
+
 #### <a id="unicode"> </a> Unicode
 
 Unicode is an internationally adopted character set with the potential to include every character present in any language that is used anywhere in the world, either currently or in the past. Since being introduced in the early 1990's, Unicode has gone through several revisions, with additional characters added every year. Unicode currently has approximately 150,000 characters, far more than what can encoded using one byte per character (as is done with the [ASCII](#ASCII), [iso-8859-1](#latin1), or [windows-1252](#windows1252). For this reason, Unicode has several multi-byte encoding options. The most popular of these encodings is [UTF-8](#utf8), which uses between 1 and 6 bytes per character.
+
+#### <a id="unicode_ready"> </a> Unicode-Ready
+
+An information system is Unicode-Ready if it is capable of ingesting, storing (as character data), and transmitting people, place, and business names that contain Unicode characters (including the Indigenous characters used in B.C. languages).
 
 #### <a id="utf8"> </a> UTF-8
 

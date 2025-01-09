@@ -30,7 +30,7 @@ WHERE PARAMETER IN ('NLS_COMP', 'NLS_SORT');
 ```
 NLS_COMP and NLS_SORT hold the collation rules for comparing character values and sorting character values, respectively.
 
-#### Version 12.2:
+#### Version 12.2 and newer:
 
 ```
 SELECT table_name,column_id,column_name,collation
@@ -39,7 +39,17 @@ WHERE table_name = 'YOUR_TABLE'
 ORDER BY column_id;
 ```
 
-As described in the parent [README.md](../README.md), for databases containing a mix of ASCII and Indigenous Language Unicode characters, the most appropriate collation rule to use is BINARY.
+### Linguistic Searching and Sorting
+
+The [Database Globalization Support Guide](https://docs.oracle.com/en/database/oracle/oracle-database/21/nlspg/linguistic-sorting-and-matching.html#GUID-B0971B89-63EF-409B-B14A-459B8211E764) provides information on setting NLS_SORT and NLS_COMP for Unicode sorting. The following snippet of code illustrates how to use a linguistic index tied to the Unicode Collation Algorithm. In the following, ``GRAPHEMES`` is a table with a single column ``grapheme`` containing Unicode graphemes.
+
+```
+ALTER SESSION SET NLS_SORT='UCA0700_ORADUCET';
+CREATE INDEX GRAPHEMES_i ON GRAPHEMES(NLSSORT(grapheme, 'NLS_SORT=UCA0700_ORADUCET'));
+SELECT * FROM GRAPHEMES WHERE grapheme > 'e'; -- doesn't use index
+ALTER SESSION SET NLS_COMP=LINGUISTIC;
+SELECT * FROM GRAPHEMES WHERE grapheme > 'e'; -- uses index
+```
 
 ### Comparing UTF-8 (VARCHAR2) with UTF-16 (NVARCHAR2) text strings
 The following code snippet illustrates comparing two text strings, both having the same characters, but one encoded in UTF-8 and the other in UTF-16. Viewed as characters the two strings are identical, even though their internal representations are different. The Oracle '=' test judges them as equal, which is good!

@@ -47,6 +47,11 @@ This section introduces the subject of data flow analysis, which can be used to 
 
 [Data Flow Analysis](data_flow_analysis/Readme.md)
 
+### Some Unicode Complexities
+This section introduces the concepts of Unicode Normalization, String Segmentation, and representing Unicode text using just ASCII.
+
+[Some Unicode complexities](comparing/README.md)
+
 ### How to Learn More
 
 #### Some excellent articles:
