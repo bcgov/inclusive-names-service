@@ -8,8 +8,17 @@
     "alternate": {
       "description": "Another name that the person is known by. This might be an alias, a nickname, former name, or a name that the person is also known as (aka).",
       "type": "object",
-      "required": [
-        "fullNameAlternate"
+      "anyOf": [
+         {
+           "required": [
+             "fullNameAlternate"
+           ]
+         },
+         {
+           "required": [
+            "lastNameAlternate"
+           ]
+         } 
       ],
       "properties": {
         "fullNameAlternate": {
@@ -73,8 +82,17 @@
     "former": {
       "description": "A name that the person has used in the past.",
       "type": "object",
-      "required": [
-        "fullNameFormer"
+      "anyOf": [
+         {
+           "required": [
+             "fullNameFormer"
+           ]
+         },
+         {
+           "required": [
+            "lastNameFormer"
+           ]
+         } 
       ],
       "properties": {
         "fullNameFormer": {
@@ -138,8 +156,17 @@
     "legal": {
       "description": "A name that identifies the person for legal, administrative and other official purposes. A person’s legal name will usually be the one that is found on foundational data sources (e.g., birth certificate)",
       "type": "object",
-      "required": [
-        "fullNameLegal"
+      "anyOf": [
+         {
+           "required": [
+             "fullNameLegal"
+           ]
+         },
+         {
+           "required": [
+            "lastNameLegal"
+           ]
+         } 
       ],
       "properties": {
         "fullNameLegal": {
@@ -203,8 +230,17 @@
     "preferred": {
       "description": "Name by which a person prefers to be addressed.",
       "type": "object",
-      "required": [
-        "fullNamePreferred"
+      "anyOf": [
+         {
+           "required": [
+             "fullNamePreferred"
+           ]
+         },
+         {
+           "required": [
+            "lastNamePreferred"
+           ]
+         } 
       ],
       "properties": {
         "fullNamePreferred": {
@@ -268,8 +304,17 @@
     "restrictedAlphabet": {
       "description": "A version of the legal name that uses a restricted set of characters, e.g., ASCII, Windows-1252, upper-case A-Z",
       "type": "object",
-      "required": [
-        "fullNameRestrictedAlphabet"
+      "anyOf": [
+         {
+           "required": [
+             "fullNameRestrictedAlphabet"
+           ]
+         },
+         {
+           "required": [
+            "lastNameRestrictedAlphabet"
+           ]
+         } 
       ],
       "properties": {
         "fullNameRestrictedAlphabet": {
