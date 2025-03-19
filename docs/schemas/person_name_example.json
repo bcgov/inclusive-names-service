@@ -1,18 +1,13 @@
-
-  legal: {fullNameLegal:"Ms. Pesk'a At̕łi Yola , M.D.",
+{
+  legal: {fullNameLegal:"Pesk'a At̕łi Yola",
           firstNameLegal:"Pesk'a",
           givenNamesLegal:"Pesk'a At̕łi",
           lastNameLegal:"Yola",
-          middleNamesLegal:"At̕łi",
-          titleLegal:"Ms",
-          suffixLegal:"M.D."
+          middleNamesLegal:"At̕łi"
           },
-  restrictedAlphabet:{fullNameRestrictedAlphabet:"Ms. Pesk'a Atli Yola , M.D.",
-          firstNameRestrictedAlphabet:"Pesk'a",
-          givenNamesRestrictedAlphabet:"Pesk'a Atli",
-          lastNameRestrictedAlphabet:"Yola",
-          middleNamesRestrictedAlphabet:"Atli",
-          titleRestrictedAlphabet:"Ms",
-          suffixRestrictedAlphabet:"M.D."
+  preferred:{fullNamePreferred:"Atli Yola , M.D.",
+          firstNamePreferred:"Atli",
+          givenNamesPreferred:"Atli",
+          lastNamePreferred:"Yola"         
           }
 }
