@@ -1,0 +1,4 @@
+XML validator: https://www.freeformatter.com/xml-validator-xsd.html
+JSON validator: https://www.jsonschemavalidator.net/
+JSON Schema to XSD: https://www.convertsimple.com/convert-json-schema-to-xsd/
+JSON to XML: https://www.convertjson.com/json-to-xml.htm

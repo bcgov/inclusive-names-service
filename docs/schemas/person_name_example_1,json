@@ -1,0 +1,13 @@
+{
+  legal: {fullNameLegal:"Pesk'a At̕łi Yola",
+          firstNameLegal:"Pesk'a",
+          givenNamesLegal:"Pesk'a At̕łi",
+          lastNameLegal:"Yola",
+          middleNamesLegal:"At̕łi"
+          },
+  alias: {fullNameAlias:"Atli Yola , M.D.",
+          firstNameAlias:"Atli",
+          givenNamesAlias:"Atli",
+          lastNameAlias:"Yola"         
+          }
+}

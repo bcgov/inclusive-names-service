@@ -1,0 +1,16 @@
+{
+
+  legal: {fullNameLegal:"Michael Stuart David Dunham-Wilkie",
+          firstNameLegal:"Michael",
+          givenNamesLegal:"Michael Stuart David",
+          lastNameLegal:"Dunham-Wilkie",
+          middleNamesLegal:"Stuart David"
+          },
+  preferred:{fullNamePreferred:"Mike Dunham-Wilkie",
+          firstNamePreferred:"Mike"
+          },
+  previous:{fullNamePrevious:"Michael Stuart David Wilkie",
+          firstNamePrevious:"Michael",
+          lastNamePrevious:"Wilkie"         
+          }
+}
