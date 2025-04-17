@@ -66,6 +66,7 @@ nav:
             - CSV/Excel: file_formats/csv_excel/csv.md
             - DBF: file_formats/dbf/README.md
     -   Mainframe Systems: mainframe_systems/Readme.md
+    -   Schemas: schemas/Readme.md
     -   Web Servers and Web Pages: web_servers_and_web_pages/Readme.md
     -   COTS Products:
             -   Unicode and COTS: cots/Readme.md
