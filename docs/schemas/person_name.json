@@ -8,6 +8,7 @@
     "alias": {
       "description": "Another name that the person is known by. This might be a nickname, former name, or a name that the person is also known as (aka).",
       "type": "object",
+      "unevaluatedProperties": false,
       "anyOf": [
          {
            "required": [
@@ -40,17 +41,13 @@
 		"middleNamesAlias": {
           "$ref": "#/$defs/NameValue",
           "description": "Middle or additional names supplied between the First name and Last name, separated by spaces "
-<<<<<<< HEAD
         }
-=======
-        },
-
->>>>>>> 67eff3918621d350369db1b49d384e829516bf8c
      }
     },
     "previous": {
       "description": "A name that the person has used in the past.",
       "type": "object",
+      "unevaluatedProperties": false,
       "anyOf": [
          {
            "required": [
@@ -83,16 +80,13 @@
         "middleNamesPrevious": {
           "$ref": "#/$defs/NameValue",
           "description": "Middle or additional names supplied between the First name and Last name, separated by spaces "
-<<<<<<< HEAD
         }
-=======
-        },
->>>>>>> 67eff3918621d350369db1b49d384e829516bf8c
       }
     },
     "legal": {
       "description": "A name that identifies the person for legal, administrative and other official purposes. A person’s legal name will usually be the one that is found on foundational data sources (e.g., birth certificate)",
       "type": "object",
+      "unevaluatedProperties": false,
       "anyOf": [
          {
            "required": [
@@ -125,16 +119,13 @@
         "middleNamesLegal": {
           "$ref": "#/$defs/NameValue",
           "description": "Middle or additional names supplied between the First name and Last name, separated by spaces "
-<<<<<<< HEAD
         }
-=======
-        },
->>>>>>> 67eff3918621d350369db1b49d384e829516bf8c
       }
     },
     "preferred": {
       "description": "The name by which a person prefers to be addressed. This could be either the legal name or an alias.",
       "type": "object",
+      "unevaluatedProperties": false,
       "anyOf": [
          {
            "required": [
@@ -167,68 +158,23 @@
         "middleNamesPreferred": {
           "$ref": "#/$defs/NameValue",
           "description": "Middle or additional names supplied between the First name and Last name, separated by spaces "
-<<<<<<< HEAD
         }
-=======
-        },
->>>>>>> 67eff3918621d350369db1b49d384e829516bf8c
-      }
-    },
-    "assumed": {
-      "description": "After marriage, a person can assume their spouse’s last name. Note that in B.C. this is not a legal change of name; it is considered a legal assumption of name under the B.C. Name Act.",
-      "type": "object",
-      "anyOf": [
-         {
-           "required": [
-             "fullNameAssumed"
-           ]
-         },
-         {
-           "required": [
-            "lastNameAssumed"
-           ]
-         } 
-      ],
-      "properties": {
-        "fullNameAssumed": {
-          "$ref": "#/$defs/NameValue",
-          "description": "The full name of the person"
-        },
-        "firstNameAssumed": {
-          "$ref": "#/$defs/NameValue",
-          "description": "The first name of the person; this may consist of more than one word "
-        },
-        "givenNamesAssumed": {
-          "$ref": "#/$defs/NameValue",
-          "description": "The parts of the full name that preceed the last name"
-        },
-        "lastNameAssumed": {
-          "$ref": "#/$defs/NameValue",
-          "description": "The last name of the person; this may consist of more than one word "
-        },
-        "middleNamesAssumed": {
-          "$ref": "#/$defs/NameValue",
-          "description": "Middle or additional names supplied between the First name and Last name, separated by spaces "
-<<<<<<< HEAD
-        }
-=======
-        },
->>>>>>> 67eff3918621d350369db1b49d384e829516bf8c
       }
     }
   },
+  "uniqueItems": true,
   "$comment": "must not include any other properties",
   "unevaluatedProperties": false,
   "$comment": "and must have at least one type of name",
   "anyOf": [
     {
       "required": [
-        "alternate"
+        "alias"
       ]
     },
     {
       "required": [
-        "former"
+        "previous"
       ]
     },
     {
@@ -239,11 +185,6 @@
     {
       "required": [
         "preferred"
-      ]
-    },
-    {
-      "required": [
-        "restrictedAlphabet"
       ]
     }
   ],
