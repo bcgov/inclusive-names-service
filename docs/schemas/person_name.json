@@ -7,42 +7,45 @@
   "properties": {
     "alias": {
       "description": "Another name that the person is known by. This might be a nickname, former name, or a name that the person is also known as (aka).",
-      "type": "object",
-      "unevaluatedProperties": false,
-      "anyOf": [
-         {
-           "required": [
-             "fullNameAlias"
-           ]
-         },
-         {
-           "required": [
-            "lastNameAlias"
-           ]
-         } 
-      ],
-      "properties": {
-        "fullNameAlias": {
-          "$ref": "#/$defs/NameValue",
-          "description": "The full name of the person"
-        },
-        "firstNameAlias": {
-          "$ref": "#/$defs/NameValue",
-          "description": "The first name of the person; this may consist of more than one word "
-        },
-        "givenNamesAlias": {
-          "$ref": "#/$defs/NameValue",
-          "description": "The parts of the full name that preceed the last name"
-        },
-        "lastNameAlias": {
-          "$ref": "#/$defs/NameValue",
-          "description": "The last name of the person; this may consist of more than one word "
-        },
-		"middleNamesAlias": {
-          "$ref": "#/$defs/NameValue",
-          "description": "Middle or additional names supplied between the First name and Last name, separated by spaces "
-        }
-     }
+      "type": "array",
+      "items": {
+        "type": "object",
+        "unevaluatedProperties": false,
+        "anyOf": [
+           {
+             "required": [
+               "fullNameAlias"
+             ]
+           },
+           {
+             "required": [
+              "lastNameAlias"
+             ]
+           } 
+        ],
+        "properties": {
+          "fullNameAlias": {
+            "$ref": "#/$defs/NameValue",
+            "description": "The full name of the person"
+          },
+          "firstNameAlias": {
+            "$ref": "#/$defs/NameValue",
+            "description": "The first name of the person; this may consist of more than one word "
+          },
+          "givenNamesAlias": {
+            "$ref": "#/$defs/NameValue",
+            "description": "The parts of the full name that preceed the last name"
+          },
+          "lastNameAlias": {
+            "$ref": "#/$defs/NameValue",
+            "description": "The last name of the person; this may consist of more than one word "
+          },
+          "middleNamesAlias": {
+            "$ref": "#/$defs/NameValue",
+            "description": "Middle or additional names supplied between the First name and Last name, separated by spaces "
+	  }
+	}
+      }
     },
     "previous": {
       "description": "A name that the person has used in the past.",
