@@ -5,9 +5,10 @@
           lastNameLegal:"Yola",
           middleNamesLegal:"At̕łi"
           },
-  alias: {fullNameAlias:"Atli Yola , M.D.",
+  alias: [{fullNameAlias:"Atli Yola , M.D.",
           firstNameAlias:"Atli",
           givenNamesAlias:"Atli",
           lastNameAlias:"Yola"         
-          }
+          },
+          {fullNameAlias:"Pesk'a Yola"}]
 }
