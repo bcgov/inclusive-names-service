@@ -9,8 +9,8 @@
   preferred:{fullNamePreferred:"Mike Dunham-Wilkie",
           firstNamePreferred:"Mike"
           },
-  previous:{fullNamePrevious:"Michael Stuart David Wilkie",
+  previous:[{fullNamePrevious:"Michael Stuart David Wilkie",
           firstNamePrevious:"Michael",
           lastNamePrevious:"Wilkie"         
-          }
+          }]
 }
