@@ -12,33 +12,33 @@
       "anyOf": [
          {
            "required": [
-             "fullNameAlias"
+             "pnFullNameAlias"
            ]
          },
          {
            "required": [
-            "lastNameAlias"
+            "pnLastNameAlias"
            ]
          } 
       ],
       "properties": {
-        "fullNameAlias": {
+        "pnFullNameAlias": {
           "$ref": "#/$defs/NameValue",
           "description": "The full name of the person"
         },
-        "firstNameAlias": {
+        "pnFirstNameAlias": {
           "$ref": "#/$defs/NameValue",
           "description": "The first name of the person; this may consist of more than one word "
         },
-        "givenNamesAlias": {
+        "pnGivenNamesAlias": {
           "$ref": "#/$defs/NameValue",
           "description": "The parts of the full name that preceed the last name"
         },
-        "lastNameAlias": {
+        "pnLastNameAlias": {
           "$ref": "#/$defs/NameValue",
           "description": "The last name of the person; this may consist of more than one word "
         },
-		"middleNamesAlias": {
+		"pnMiddleNamesAlias": {
           "$ref": "#/$defs/NameValue",
           "description": "Middle or additional names supplied between the First name and Last name, separated by spaces "
         }
@@ -51,72 +51,111 @@
       "anyOf": [
          {
            "required": [
-             "fullNamePrevious"
+             "pnFullNamePrevious"
            ]
          },
          {
            "required": [
-            "lastNamePrevious"
+            "pnLastNamePrevious"
            ]
          } 
       ],
       "properties": {
-        "fullNamePrevious": {
+        "pnFullNamePrevious": {
           "$ref": "#/$defs/NameValue",
           "description": "The full name of the person"
         },
-        "firstNamePrevious": {
+        "pnFirstNamePrevious": {
           "$ref": "#/$defs/NameValue",
           "description": "The first name of the person; this may consist of more than one word "
         },
-        "givenNamesPrevious": {
+        "pnGivenNamesPrevious": {
           "$ref": "#/$defs/NameValue",
           "description": "The parts of the full name that preceed the last name"
         },
-        "lastNamePrevious": {
+        "pnLastNamePrevious": {
           "$ref": "#/$defs/NameValue",
           "description": "The last name of the person; this may consist of more than one word "
         },
-        "middleNamesPrevious": {
+        "pnMiddleNamesPrevious": {
           "$ref": "#/$defs/NameValue",
           "description": "Middle or additional names supplied between the First name and Last name, separated by spaces "
         }
       }
     },
     "legal": {
-      "description": "A name that identifies the person for legal, administrative and other official purposes. A person’s legal name will usually be the one that is found on foundational data sources (e.g., birth certificate)",
+      "description": "A name that identifies the person for legal, administrative and other official purposes. A person’s legal name will usually be the one that is found on foundational data sources (e.g., birth certificate). To support data exchange with non-Unicode downstream systems, the legal name characters are restricted to A-Z, a-Z, quote, space, and dash",
       "type": "object",
       "unevaluatedProperties": false,
       "anyOf": [
          {
            "required": [
-             "fullNameLegal"
+             "pnFullNameLegal"
            ]
          },
          {
            "required": [
-            "lastNameLegal"
+            "pnLastNameLegal"
            ]
          } 
       ],
       "properties": {
-        "fullNameLegal": {
+        "pnFullNameLegal": {
           "$ref": "#/$defs/NameValue",
           "description": "The full name of the person"
         },
-        "firstNameLegal": {
+        "pnFirstNameLegal": {
           "$ref": "#/$defs/NameValue",
           "description": "The first name of the person; this may consist of more than one word "
         },
-        "givenNamesLegal": {
+        "pnGivenNamesLegal": {
           "$ref": "#/$defs/NameValue",
           "description": "The parts of the full name that preceed the last name"
         },
-        "lastNameLegal": {
+        "pnLastNameLegal": {
           "$ref": "#/$defs/NameValue",
           "description": "The last name of the person; this may consist of more than one word "
         },
-        "middleNamesLegal": {
+        "pnMiddleNamesLegal": {
+          "$ref": "#/$defs/NameValue",
+          "description": "Middle or additional names supplied between the First name and Last name, separated by spaces "
+        }
+      },
+	},
+    "wholelegal": {
+      "description": "A name that identifies the person for legal, administrative and other official purposes. This person name type is used for people with Indigenous language names, possibly containing Unicode characters not found in ASCII. ",
+      "type": "object",
+      "unevaluatedProperties": false,
+      "anyOf": [
+         {
+           "required": [
+             "pnFullNameWholeLegal"
+           ]
+         },
+         {
+           "required": [
+            "pnLastNameWholeLegal"
+           ]
+         } 
+      ],
+      "properties": {
+        "pnFullNameWholeLegal": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The full name of the person"
+        },
+        "pnFirstNameWholeLegal": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The first name of the person; this may consist of more than one word "
+        },
+        "pnGivenNamesWholeLegal": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The parts of the full name that preceed the last name"
+        },
+        "pnLastNameWholeLegal": {
+          "$ref": "#/$defs/NameValue",
+          "description": "The last name of the person; this may consist of more than one word "
+        },
+        "pnMiddleNamesWholeLegal": {
           "$ref": "#/$defs/NameValue",
           "description": "Middle or additional names supplied between the First name and Last name, separated by spaces "
         }
@@ -129,35 +168,23 @@
       "anyOf": [
          {
            "required": [
-             "fullNamePreferred"
+             "pnFullNamePreferred"
            ]
          },
          {
            "required": [
-            "lastNamePreferred"
+            "pnFirstNamePreferred"
            ]
          } 
       ],
       "properties": {
-        "fullNamePreferred": {
+        "pnFullNamePreferred": {
           "$ref": "#/$defs/NameValue",
           "description": "The full name of the person"
         },
-        "firstNamePreferred": {
+        "pnFirstNamePreferred": {
           "$ref": "#/$defs/NameValue",
           "description": "The first name of the person; this may consist of more than one word "
-        },
-        "givenNamesPreferred": {
-          "$ref": "#/$defs/NameValue",
-          "description": "The parts of the full name that preceed the last name"
-        },
-        "lastNamePreferred": {
-          "$ref": "#/$defs/NameValue",
-          "description": "The last name of the person; this may consist of more than one word "
-        },
-        "middleNamesPreferred": {
-          "$ref": "#/$defs/NameValue",
-          "description": "Middle or additional names supplied between the First name and Last name, separated by spaces "
         }
       }
     }
@@ -186,12 +213,17 @@
       "required": [
         "preferred"
       ]
+    },
+     {
+      "required": [
+        "wholelegal"
+      ]
     }
-  ],
+ ],
   "$defs": {
     "NameValue": {
       "type": "string",
-      "maxLength": 100
+      "maxLength": 200
     },
     "ShortNameValue": {
       "type": "string",

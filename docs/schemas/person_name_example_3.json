@@ -1,0 +1,13 @@
+{
+  wholelegal: {pnFullNameWholeLegal:"stáʔləw George",
+          pnFirstNameWholeLegal:"stáʔləw",
+          pnLastNameWholeLegal:"George"
+          },
+  legal: {pnFullNameLegal:"Stahlo George",
+          pnFirstNameLegal:"Stahlo",
+          pnLastNamesLegal:"George"
+         },
+  preferred:{pnFullNamePreferred:"stáʔləw",
+          pnFirstNamePreferred:"stáʔləw"
+          }
+}

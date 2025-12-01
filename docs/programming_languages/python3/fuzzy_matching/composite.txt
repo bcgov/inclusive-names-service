@@ -1,0 +1,444 @@
+original:AA TLEIN TEIX’I
+NFKD:AA TLEIN TEIX’I
+anyascii:AA TLEIN TEIX'I
+metaphone:ATLNTKSKS
+unicode string\u0041\u0041\u0020\u0054\u004c\u0045\u0049\u004e\u0020\u0054\u0045\u0049\u0058\u2019\u0049\u000a
+
+original:A XÉEGI DEIYI
+NFKD:A XÉEGI DEIYI
+anyascii:A XEEGI DEIYI
+metaphone:AKSJT
+unicode string\u0041\u0020\u0058\u0045\u0301\u0045\u0047\u0049\u0020\u0044\u0045\u0049\u0059\u0049\u000a
+
+original:BANKS NII ŁUUTIKSM
+NFKD:BANKS NII ŁUUTIKSM
+anyascii:BANKS NII LUUTIKSM
+metaphone:PNKSNTKSMM
+unicode string\u0042\u0041\u004e\u004b\u0053\u0020\u004e\u0049\u0049\u0020\u0141\u0055\u0055\u0054\u0049\u004b\u0053\u004d\u000a
+
+original:HAKAI LÚXVBÁLÍS
+NFKD:HAKAI LÚXVBÁLÍS
+anyascii:HAKAI LUXVBALIS
+metaphone:HKLKSFPLSS
+unicode string\u0048\u0041\u004b\u0041\u0049\u0020\u004c\u0055\u0301\u0058\u0056\u0042\u0041\u0301\u004c\u0049\u0301\u0053\u000a
+
+original:HƎNʎƎMDZI MƎKOLA
+NFKD:HƎNʎƎMDZI MƎKOLA
+anyascii:HENyEMDZI MEKOLA
+metaphone:NNNMTSMMKL
+unicode string\u0048\u018e\u004e\u028e\u018e\u004d\u0044\u005a\u0049\u0020\u004d\u018e\u004b\u004f\u004c\u0041\u000a
+
+original:JÁJI7EM
+NFKD:JÁJI7EM
+anyascii:JAJI7EM
+metaphone:JJMM
+unicode string\u004a\u0041\u0301\u004a\u0049\u0037\u0045\u004d\u000a
+
+original:K'IYÁN
+NFKD:K'IYÁN
+anyascii:K'IYAN
+metaphone:KKNN
+unicode string\u004b\u0027\u0049\u0059\u0041\u0301\u004e\u000a
+
+original:KÓḺII7
+NFKD:KÓḺII7
+anyascii:KOLII7
+metaphone:KL
+unicode string\u004b\u004f\u0301\u004c\u0331\u0049\u0049\u0037\u000a
+
+original:K'ZUZÁLT
+NFKD:K'ZUZÁLT
+anyascii:K'ZUZALT
+metaphone:KKSSLTT
+unicode string\u004b\u0027\u005a\u0055\u005a\u0041\u0301\u004c\u0054\u000a
+
+original:ȽÁU,WELṈEW̱
+NFKD:ȽÁU,WELṈEW̱
+anyascii:LAU,WELNEW
+metaphone:LN
+unicode string\u023d\u0041\u0301\u0055\u002c\u0057\u0045\u004c\u004e\u0331\u0045\u0057\u0331\u000a
+
+original:ƛƏX̌ƏʷƏYƏM
+NFKD:ƛƏX̌ƏwƏYƏM
+anyascii:lEXEwEYEM
+metaphone:KSKSKSKSMM
+unicode string\u019b\u018f\u0058\u030c\u018f\u0077\u018f\u0059\u018f\u004d\u000a
+
+original:NE'ĀH'
+NFKD:NE'ĀH'
+anyascii:NE'AH'
+metaphone:N
+unicode string\u004e\u0045\u0027\u0041\u0304\u0048\u0027\u000a
+
+original:NEĞIƛ
+NFKD:NEĞIƛ
+anyascii:NEGIl
+metaphone:NJJ
+unicode string\u004e\u0045\u0047\u0306\u0049\u019b\u000a
+
+original:NENIKË​KH
+NFKD:NENIKË​KH
+anyascii:NENIKEKH
+metaphone:NNKK
+unicode string\u004e\u0045\u004e\u0049\u004b\u0045\u0308\u200b\u004b\u0048\u000a
+
+original:NLHÁXTEN
+NFKD:NLHÁXTEN
+anyascii:NLHAXTEN
+metaphone:NLKSTNN
+unicode string\u004e\u004c\u0048\u0041\u0301\u0058\u0054\u0045\u004e\u000a
+
+original:PAŁƎMIN
+NFKD:PAŁƎMIN
+anyascii:PALEMIN
+metaphone:PMNN
+unicode string\u0050\u0041\u0141\u018e\u004d\u0049\u004e\u000a
+
+original:QUDƎS
+NFKD:QUDƎS
+anyascii:QUDES
+metaphone:KTTSS
+unicode string\u0051\u0055\u0044\u018e\u0053\u000a
+
+original:QWALÍMAK
+NFKD:QWALÍMAK
+anyascii:QWALIMAK
+metaphone:KLMKK
+unicode string\u0051\u0057\u0041\u004c\u0049\u0301\u004d\u0041\u004b\u000a
+
+original:SGAAY TAW SIIWAAY K’ADJUU
+NFKD:SGAAY TAW SIIWAAY K’ADJUU
+anyascii:SGAAY TAW SIIWAAY K'ADJUU
+metaphone:SKTSKKTJ
+unicode string\u0053\u0047\u0041\u0041\u0059\u0020\u0054\u0041\u0057\u0020\u0053\u0049\u0049\u0057\u0041\u0041\u0059\u0020\u004b\u2019\u0041\u0044\u004a\u0055\u0055\u000a
+
+original:SÍT' HÉENI
+NFKD:SÍT' HÉENI
+anyascii:SIT' HEENI
+metaphone:STTN
+unicode string\u0053\u0049\u0301\u0054\u0027\u0020\u0048\u0045\u0301\u0045\u004e\u0049\u000a
+
+original:SẀIẀS
+NFKD:SẀIẀS
+anyascii:SWIWS
+metaphone:SSS
+unicode string\u0053\u0057\u0300\u0049\u0057\u0300\u0053\u000a
+
+original:SX̱ÓTSAQEL
+NFKD:SX̱ÓTSAQEL
+anyascii:SXOTSAQEL
+metaphone:SKSTSKLL
+unicode string\u0053\u0058\u0331\u004f\u0301\u0054\u0053\u0041\u0051\u0045\u004c\u000a
+
+original:T'AḴÚ TÉIX̱'
+NFKD:T'AḴÚ TÉIX̱'
+anyascii:T'AKU TEIX'
+metaphone:TTKTKSKSKS
+unicode string\u0054\u0027\u0041\u004b\u0331\u0055\u0301\u0020\u0054\u0045\u0301\u0049\u0058\u0331\u0027\u000a
+
+original:T'OOCH' ÁAYI
+NFKD:T'OOCH' ÁAYI
+anyascii:T'OOCH' AAYI
+metaphone:TTXX
+unicode string\u0054\u0027\u004f\u004f\u0043\u0048\u0027\u0020\u0041\u0301\u0041\u0059\u0049\u000a
+
+original:TSA-LATĹ
+NFKD:TSA-LATĹ
+anyascii:TSA-LATL
+metaphone:TSLTLL
+unicode string\u0054\u0053\u0041\u002d\u004c\u0041\u0054\u004c\u0301\u000a
+
+original:TSÚTSWECW
+NFKD:TSÚTSWECW
+anyascii:TSUTSWECW
+metaphone:TSTSK
+unicode string\u0054\u0053\u0055\u0301\u0054\u0053\u0057\u0045\u0043\u0057\u000a
+
+original:UGʷIWA'
+NFKD:UGwIWA'
+anyascii:UGwIWA'
+metaphone:AKK
+unicode string\u0055\u0047\u0077\u0049\u0057\u0041\u0027\u000a
+
+original:ẀAẀAƛ
+NFKD:ẀAẀAƛ
+anyascii:WAWAl
+metaphone:A
+unicode string\u0057\u0300\u0041\u0057\u0300\u0041\u019b\u000a
+
+original:ẀAẀLEY
+NFKD:ẀAẀLEY
+anyascii:WAWLEY
+metaphone:AL
+unicode string\u0057\u0300\u0041\u0057\u0300\u004c\u0045\u0059\u000a
+
+original:X̱ÁAT YÁDI AANI
+NFKD:X̱ÁAT YÁDI AANI
+anyascii:XAAT YADI AANI
+metaphone:STTN
+unicode string\u0058\u0331\u0041\u0301\u0041\u0054\u0020\u0059\u0041\u0301\u0044\u0049\u0020\u0041\u0041\u004e\u0049\u000a
+
+original:XʷAKʷƏᕈNAXDƏᕈMA
+NFKD:XwAKwƏᕈNAXDƏᕈMA
+anyascii:XwAKwEroNAXDEroMA
+metaphone:SKKKKNKSTTTM
+unicode string\u0058\u0077\u0041\u004b\u0077\u018f\u1548\u004e\u0041\u0058\u0044\u018f\u1548\u004d\u0041\u000a
+
+original:YÁWU YAA
+NFKD:YÁWU YAA
+anyascii:YAWU YAA
+metaphone:A
+unicode string\u0059\u0041\u0301\u0057\u0055\u0020\u0059\u0041\u0041\u000a
+
+original:ɁNACINUXʷ
+NFKD:ɁNACINUXw
+anyascii:'NACINUXw
+metaphone:NSNKSKSKS
+unicode string\u0241\u004e\u0041\u0043\u0049\u004e\u0055\u0058\u0077\u000a
+
+original:
+NFKD:
+anyascii:
+metaphone:
+unicode string\u000a
+
+original:A TÉIX'GI AAN TLEIN
+NFKD:A TÉIX'GI AAN TLEIN
+anyascii:A TEIX'GI AAN TLEIN
+metaphone:ATKSKSJNTLNN
+unicode string\u0041\u0020\u0054\u0045\u0301\u0049\u0058\u0027\u0047\u0049\u0020\u0041\u0041\u004e\u0020\u0054\u004c\u0045\u0049\u004e\u000a
+
+original:A XÉEGI DEIYI 
+NFKD:A XÉEGI DEIYI 
+anyascii:A XEEGI DEIYI 
+metaphone:AKSJT
+unicode string\u0041\u0020\u0058\u0045\u0301\u0045\u0047\u0049\u0020\u0044\u0045\u0049\u0059\u0049\u0020\u000a
+
+original:BANKS NII ŁUUTIKSM
+NFKD:BANKS NII ŁUUTIKSM
+anyascii:BANKS NII LUUTIKSM
+metaphone:PNKSNTKSMM
+unicode string\u0042\u0041\u004e\u004b\u0053\u0020\u004e\u0049\u0049\u0020\u0141\u0055\u0055\u0054\u0049\u004b\u0053\u004d\u000a
+
+original:HAKAI LÚXVBÁLÍS
+NFKD:HAKAI LÚXVBÁLÍS
+anyascii:HAKAI LUXVBALIS
+metaphone:HKLKSFPLSS
+unicode string\u0048\u0041\u004b\u0041\u0049\u0020\u004c\u0055\u0301\u0058\u0056\u0042\u0041\u0301\u004c\u0049\u0301\u0053\u000a
+
+original:HƏNʎƏMDᶻI MƏKOLA
+NFKD:HƏNʎƏMDzI MƏKOLA
+anyascii:HENyEMDzI MEKOLA
+metaphone:NNNMTTMMKL
+unicode string\u0048\u018f\u004e\u028e\u018f\u004d\u0044\u007a\u0049\u0020\u004d\u018f\u004b\u004f\u004c\u0041\u000a
+
+original:JÁJI7EM
+NFKD:JÁJI7EM
+anyascii:JAJI7EM
+metaphone:JJMM
+unicode string\u004a\u0041\u0301\u004a\u0049\u0037\u0045\u004d\u000a
+
+original:K'IYÁN
+NFKD:K'IYÁN
+anyascii:K'IYAN
+metaphone:KKNN
+unicode string\u004b\u0027\u0049\u0059\u0041\u0301\u004e\u000a
+
+original:KÓLII7
+NFKD:KÓLII7
+anyascii:KOLII7
+metaphone:KL
+unicode string\u004b\u004f\u0301\u004c\u0049\u0049\u0037\u000a
+
+original:K'ZUZÁLT
+NFKD:K'ZUZÁLT
+anyascii:K'ZUZALT
+metaphone:KKSSLTT
+unicode string\u004b\u0027\u005a\u0055\u005a\u0041\u0301\u004c\u0054\u000a
+
+original:ȽÁUˌWELṈEW̱
+NFKD:ȽÁUˌWELṈEW̱
+anyascii:LAU,WELNEW
+metaphone:LN
+unicode string\u023d\u0041\u0301\u0055\u02cc\u0057\u0045\u004c\u004e\u0331\u0045\u0057\u0331\u000a
+
+original:ƛƏX̌ƏʷƏYƏM
+NFKD:ƛƏX̌ƏwƏYƏM
+anyascii:lEXEwEYEM
+metaphone:KSKSKSKSMM
+unicode string\u019b\u018f\u0058\u030c\u018f\u0077\u018f\u0059\u018f\u004d\u000a
+
+original:NE'ĀH'
+NFKD:NE'ĀH'
+anyascii:NE'AH'
+metaphone:N
+unicode string\u004e\u0045\u0027\u0041\u0304\u0048\u0027\u000a
+
+original:NEǦIƛ
+NFKD:NEǦIƛ
+anyascii:NEGIl
+metaphone:NJJ
+unicode string\u004e\u0045\u0047\u030c\u0049\u019b\u000a
+
+original:NENEIKËKH
+NFKD:NENEIKËKH
+anyascii:NENEIKEKH
+metaphone:NNKK
+unicode string\u004e\u0045\u004e\u0045\u0049\u004b\u0045\u0308\u004b\u0048\u000a
+
+original:NLHÁXTEN
+NFKD:NLHÁXTEN
+anyascii:NLHAXTEN
+metaphone:NLKSTNN
+unicode string\u004e\u004c\u0048\u0041\u0301\u0058\u0054\u0045\u004e\u000a
+
+original:PAŁƏMIN
+NFKD:PAŁƏMIN
+anyascii:PALEMIN
+metaphone:PMNN
+unicode string\u0050\u0041\u0141\u018f\u004d\u0049\u004e\u000a
+
+original:QUDƎS
+NFKD:QUDƎS
+anyascii:QUDES
+metaphone:KTTSS
+unicode string\u0051\u0055\u0044\u018e\u0053\u000a
+
+original:QWALÍMAK
+NFKD:QWALÍMAK
+anyascii:QWALIMAK
+metaphone:KLMKK
+unicode string\u0051\u0057\u0041\u004c\u0049\u0301\u004d\u0041\u004b\u000a
+
+original:SG̱AAY TAW SIIWAAY K'ADJUU
+NFKD:SG̱AAY TAW SIIWAAY K'ADJUU
+anyascii:SGAAY TAW SIIWAAY K'ADJUU
+metaphone:SKTSKKTJ
+unicode string\u0053\u0047\u0331\u0041\u0041\u0059\u0020\u0054\u0041\u0057\u0020\u0053\u0049\u0049\u0057\u0041\u0041\u0059\u0020\u004b\u0027\u0041\u0044\u004a\u0055\u0055\u000a
+
+original:SÍT' HÉENI
+NFKD:SÍT' HÉENI
+anyascii:SIT' HEENI
+metaphone:STTN
+unicode string\u0053\u0049\u0301\u0054\u0027\u0020\u0048\u0045\u0301\u0045\u004e\u0049\u000a
+
+original:SẀIẀS
+NFKD:SẀIẀS
+anyascii:SWIWS
+metaphone:SSS
+unicode string\u0053\u0057\u0300\u0049\u0057\u0300\u0053\u000a
+
+original:SX̱ÓTSAQE
+NFKD:SX̱ÓTSAQE
+anyascii:SXOTSAQE
+metaphone:SKSTSK
+unicode string\u0053\u0058\u0331\u004f\u0301\u0054\u0053\u0041\u0051\u0045\u000a
+
+original:T'AKÚ TÉIX'
+NFKD:T'AKÚ TÉIX'
+anyascii:T'AKU TEIX'
+metaphone:TTKTKSKSKS
+unicode string\u0054\u0027\u0041\u004b\u0055\u0301\u0020\u0054\u0045\u0301\u0049\u0058\u0027\u000a
+
+original:T'OOCH' ÁAYI
+NFKD:T'OOCH' ÁAYI
+anyascii:T'OOCH' AAYI
+metaphone:TTXX
+unicode string\u0054\u0027\u004f\u004f\u0043\u0048\u0027\u0020\u0041\u0301\u0041\u0059\u0049\u000a
+
+original:TSA-LATĹ
+NFKD:TSA-LATĹ
+anyascii:TSA-LATL
+metaphone:TSLTLL
+unicode string\u0054\u0053\u0041\u002d\u004c\u0041\u0054\u004c\u0301\u000a
+
+original:TSÚTSWECW
+NFKD:TSÚTSWECW
+anyascii:TSUTSWECW
+metaphone:TSTSK
+unicode string\u0054\u0053\u0055\u0301\u0054\u0053\u0057\u0045\u0043\u0057\u000a
+
+original:UGʷIWA'
+NFKD:UGwIWA'
+anyascii:UGwIWA'
+metaphone:AKK
+unicode string\u0055\u0047\u0077\u0049\u0057\u0041\u0027\u000a
+
+original:ẀAẀAƛ
+NFKD:ẀAẀAƛ
+anyascii:WAWAl
+metaphone:A
+unicode string\u0057\u0300\u0041\u0057\u0300\u0041\u019b\u000a
+
+original:ẀAẀAƛ
+NFKD:ẀAẀAƛ
+anyascii:WAWAl
+metaphone:A
+unicode string\u0057\u0300\u0041\u0057\u0300\u0041\u019b\u000a
+
+original:XÁAT YÁDI AANI
+NFKD:XÁAT YÁDI AANI
+anyascii:XAAT YADI AANI
+metaphone:STTN
+unicode string\u0058\u0041\u0301\u0041\u0054\u0020\u0059\u0041\u0301\u0044\u0049\u0020\u0041\u0041\u004e\u0049\u000a
+
+original:XʷAK̓ʷƏʔNAXDƏʔMA
+NFKD:XwAK̓wƏʔNAXDƏʔMA
+anyascii:XwAKwE'NAXDE'MA
+metaphone:SKKKKNKSTTTM
+unicode string\u0058\u0077\u0041\u004b\u0313\u0077\u018f\u0294\u004e\u0041\u0058\u0044\u018f\u0294\u004d\u0041\u000a
+
+original:YÁWU YAA
+NFKD:YÁWU YAA
+anyascii:YAWU YAA
+metaphone:A
+unicode string\u0059\u0041\u0301\u0057\u0055\u0020\u0059\u0041\u0041\u000a
+
+original:ʔNACINUXʷ
+NFKD:ʔNACINUXw
+anyascii:'NACINUXw
+metaphone:NSNKSKSKS
+unicode string\u0294\u004e\u0041\u0043\u0049\u004e\u0055\u0058\u0077\u000a
+
+original:
+NFKD:
+anyascii:
+metaphone:
+unicode string\u000a
+
+original:-
+NFKD:-
+anyascii:-
+metaphone:
+unicode string\u002d\u000a
+
+original:‐
+NFKD:‐
+anyascii:-
+metaphone:
+unicode string\u2010\u000a
+
+original:–
+NFKD:–
+anyascii:-
+metaphone:
+unicode string\u2013\u000a
+
+original:lək̓ʷəŋən 
+NFKD:lək̓wəŋən 
+anyascii:lekwengen 
+metaphone:LLKKKKKNN
+unicode string\u006c\u0259\u006b\u0313\u0077\u0259\u014b\u0259\u006e\u0020\u000a
+
+original:“Michael” 
+NFKD:“Michael” 
+anyascii:"Michael" 
+metaphone:MKLLL
+unicode string\u201c\u004d\u0069\u0063\u0068\u0061\u0065\u006c\u201d\u0020\u000a
+
+original:‘Michael’ 
+NFKD:‘Michael’ 
+anyascii:'Michael' 
+metaphone:MKLLL
+unicode string\u2018\u004d\u0069\u0063\u0068\u0061\u0065\u006c\u2019\u0020\u000a
+

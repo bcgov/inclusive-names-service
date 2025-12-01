@@ -1,0 +1,16 @@
+{
+  wholelegal: {pnFullNameWholeLegal:"ᐃᐧᑲᐢᐠᐊᐧ",
+          pnFirstNameWholeLegal:".",
+          pnLastNameWholeLegal:"ᐃᐧᑲᐢᐠᐊᐧ"
+          },
+  legal: {pnFullNameLegal:"Wikaskwa",
+          pnLastNameLegal:"Wikaskwa"
+        },
+  preferred:{pnFullNamePreferred:"ᐃᐧᑲᐢᐠᐊᐧ",
+          pnFirstNamePreferred:"ᐃᐧᑲᐢᐠᐊᐧ"
+          },
+  previous:{pnFullNamePrevious:"Ira Williams",
+          pnFirstNamePrevious:"Iraᐧ",
+          pnLastNamePrevious:"Williamsᐧ"
+          }
+}

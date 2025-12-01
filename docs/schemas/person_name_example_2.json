@@ -1,16 +1,24 @@
 {
 
-  legal: {fullNameLegal:"Michael Stuart David Dunham-Wilkie",
-          firstNameLegal:"Michael",
-          givenNamesLegal:"Michael Stuart David",
-          lastNameLegal:"Dunham-Wilkie",
-          middleNamesLegal:"Stuart David"
+  legal: {pnFullNameLegal:"Sandra Lee Lenius",
+          pnFirstNameLegal:"Sandra",
+          pnMiddleNamesLegal:"Lee",
+          pnLastNameLegal:"Lenius"
           },
-  preferred:{fullNamePreferred:"Mike Dunham-Wilkie",
-          firstNamePreferred:"Mike"
+  alias: {pnFullNameAlias:"Sandy Lee",
+          pnFirstNameAlias:"Sandy Lee"
           },
-  previous:{fullNamePrevious:"Michael Stuart David Wilkie",
-          firstNamePrevious:"Michael",
-          lastNamePrevious:"Wilkie"         
+  preferred:{pnFullNamePreferred:"Sandy Lee",
+          pnFirstNamePreferred:"Sandy Lee"
+          },
+  previous:{pnFullNamePrevious:"Sandra Lee Mason",
+          pnFirstNamePrevious:"Sandra",
+		  pnMiddleNamesPrevious:"Lee",
+          pnLastNamePrevious:"Mason"         
+          },
+  previous:{pnFullNamePrevious:"Alex Lee Mason",
+          pnFirstNamePrevious:"Alex",
+		  pnMiddleNamesPrevious:"Lee",
+          pnLastNamePrevious:"Mason"         
           }
 }

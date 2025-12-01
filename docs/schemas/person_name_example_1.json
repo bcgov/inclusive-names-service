@@ -1,13 +1,15 @@
 {
-  legal: {fullNameLegal:"Pesk'a At̕łi Yola",
-          firstNameLegal:"Pesk'a",
-          givenNamesLegal:"Pesk'a At̕łi",
-          lastNameLegal:"Yola",
-          middleNamesLegal:"At̕łi"
+
+  legal: {pnFullNameLegal:"Oliver Daniel van der Heide",
+          pnFirstNameLegal:"Oliver",
+          pnMiddleNamesLegal:"Daniel",
+          pnLastNameLegal:"van der Heide"
           },
-  alias: {fullNameAlias:"Atli Yola , M.D.",
-          firstNameAlias:"Atli",
-          givenNamesAlias:"Atli",
-          lastNameAlias:"Yola"         
+  alias: {pnFullNameAlias:"Ollie Vanderheide",
+          pnFirstNameAlias:"Ollie",
+          pnFirstNameAlias:"Vanderheide"
+          },
+  preferred:{pnFullNamePreferred:"Ollie",
+          pnFirstNamePreferred:"Ollie"
           }
 }
