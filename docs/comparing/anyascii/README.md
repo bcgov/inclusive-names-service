@@ -1,6 +1,6 @@
 # Representing Unicode Text Using ASCII
 
-Some systems support only [ASCII](../../glossary.md#ascii) and not Unicode. For these it is sometimes helpful to be able to create a simplified (ASCII only) version of the Unicode string in a consistent manner. The [anyASCII](www.anyascii.com) algorithm provides a mechanism for doing this. This [geeksforgeeks](https://www.geeksforgeeks.org/convert-unicode-to-ascii-in-python/) article provides some good information.
+Some systems support only [ASCII](../../glossary.md#ascii) and not Unicode. For these it is sometimes helpful to be able to create a simplified (ASCII only) version of the Unicode string in a consistent manner. The [anyASCII](https://anyascii.com) algorithm provides a mechanism for doing this. This [geeksforgeeks](https://www.geeksforgeeks.org/convert-unicode-to-ascii-in-python/) article provides some good information.
 
 ## Program Example of using AnyASCII
 
