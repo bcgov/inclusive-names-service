@@ -11,7 +11,9 @@ The diagram shows the five types of PersonName and the associated attributes of 
 
 JSON Schemas provide a way of documenting the structure and constraints of data types, such as “PersonName”. Given a PersonName instance provided as JSON text, the JSON Schema for PersonName can be used to validate that instance. 
 
-A JSON Schema for PersonName can be found [here](https://github.com/bcgov/inclusive-names-service/blob/main/docs/schemas/person_name.json). Also provided are two sample PersonName JSON data files: [person_name_example_1](https://github.com/bcgov/inclusive-names-service/blob/main/docs/schemas/person_name_example_1.json) and [person_name_example_2](https://github.com/bcgov/inclusive-names-service/blob/main/docs/schemas/person_name_example_2.json). There are utilities available for validating a JSON data file against a JSON Schema file. On such utility can be found [here](https://www.jsonschemavalidator.net/). 
+A JSON Schema for PersonName can be found [here](https://github.com/bcgov/inclusive-names-service/blob/main/docs/schemas/person_name.json). 
+Also provided are four sample PersonName JSON data files: [person_name_examples](https://github.com/bcgov/inclusive-names-service/blob/main/docs/schemas/person_name_examples)
+There are utilities available for validating a JSON data file against a JSON Schema file. On such utility can be found [here](https://www.jsonschemavalidator.net/). 
 
 
 
