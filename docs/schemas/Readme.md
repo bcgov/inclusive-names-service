@@ -1,6 +1,6 @@
 # PersonName Schema
 The following [Unified Modeling Language (UML)](https://en.wikipedia.org/wiki/Unified_Modeling_Language) diagram illustrates the structure of a PersonName, and its relationship to a person:
-![](images/PersonName_UML.jpg)
+![](images/PersonName_UML.png)
 
 The diagram shows the five types of PersonName and the associated attributes of each. Any of these names can be shared by many persons (denoted by the “1..*” above the person box). In the other direction, an individual person has:
 * Exactly one legal name (“1..1”)
