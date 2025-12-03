@@ -5,9 +5,9 @@
           pnMiddleNamesLegal:"Lee",
           pnLastNameLegal:"Lenius"
           },
-  alias: {pnFullNameAlias:"Sandy Lee",
+  alias: [{pnFullNameAlias:"Sandy Lee",
           pnFirstNameAlias:"Sandy Lee"
-          },
+          }],
   preferred:{pnFullNamePreferred:"Sandy Lee",
           pnFirstNamePreferred:"Sandy Lee"
           },
