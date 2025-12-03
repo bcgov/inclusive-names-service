@@ -11,14 +11,16 @@
   preferred:{pnFullNamePreferred:"Sandy Lee",
           pnFirstNamePreferred:"Sandy Lee"
           },
-  previous:{pnFullNamePrevious:"Sandra Lee Mason",
-          pnFirstNamePrevious:"Sandra",
-		  pnMiddleNamesPrevious:"Lee",
-          pnLastNamePrevious:"Mason"         
-          },
-  previous:{pnFullNamePrevious:"Alex Lee Mason",
-          pnFirstNamePrevious:"Alex",
-		  pnMiddleNamesPrevious:"Lee",
-          pnLastNamePrevious:"Mason"         
-          }
+  previous: [
+                    {pnFullNamePrevious:"Sandra Lee Mason",
+                    pnFirstNamePrevious:"Sandra",
+		            pnMiddleNamesPrevious:"Lee",
+                    pnLastNamePrevious:"Mason"         
+                    },
+                    {pnFullNamePrevious:"Alex Lee Mason",
+                    pnFirstNamePrevious:"Alex",
+		            pnMiddleNamesPrevious:"Lee",
+                    pnLastNamePrevious:"Mason"         
+                    }
+          ]
 }
