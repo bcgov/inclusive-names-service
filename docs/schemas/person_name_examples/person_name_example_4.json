@@ -9,8 +9,10 @@
   preferred:{pnFullNamePreferred:"ᐃᐧᑲᐢᐠᐊᐧ",
           pnFirstNamePreferred:"ᐃᐧᑲᐢᐠᐊᐧ"
           },
-  previous:{pnFullNamePrevious:"Ira Williams",
+  previous:[
+          {pnFullNamePrevious:"Ira Williams",
           pnFirstNamePrevious:"Iraᐧ",
           pnLastNamePrevious:"Williamsᐧ"
           }
+          ]
 }
