@@ -1,15 +1,15 @@
 {
 
-  legal: {pnFullNameLegal:"Sandra Lee Lenius",
-          pnFirstNameLegal:"Sandra",
-          pnMiddleNamesLegal:"Lee",
-          pnLastNameLegal:"Lenius"
+  legalWhole: {pnFullNameLegalWhole:"Sandra Lee Lenius",
+          pnFirstNameLegalWhole:"Sandra",
+          pnMiddleNamesLegalWhole:"Lee",
+          pnLastNameLegalWhole:"Lenius"
           },
   alias: [{pnFullNameAlias:"Sandy Lee",
           pnFirstNameAlias:"Sandy Lee"
           }],
-  preferred:{pnFullNamePreferred:"Sandy Lee",
-          pnFirstNamePreferred:"Sandy Lee"
+  nameUsed:{pnNameUsed:"Sandy Lee",
+          pnFirstNameUsed:"Sandy Lee"
           },
   previous: [
                     {pnFullNamePrevious:"Sandra Lee Mason",

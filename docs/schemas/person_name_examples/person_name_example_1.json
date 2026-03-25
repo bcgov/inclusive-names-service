@@ -1,15 +1,15 @@
 {
 
-  legal: {pnFullNameLegal:"Oliver Daniel van der Heide",
-          pnFirstNameLegal:"Oliver",
-          pnMiddleNamesLegal:"Daniel",
-          pnLastNameLegal:"van der Heide"
+  legalLimited: {pnFullNameLegalLimited:"Oliver Daniel van der Heide",
+          pnFirstNameLegalLimited:"Oliver",
+          pnMiddleNamesLegalLimited:"Daniel",
+          pnLastNameLegalLimited:"van der Heide"
           },
   alias: {pnFullNameAlias:"Ollie Vanderheide",
           pnFirstNameAlias:"Ollie",
           pnFirstNameAlias:"Vanderheide"
           },
-  preferred:{pnFullNamePreferred:"Ollie",
-          pnFirstNamePreferred:"Ollie"
+  nameUsed:{pnNameUsed:"Ollie Vanderheide",
+          pnFirstNameUsed:"Ollie"
           }
 }

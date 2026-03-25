@@ -1,13 +1,13 @@
 {
-  wholelegal: {pnFullNameWholeLegal:"ᐃᐧᑲᐢᐠᐊᐧ",
-          pnFirstNameWholeLegal:".",
-          pnLastNameWholeLegal:"ᐃᐧᑲᐢᐠᐊᐧ"
+  legalWhole: {pnFullNameLegalWhole:"ᐃᐧᑲᐢᐠᐊᐧ",
+          pnFirstNameLegalWhole:".",
+          pnLastNameLegalWhole:"ᐃᐧᑲᐢᐠᐊᐧ"
           },
-  legal: {pnFullNameLegal:"Wikaskwa",
-          pnLastNameLegal:"Wikaskwa"
+  legalLimited: {pnFullNameLegalLimited:"Wikaskwa",
+          pnLastNameLegalLimited:"Wikaskwa"
         },
-  preferred:{pnFullNamePreferred:"ᐃᐧᑲᐢᐠᐊᐧ",
-          pnFirstNamePreferred:"ᐃᐧᑲᐢᐠᐊᐧ"
+  nameUsed:{pnNameUsed:"ᐃᐧᑲᐢᐠᐊᐧ",
+          pnFirstNameUsed:"ᐃᐧᑲᐢᐠᐊᐧ"
           },
   previous:[
           {pnFullNamePrevious:"Ira Williams",

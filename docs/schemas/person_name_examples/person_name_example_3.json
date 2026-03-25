@@ -1,13 +1,13 @@
 {
-  wholelegal: {pnFullNameWholeLegal:"stáʔləw George",
-          pnFirstNameWholeLegal:"stáʔləw",
-          pnLastNameWholeLegal:"George"
+  legalWhole: {pnFullNameLegalWhole:"stáʔləw George",
+          pnFirstNameLegalWhole:"stáʔləw",
+          pnLastNameLegalWhole:"George"
           },
-  legal: {pnFullNameLegal:"Stahlo George",
-          pnFirstNameLegal:"Stahlo",
-          pnLastNamesLegal:"George"
+  legalLimited: {pnFullNameLegalLimited:"Stahlo George",
+          pnFirstNameLegalLimited:"Stahlo",
+          pnLastNameLegalLimited:"George"
          },
-  preferred:{pnFullNamePreferred:"stáʔləw",
-          pnFirstNamePreferred:"stáʔləw"
+  nameUsed:{pnNameUsed:"stáʔləw",
+          pnFirstNameUsed:"stáʔləw"
           }
 }
