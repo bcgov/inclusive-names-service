@@ -34,7 +34,8 @@ Existing formal and defacto naming standards do not always reflect the naming pr
 Corresponding to the PNDS is a JSON schema defining the structure of a PersonName value. This JSON schema can be used to validate instances of PersonName defined as JSON.
 
 [Tell me about it](person_name_data_standard/Readme.md)
-
+    
+	
 
 ### Some Test Data
 The following link points to a directory containing data files that have Unicode data.
