@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ![Lifecycle:Experimental](images/Lifecycle-Experimental-339999.svg)
 
 # Techniques for Supporting Indigenous Language Text in Computer Systems
