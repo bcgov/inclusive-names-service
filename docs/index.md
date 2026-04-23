@@ -29,7 +29,7 @@ Depending on how the elements are configured, IBM mainframe systems may or may n
 [Configuring mainframe systems to support Indigenous language text](mainframe_systems/Readme.md)
 
 ### Person Name Data Standard
-Existing formal and defacto naming standards do not always reflect the naming practices of Indigenous peoples. For this reason, a new **Person Name Data Standard (PNDS)** is being developed. The **PNDS** specifies how to collect, store, share, and display people’s names accurately, in a way that is respectful and allows computer systems and software to exchange and use this information effectively. It applies to all people names, whether from an Indigenous language, English, or French.
+Existing formal and defacto naming standards do not always reflect the naming practices of Indigenous peoples. For this reason, a new **Person Name Data Standard (PNDS)** is being developed. The **PNDS** specifies how to input, store, and display people’s names accurately and respectfully while considering the technology required for effective information exchange and usage. It applies to all people names, whether from an Indigenous language, English, French or any other language spoken in B.C.
 
 Corresponding to the PNDS is a JSON schema defining the structure of a PersonName value. This JSON schema can be used to validate instances of PersonName defined as JSON.
 
