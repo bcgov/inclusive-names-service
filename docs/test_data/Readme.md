@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 
 The following files can be used in testing systems for Indigenous language support:
