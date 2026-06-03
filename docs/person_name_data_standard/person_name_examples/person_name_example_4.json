@@ -4,14 +4,17 @@
           pnLastNameLegalWhole:"ᐃᐧᑲᐢᐠᐊᐧ"
           },
   legalLimited: {pnFullNameLegalLimited:"Wikaskwa",
+          pnGivenNamesLegalLimited:".",
           pnLastNameLegalLimited:"Wikaskwa"
         },
   nameUsed:{pnNameUsed:"ᐃᐧᑲᐢᐠᐊᐧ",
-          pnFirstNameUsed:"ᐃᐧᑲᐢᐠᐊᐧ"
+          pnFirstNameUsed:"ᐃᐧᑲᐢᐠᐊᐧ",
+          pnGivenNamesUsed:"ᐃᐧᑲᐢᐠᐊᐧ"
           },
   previous:[
           {pnFullNamePrevious:"Ira Williams",
           pnFirstNamePrevious:"Iraᐧ",
+          pnGivenNamesPrevious:"Iraᐧ",
           pnLastNamePrevious:"Williamsᐧ"
           }
           ]

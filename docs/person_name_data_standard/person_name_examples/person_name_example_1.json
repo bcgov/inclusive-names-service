@@ -3,11 +3,8 @@
   legalLimited: {pnFullNameLegalLimited:"Oliver Daniel van der Heide",
           pnFirstNameLegalLimited:"Oliver",
           pnMiddleNamesLegalLimited:"Daniel",
-          pnLastNameLegalLimited:"van der Heide"
-          },
-  alias: {pnFullNameAlias:"Ollie Vanderheide",
-          pnFirstNameAlias:"Ollie",
-          pnFirstNameAlias:"Vanderheide"
+          pnLastNameLegalLimited:"van der Heide",
+          pnGivenNamesLegalLimited:"van der Heide"
           },
   nameUsed:{pnNameUsed:"Ollie Vanderheide",
           pnFirstNameUsed:"Ollie"

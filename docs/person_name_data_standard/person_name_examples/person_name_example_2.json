@@ -3,7 +3,8 @@
   legalWhole: {pnFullNameLegalWhole:"Sandra Lee Lenius",
           pnFirstNameLegalWhole:"Sandra",
           pnMiddleNamesLegalWhole:"Lee",
-          pnLastNameLegalWhole:"Lenius"
+          pnLastNameLegalWhole:"Lenius",
+          pnGivenNamesLegalWhole:"Sandra Lee"
           },
   alias: [{pnFullNameAlias:"Sandy Lee",
           pnFirstNameAlias:"Sandy Lee"
@@ -15,11 +16,13 @@
                     {pnFullNamePrevious:"Sandra Lee Mason",
                     pnFirstNamePrevious:"Sandra",
 		            pnMiddleNamesPrevious:"Lee",
+		            pnGivenNamesPrevious:"Sandra Lee",
                     pnLastNamePrevious:"Mason"         
                     },
                     {pnFullNamePrevious:"Alex Lee Mason",
                     pnFirstNamePrevious:"Alex",
 		            pnMiddleNamesPrevious:"Lee",
+		            pnGivenNamesPrevious:"Alex Lee",
                     pnLastNamePrevious:"Mason"         
                     }
           ]
