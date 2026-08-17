@@ -94,4 +94,32 @@ When run, the program will produce the following output:
 
 ('.', '', 'Mike')
 
+## Person Name Forms Examples
+The following examples illustrate how to apply the Person Name Data Standard when building forms to input or display person names.
+### Legal (Whole) and Legal (Limited)
+This form illustrates the difference between two versions of a legal name - the *Whole* version (Unicode) and the *Limited* version (ASCII). It follows the recommendation in the Person Name Data Standard:
+>Many users won’t have a Legal (whole) name, the user interface should indicate that entry of data into this field should be optional.
+
+In this form, when a Legal (whole) full name is entered, code is run to split the full name into first/middle/last name component fields, using the any-ascii algorithm to produce an approximate ASCII-only version of the fields. After the fields are populated by this code, they may be further edited manually. Note that the first, middle, and last name field values are constrained as described in the text appearing below the fields.
+
+- ***FORM IS CURRENTLY UNDER DEVELOPMENT***
+
+### Full Name and Name Used
+The Person Name Data Standard states:
+>If the name type is evident based on the context, or a low level of confidence is required, then the name type can be omitted.
+
+This form illustrates how the name type is omitted for the _Full Name_ but specified for _Name Used_.
+
+- ***FORM IS CURRENTLY UNDER DEVELOPMENT***
+
+
+### Full Name or Given/Last Name or First/Middle/Last Name
+There are three combinations of components that can be used to specify a name:
+1. Using the _full name_ component
+2. Using the _given name_ (all but the last name) and _last name_ components
+3. Using the _first name_ component, the _middle names_ component, and the _last name_ component
+
+This form illustrates how to derive the last two options from the first.
+
+- ***FORM IS CURRENTLY UNDER DEVELOPMENT***
 
