@@ -102,7 +102,10 @@ This form illustrates the difference between two versions of a legal name - the 
 
 In this form, when a Legal (whole) full name is entered, code is run to split the full name into first/middle/last name component fields, using the any-ascii algorithm to produce an approximate ASCII-only version of the fields. After the fields are populated by this code, they may be further edited manually. Note that the first, middle, and last name field values are constrained as described in the text appearing below the fields.
 
-- ***FORM IS CURRENTLY UNDER DEVELOPMENT***
+https://submit.digital.gov.bc.ca/app/form/submit?f=f663f9ed-539e-4478-b0b5-9548bd10b224
+
+[JSON](https://github.com/bcgov/inclusive-names-service/blob/main/docs/person_name_data_standard/chefs_forms/legal_whole_and_legal_limited_schema.json)
+ 
 
 ### Full Name and Name Used
 The Person Name Data Standard states:
@@ -110,16 +113,25 @@ The Person Name Data Standard states:
 
 This form illustrates how the name type is omitted for the _Full Name_ but specified for _Name Used_.
 
-- ***FORM IS CURRENTLY UNDER DEVELOPMENT***
+The Name Used can be specified with any of the following combinations of person name components:
+
+1. First name/middle name/last name
+2. Given name/last name
+3. First name/last name
+4. Given name
+5. First name
+
+Once the full name is entered, the name used components will be pre-populated and can then be overridden manually.
+
+https://submit.digital.gov.bc.ca/app/form/submit?f=7764ecdf-7461-4e55-8ed6-0a950c03c982
+
+[JSON](https://github.com/bcgov/inclusive-names-service/blob/main/docs/person_name_data_standard/chefs_forms/full_name_and_name_used_schema.json)
 
 
-### Full Name or Given/Last Name or First/Middle/Last Name
-There are three combinations of components that can be used to specify a name:
-1. Using the _full name_ component
-2. Using the _given name_ (all but the last name) and _last name_ components
-3. Using the _first name_ component, the _middle names_ component, and the _last name_ component
 
-This form illustrates how to derive the last two options from the first.
+### Previous names and aliases
+This form illustrates that the person may have one or more aliases and/or previous names. The form assumes that the name type for the first field (Full name) can be implied from the context and doesn't need to be specified. The remaining fields are used to supply 0 or more full names of types "alias" and "previous".
 
-- ***FORM IS CURRENTLY UNDER DEVELOPMENT***
+https://submit.digital.gov.bc.ca/app/form/submit?f=c496ad8a-cb8b-4d0c-8886-5f7962f6de04
 
+[JSON](https://github.com/bcgov/inclusive-names-service/blob/main/docs/person_name_data_standard/chefs_forms/multiple_previous_names_aliases_schema.json)
