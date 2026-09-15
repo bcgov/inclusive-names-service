@@ -1,6 +1,6 @@
 # Person Name Data Standard
 
-The Person Name Data Standard provides technical specifications on how to input, store, and display people’s names accurately and respectfully while considering the technology required for effective information exchange and usage. 
+The [Person Name Data Standard](https://www2.gov.bc.ca/gov/content?id=0675276EF7AC41DEA9CA37E99097BF20) provides technical specifications on how to input, store, and display people’s names accurately and respectfully while considering the technology required for effective information exchange and usage. 
 
 This directory contains tools that may be useful in implementing the Standard.
 
