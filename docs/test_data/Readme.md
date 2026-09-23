@@ -31,8 +31,8 @@ usage:
 - `-m` the method to use ie GET/POST/PUT/DELETE/HEAD/OPTIONS
 - `-f` The field name to use ie name
 - `-c` The path to the csv to use, this folder has some good ones
-- `-d` (OPTIONAL) other data to send formatted as json ie '{"field1": "value1", "numberfield": 2}'
+- `-d` (OPTIONAL) other data to send formatted as json, e.g. '{"field1": "value1", "numberfield": 2}'
 - `-j` (OPTIONAL) a jwt for jwt authenticated apis
-=======
+
 
 
