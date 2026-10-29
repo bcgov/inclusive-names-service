@@ -1,5 +1,6 @@
 name: Build TechDocs with DevHub TechDocs Publish Action
-
+permissions:
+    contents: read
 on:
     workflow_dispatch:
     push:
